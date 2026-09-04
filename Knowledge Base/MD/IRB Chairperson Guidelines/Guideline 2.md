@@ -1,0 +1,498 @@
+# Chairperson Guideline 2: Detention
+
+Amended in June 2013
+Amended in February 2019
+Amended in April 2021
+
+#### 1.1.2 Canadian law regards detention as an exceptional measure. This general principle emerges from statute and case law, and is enshrined in the Canadian Charter of Rights and FreedomsFootnote2 (the Charter). International law, as reflected in the International Covenant on Civil and Political Rights, the Optional Protocol to the International Covenant on Civil and Political Rights and the Convention on the Rights of the Child, upholds the same principle.Footnote3
+
+1.1.3 The members of the IRB’s Immigration Division are required to conduct detention reviews regarding permanent residents and foreign nationals who are detained under Division 6 of Part 1 of the Immigration and Refugee Protection Act (IRPA).Footnote4 The detention reviews must be conducted in accordance with the IRPAFootnote5, the Immigration and Refugee Protection Regulations (IRPR), the Immigration Division Rules, the Charter, international law, and the jurisprudence.
+
+#### 1.1.4 This Guideline provides guidance with respect to the detention review process under the IRPA for the grounds enumerated in section 58(1).Footnote6
+
+#### 1.1.5 Under the IRPA, members of the Immigration Division must order the release of a permanent resident or a foreign national unless one of the grounds for detention is met. At a detention review, the onus is always on the MinisterFootnote7 throughout the detention review to demonstrate, on a balance of probabilities, that there are reasons which warrant detention in all circumstances of the case Footnote8 Members must ensure that the onus or legal and evidentiary burden remains on the Minister at every detention review.Footnote9 While it may be in a person’s interest to introduce evidence in favour of release, this is not a shifting of the legal burden. It is rather, descriptive of the tactical decision by the person concerned whether to lead evidence at a detention review to prevent a potentially unfavourable outcome. However, the person concerned is not required in law to lead evidence.Footnote10
+
+#### 1.1.6 Members must take into account the prescribed factors set out in Part 14 of the IRPR that relate to the grounds for detention and release.Footnote11 If a member determines that there are grounds for continued detention, there must be a consideration of “other factors”Footnote12 in section 248 of the IRPR before a decision is made on detention or release to determine whether further detention has been justified by the Minister in light of all the circumstances of the case. These factors are not exhaustive. Even when no evidence is offered by the detainee in response, the legal burden is on the Minister to make the case for detention on a balance of probabilities in respect of each of the s. 248 factors.Footnote13
+
+1.1.7 An express power in the Immigration Division to consider the nature or conditions of detention of the person concerned is not required. The Immigration Division can order release of a detainee on the grounds that the conditions of detention, on their own or in conjunction with other factors, are disproportionate and therefore contrary to the Charter.Footnote14 The consideration of conditions of detention is relevant to the consideration of proportionality and the overall legality of detention.Footnote15 Conditions of detention may be identified as relevant in a balancing of the factors under section 248 of the IRPR, even where conditions of detention do not constitute cruel and unusual treatment or punishment under s. 12 of the Charter.
+
+1.1.8 The Charter requires that a person subject to the detention review process under the IRPA is entitled to a meaningful and robust review that takes into account the context and circumstances of the individual case. Such persons must have a meaningful opportunity to challenge their detention.Footnote16 Members must consider the evidence and arguments afresh at each detention review and come to their own determinations. Members must also be aware that the evidentiary burden on the Minister to justify detention becomes heavier over time with the passing of each review.Footnote17 Particular attention must be paid to Charter considerations where detention is lengthy, where the prospect of removal has become remoteFootnote18, and/or where conditions of detention are disproportionate.
+
+1.1.9 Members have an obligation to consider sections 7, 9 and 12 of the Charter when determining whether or not detention is warranted.Footnote19 All detention and release decisions must be made with Charter considerations in mind.Footnote20 Detention and other liberty constraints (including release on conditions) must be reasonable, necessary and proportionate, in the particular circumstances of the case.
+
+1.1.10 A minor shall be detained only as a measure of last resort.Footnote21 The Convention on the Rights of the Child states that “no child shall be deprived of his or her liberty unlawfully or arbitrarily. The arrest, detention or imprisonment of a child shall be in conformity with the law and shall be used only as a measure of last resort and for the shortest appropriate period of time.”Footnote22 Members should make all efforts to ensure that an assessment of the best interests of the child is conducted by the Minister in each case, and by the member at each hearing, and that all options for alternatives to detention are canvassed before deciding to continue detention of a child or their parents or legal guardians.
+
+1.1.11 Vulnerable persons require special consideration, including making procedural accommodations for such persons so that they are not disadvantaged in presenting their cases. Members should take into account vulnerabilities when weighing evidence and determining release conditions, if any.
+
+1.1.12 The availability, effectiveness and appropriateness of alternatives to detention needs to be adequately assessed in each individual case. In cases where release from detention is ordered, conditions of release are not always required, but where they are, they should be tailored to the particular circumstances of the individual, given that they are restrictions on liberty. Conditions of release need to be proportionate with the level of risk determined and the specific risk determined. Members must ensure that the conditions imposed affect the liberty right of the person concerned as little as possible, while ensuring that their purpose is met.
+
+1.1.13 Members are subject to the standards of conduct set out in the Code of Conduct for Members of the IRB.Footnote23 The Code requires members to conduct hearings in a courteous and respectful manner while ensuring that the proceedings are fair, orderly and efficient. It also requires members to comply with procedural fairness and natural justice. Members are expected to approach each case with an open mind and, at all times, must be, and must be seen to be, impartial and objective.
+
+### 2. Grounds for detention
+
+### 2.1 General principles
+
+#### 2.1.1 The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that
+
+they are a danger to the public;
+they are unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2) (hereinafter “unlikely to appear”);
+the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security, violating human or international rights, serious criminality, criminality or organized criminality;
+the Minister is of the opinion that the identity of the foreign national — other than a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question — has not been, but may be, established and they have not reasonably cooperated with the Minister by providing relevant information for the purpose of establishing their identity or the Minister is making reasonable efforts to establish their identity; or
+the Minister is of the opinion that the identity of the foreign national who is a designated foreign national and who was 16 years of age or older on the day of the arrival that is the subject of the designation in question has not been established.
+2.1.2 Set out below are specific considerations guiding the determination of each ground.
+
+#### 2.1.3 While non-exhaustive, members must consider the prescribed factors listed in the IRPR when determining the grounds below, as well as any other relevant factors including those listed in section 248 of the IRPR. The legal burden is on the Minister to make the case for detention on a balance of probabilities in respect of each of the section 248 factors.Footnote24
+
+### 2.2 Danger to the public (Section 58(1)(a))
+
+#### 2.2.1 The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that the grounds set out in section 58(1) of the IRPA are met. Section 58(1)(a) sets out the ground of danger to the public.Footnote25 Neither the IRPA nor the case law explicitly defines the phrase “danger to the public.” This phrase relates to the objectives of the IRPA, namely, “to protect public health and safety and to maintain the security of Canadian society.”Footnote26
+
+2.2.2 Members must consider the prescribed factorsFootnote27 listed in the IRPR when determining whether the person concerned is a danger to the public, as well as any other relevant factors.
+
+2.2.3 Members must assess whether the person represents a “present and future danger to the public”. This assessment is being done under the IRPA and must be hinged to an immigration purpose. In determining future danger, the probability of danger has to be determined from the circumstances of each case.
+
+2.2.4 While danger to a single individual may be enough to justify danger to the public, it is not appropriate for a member to consider under this ground the self-harm that may occur as a result of the actions of the person concerned.
+
+2.2.1 It is often necessary for members to draw inferences from a person’s criminal record in determining whether that person poses a danger to the public. The more serious the criminal offences, the use of violence and weapons and the greater number of offences committed the more they weigh in favour of a finding of danger to the public. A member should also consider the circumstances of the offence, how much time has passed since the criminal conduct, the sentence imposed by the criminal court and any mitigating or aggravating factors at the time of the offence or since that time.
+
+2.2.6 Members must consider evidence that the person has associated with a criminal organization even if that person has no criminal convictions.
+
+2.2.7 While members are not bound to follow a determination of the Parole Board of Canada as to whether the person is a danger to the public, they should take into account the Parole Board’s evaluation of the risk posed by the person since their assessment usually takes into account recent conduct of the person.
+
+2.2.8 While members are not bound to follow determinations made in a criminal court with respect to the granting or not of bail, members should consider the court’s determinations while taking into account all the facts in the case within the immigration context.
+
+2.2.9 The Minister’s opinion that the person constitutes a danger to the publicFootnote28 is a factor to take into account at a detention review.
+
+2.2.10 Members should consider that danger to the public may dissipate over time given the passage of time since the offense and/or length of time that the person has been in detention or because evidence supporting the ground of detention has turned stale.Footnote29 Therefore members should consider whether there is ongoing danger to the public, especially for persons who have been in detention for a long period of time.
+
+2.2.11 Members should also consider the circumstances that led to the original determination of danger to the public; for example, whether those circumstances involved a heightened level of vulnerability due to addiction or mental health issues, among others, and whether those vulnerabilities have been mitigated, e.g. through treatment or rehabilitation. However, members should be cautious regarding an absence of evidence of rehabilitation, as persons in detention often do not have access to rehabilitation programs.
+
+### 2.3 Unlikely to appear (Section 58(1)(b))
+
+#### 2.3.1 The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that the grounds set out in section 58(1) of the IRPA are met. Section 58(1)(b) sets out the ground “unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under section 44(2).”Footnote30
+
+2.3.2 Members must consider the prescribed factorsFootnote31 listed in the IRPR when determining whether the person concerned is unlikely to appear, as well as any other relevant factors.
+
+2.3.3 The prescribed factors listed in section 245 of the IRPR are not exhaustive and can include the best interests of a child of the person concerned in Canada as a factor in assessing whether the person will be motivated, because of the needs of the child, to comply with conditions of release, including being present when requested for removal.
+
+2.3.4 Factors to be considered, such as previous compliance or non-compliance, or the lack or existence of strong community or family ties in Canada, should not automatically lead to a conclusion that the person concerned is unlikely to appear. Rather, they should be considered in the specific context of the case. Where a member has concerns that these facts may give rise to risk that the person concerned is unlikely to appear, these concerns should be articulated to the person concerned for a response, as they may be able to address these concerns.
+
+2.3.5 When considering previous compliance and non-compliance, members need to consider the particular circumstances in each case, including mental illness, addiction or other vulnerabilities, the severity of the non-compliance, frequency, the type of compliance and the impact of non-compliance, as well as any evidence as to how the person concerned is addressing these issues.
+
+### 2.4 Minister inquiring into security, violations of human or international rights, criminality, serious criminality or organized criminality (Section 58(1)(c))
+
+#### 2.4.1 The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that the grounds set out in section 58(1) of the IRPA are met. Section 58(1)(c) sets out as a ground that the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security, violating human or international rights, criminality, serious criminality or organized criminality.Footnote32
+
+2.4.2 It is up to the Minister to satisfy the member that the Minister is taking necessary steps to investigate their suspicion relating to security, violating human or international rights, criminality, serious criminality or organized criminality.
+
+#### 2.4.3 The question that should be answered by the member is not whether the evidence relied upon by the Minister is true or compelling, but whether that evidence is reasonably capable of supporting the Minister’s suspicion of potential inadmissibility. It is for the Minister to decide what further investigatory steps are needed. The member’s supervisory jurisdiction on this issue is limited to examining whether the proposed steps have the potential to uncover relevant evidence bearing on the Minister’s suspicion and to ensuring that the Minister is conducting an ongoing investigation in good faith and within a reasonable time.Footnote33
+
+### 2.5 Identity of foreign national not established (Section 58(1)(d))
+
+#### 2.5.1 The Immigration Division shall order the release of a foreign national unless it is satisfied, taking into account prescribed factors, that the grounds set out in section 58(1) of the IRPA are met. Section 58(1)(d) sets out as a ground that the Minister is of the opinion that the identity of the foreign national – other than a designated foreign national who was 16 years of age or older on the day of the arrival that is subject of the designation in question – has not been, but may be, established and they have not reasonably cooperated with the Minister by providing relevant information for the purpose of establishing their identity or the Minister is making reasonable efforts to establish their identity.Footnote34
+
+2.5.2 At every detention review where the Minister has indicated an opinion that the identity of the foreign national has not been established but may be, the member must assess whether the Minister is making reasonable efforts to establish identity and whether the person has reasonably cooperated with the Minister by providing relevant information for the purpose of establishing their identity. Even if the foreign national has reasonably cooperated with the Minister, the ground may be established if the Minister shows that the Minister is making reasonable efforts to establish the identity of the foreign national. Members must consider the prescribed factorsFootnote35 in the IRPR, except for minors with respect to cooperation, when determining whether the person is a foreign national whose identity has not been established.
+
+2.5.3 The obligation to establish one’s identity rests first and always with the foreign national. The Minister’s obligation is to make reasonable efforts but the determination of “reasonable efforts” may be conditioned by the efforts of the person who has an obligation to not obstruct and to cooperate and hence there must be an evaluation of the efforts on the part of both parties.Footnote36 Special consideration should be given to claimants of refugee protection, particularly with respect to the availability or possibility of obtaining identity documents or information. The member should consider whether the level of cooperation requested of the person concerned is reasonable, particularly in the context of claimants of refugee protection, minors and other vulnerable persons. Depending on the circumstances of the case, conditions of detention may be relevant to a consideration of the degree to which the person concerned is able to cooperate in establishing their identity.
+
+2.5.4 In assessing the reasonableness of the Minister’s efforts to establish identity, the member must consider not what the member thinks should have been done. Rather the focus should be on whether what the Minister has done, is doing and intends to do is rationally connected to the purpose of the provision – that the steps have the potential to uncover relevant evidence and whether the Minister is acting in good faith.Footnote37 The member should be satisfied that the Minister has provided sufficient evidence of its efforts, as well as concrete plans and time estimates.
+
+### 3. Release and alternatives to detention
+
+### 3.1 General principles
+
+#### 3.1.1 Where the member is satisfied that one or more of the above grounds exists, the member must nevertheless assess whether to release the individual or maintain detention, having regard to all of the circumstances and relevant factors, including those listed in section 248, and bearing in mind sections 7, 9 and 12 of the Charter.Footnote38
+
+3.1.2 Release with minimum conditions without a deposit or a guarantee should be the first consideration, and members should apply conditions of release as necessary to manage heightened risk. Release conditions imposed should be tailored to the specific circumstances of the case. They should be linked to risk and be effective in adequately mitigating those risk factors. The principles of proportionality and attainability must apply to every interference with or deprivation of liberty. Each condition imposed is a restriction on a person’s liberty. There should be a justification for each condition. Therefore, any condition that is imposed should have a rational connection to the circumstances of the case and the specific ground of detention. This connection should be clearly explained in the reasons for decision.
+
+3.1.3 Members must actively consider and reassess alternatives to detention (ATDs) at each review. This may include reassessing ATDs previously considered and refused at previous detention reviews if those ATDs are still available, recognizing that circumstances may change from one review to another.
+
+3.1.4 Where a member determines that an ATD is necessary or may be appropriate, each element of a proposed ATD should be weighed by the member in order to determine its overall adequacy and necessity in managing the applicable risk. Where appropriate, members are encouraged to seek clarification from the parties on details of the proposed ATD before making a decision on its suitability. This may include hearing from witnesses. A member should ensure that a person concerned be made aware of the availability of early detention reviews if a response to a concern regarding an ATD cannot be provided at the hearing.
+
+#### 3.1.5 In circumstances where detention is lengthy, the member is under a heightened obligation to consider ATDs, specifically release with appropriate conditions.Footnote39 The burden on the Minister to justify continued detention becomes heavier over time as the length of detention grows.Footnote40
+
+#### 3.1.6 The Minister must establish that there is a nexus between detention and an immigration purpose. If that is missing, detention under the IRPAis no longer possible.Footnote41
+
+#### 3.1.7 Where detention is for the purpose of removal, and there is no longer a possibility of removal, detention on this ground no longer facilitates the machinery of immigration control and the power of detention cannot be exercised.Footnote42
+
+#### 3.1.8 The member must be satisfied, on the evidence, that removal is a possibility. The possibility must be realistic, not fanciful, and not based on speculation, assumption or conjecture. It must be grounded in the evidence, not supposition, and the evidence must be detailed and case-specific enough to be credible.Footnote43
+
+#### 3.1.9 There are a number of circumstances that may impact the possibility of removal, such as the cooperation of the person concerned.Footnote44 Where the impasse in effecting removal is disputed identity and the person concerned has refused to cooperate in confirming their identity, delays in removal cannot count against the Minister. However, the member must still consider all the factors in s. 248 of the IRPR when deciding whether to continue detention or order release. Ordering detention on the basis of non-cooperation alone is contrary to sections 7 and 9 of the Charter.Footnote45
+
+#### 3.1.10 The possibility of removal may also be impacted when the receiving country either disputes the identity of the person concerned or is remiss in issuing the necessary travel documents to effect removal. Care must be taken not to attribute this impasse to the person concerned. The member must consider whether the Minister has a plan to circumvent the impasse and whether there is a real possibility that it will lead to removal.Footnote46
+
+3.1.11 Removal may also be impacted by the efforts of the Minister to effect removal. The member must consider whether the Minister has taken all reasonable steps to obtain the necessary travel documents and whether they have actively used the time between detention reviews to advance the person’s removal.Footnote47 The member must be satisfied that the Minister has acted with reasonable diligence and expeditiousness to effect removal of the person concerned. Where appropriate, members may also explore with the person concerned opportunities to help effect removal.
+
+3.1.12 The power of detention is exercised principally, but not exclusively, pending removal. The IRPA has many purposes and objectives and section 58(1) of the IRPA is one of the means by which the purposes of the IRPA are realized. Section 58 of the IRPA authorizes detention for several purposes, including pending determination of identity, pending a determination of admissibility or on the grounds of public safety.Footnote48 However, even if one of the grounds in section 58 of the IRPA is established, members must consider and weigh the factors in s. 248 of the IRPR before reaching a decision on detention.
+
+3.1.1.3 The starting requirement that there must be a nexus to an immigration purpose concerns whether continued detention can be ordered. But just because it can be ordered does not mean it should be ordered. It is at a second stage, namely whether detention should be ordered, that the proximity or remoteness of a removal date is engaged and must be considered. The length of the detention to date and the conditions of the detention are also relevant at this second stage,Footnote49 which involves consideration of the non-exhaustive section 248 factors in the IRPR.
+
+#### 3.1.14 Detention, even for valid reasons, cannot be indefiniteFootnote50. Increased diligence is required in assessing viable ATDs when detention becomes lengthy. The actual or anticipated length of detention under the IRPA is one factor to be considered at a detention review and could be determinative depending on the circumstances and other factors at issue. There may be circumstances where detention, by virtue of its duration or the conditions of detention, affects the liberty interest of the detainee so significantly that the Charter rights of the detainee are offended and release is warranted.Footnote51
+
+3.1.15 A heightened obligation to consider ATDs also applies to cases involving vulnerable persons such as persons with mental illness, minors, the elderly, individuals with diverse sexual orientation and gender identity and expressionFootnote52, survivors of torture, survivors of genocide and crimes against humanity, survivors of gender-related violence, and survivors of violence based on sexual orientation and gender identity.Footnote53 As the onus on the Minister is heightened, a member should also actively question the steps that the Minister has taken to make an ATD available in the circumstances of these cases.
+
+3.1.16 The lack of an established identity does not mean that a member may not consider ATDs.
+
+3.1.17 Canada Border Services Agency (CBSA) has implemented an ATD ProgramFootnote54, which provides them with an expanded set of tools and programs that enables them to more effectively propose release of individuals into the community, commensurate with an individual’s risk profile, while ensuring that public safety is preserved. Members should encourage CBSA to consider the availability of the ATD Program for persons concerned. However, members should also ensure that the ATDs considered are commensurate with the level of risk. In addition, members should ensure that other ATDs are canvassed, outside of the CBSA Program, that while not as comprehensive as the CBSA program may still offset risk.
+
+3.1.1.8 Parties may come to an agreement on proposed conditions of release before or during the detention review and submit the agreement to the member at the hearing. Members would ordinarily endorse release, after having reviewed the file and conducted the hearing. In the exceptional case where a member does not accept the joint submission due to concerns regarding the adequacy of release conditions, prior to issuing reasons for rejecting the joint submission and ordering continued detention, the member should give the parties notice of the member’s concerns and an opportunity to confer to see if a varied joint submission or different conditions can be presented. A member must provide a rationale for rejecting the release plan and continuing detention.
+
+3.1.19 Where a release plan is not presented, the member should encourage both parties to work jointly to develop and present acceptable release plans for future consideration. Members should also look for reasonable opportunities to review any previously unsuccessful proposed release plans presented by any party to the proceedings to determine whether such plans remain available and over time have become suitable. Members should encourage the person concerned to look at possible release plans on their own or with counsel.
+
+3.1.20 If ordering continued detention, members must indicate in their reasons the ATD options that were considered and why they are being rejected. Members should also highlight any specific elements that may be lacking to satisfy the member that the release plan appropriately addresses the risk associated to release.
+
+3.1.21 When considering release from immigration detention for a person who has been released by the Parole Board of Canada, members should take into consideration the conditions that have been imposed on the person concerned and the additional supervision that will be afforded by Correctional Service of Canada (Parole Officers). Any release conditions imposed by the member should not contradict the release conditions already imposed by the Parole Board.
+
+### 3.2 Release considerations
+
+3.2.1 Where conditions of release are imposed, they should include (1) provide an address and reside at that address; and (2) advise CBSA of a change of address prior to moving.
+
+#### 3.2.2 If deemed necessary to offset a higher level of risk, additional conditions may be imposedFootnote55, taking into account proportionality and attainability, as well as a rational connection to the circumstances of the case and specific ground of detention. Conditions may include the following:
+
+report to CBSA periodically (in person or by telephone);
+appear whenever required by CBSA, including for removal;
+a bondsperson to pay a deposit or post a guarantee for compliance with conditions;
+provide CBSA with a travel document or cooperate with CBSA in obtaining a travel document, except in the case of an asylum seeker or refugee who has not exhausted their legal remedies;
+reside with a bondsperson or other person considered capable of exercising control and influence over the person concerned;
+remain within (or outside) a particular location or geographic area;
+abide by a curfew;
+reside at community housing or a rehabilitation centre;
+not have contact with certain people (e.g., the victim of domestic abuse);
+not commit criminal offences;
+report criminal charges or convictions to CBSA;
+abide by conditions of parole or conditions imposed by a justice of the peace or criminal court;
+xnot consume alcohol, drugs or other intoxicating substances, except in accordance with a medical prescription or in the context of a rehabilitative program, to be applied only for persons with a history of addiction and non-compliance;
+make all reasonable efforts to obtain treatment for alcohol or drug abuse, mental illness or anger management;
+enroll in a community case management and supervision program;
+not possess a firearm or other weapon;
+not knowingly associate with individuals who have a criminal record;
+refrain from using a cell phone or a computer or have no functioning internet connection in the person’s residence (as an exceptional measure);
+permit entry into the person’s residence at all times by CBSA or designated personnel (as an exceptional measure); and/or
+obtain and wear an electronic bracelet to track movements (as an exceptional measure).
+### 3.3 Bondspersons
+
+3.3.1 If a member determines that a bondsperson is necessary to motivate compliance by the person, the bond should be proportionate to the identified risk.
+
+3.3.2 When a bondsperson is present and available to testify, members must hear direct evidence from the bondsperson before determining that the person is not suitable to be a bondsperson. Members cannot rely on bondsperson interviews conducted outside of the hearing room and not in the presence of members in this context. However, upon a joint release recommendation or where the Minister does not object, a member can determine that the bondsperson is acceptable without hearing direct testimony.
+
+3.3.3 If the proposed bondsperson is unavailable to provide testimony, a member should determine whether an adjournment is required or a decision should be rendered with an early detention review scheduled, depending on the duration of the lack of availability.
+
+3.3.4 Members should ensure that relevant considerations relating to the proposed bondsperson are explored at the detention review in order to assess the suitability of the person put forward.
+
+3.3.5 Members should consider how long the proposed bondsperson has known the person concerned and the nature of their relationship.
+
+3.3.6 In instances where a proposed bondsperson was aware of the person’s past immigration or criminal history and did not take steps to ensure past compliance, members must consider whether the proposed bondsperson, in their new role as bondsperson, will exercise sufficient influence to motivate the person concerned to comply with conditions of release.
+
+3.3.7 In instances where a proposed bondsperson was unaware of the person’s past immigration or criminal history, members must consider whether the proposed bondsperson, now with that knowledge, is still willing to be considered as a bondsperson and whether they will exercise sufficient influence to motivate the person concerned to comply with conditions of release.
+
+3.3.8 Members should assess whether the proposed bondsperson is reliable and whether there has been a previous failure of that bondsperson to ensure compliance with conditions of release by the person concerned, if they were acting as a bondsperson or under a similar obligation in the prior circumstances. Members should assess whether the proposed bondsperson is able to exert influence, provide supervision, and motivate the person concerned to comply with the conditions of release.
+
+3.3.9 In assessing the adequacy of the bondsperson, the factors as set out in the IRPR need to be considered and assessed against the objective of ensuring compliance by the person concerned, including the proportionality of the bond to the financial capacity of the bondsperson and the impact of forfeiture on the bondsperson.
+
+#### 3.3.10 If a bondsperson meets the eligibility requirements under section 47 of the IRPR and has been rejected at a prior detention review, members should re-consider such bondspersons when taking a fresh look at the case, keeping in mind that an increased length of detention does not transform an unsuitable bondsperson into a suitable one.Footnote56 Members should articulate their reasons to depart from past decisions regarding previously considered bondspersons.Footnote57
+
+##### 3.3.1.1 If a member determines that a bondsperson is necessary as a condition of release, it is preferable that a named bondsperson be included on the order for release, since it is usually necessary to consider the circumstances of the person putting up the deposit and their relationship to the person concerned.Footnote58
+
+3.3.12 In some instances the person concerned has no family network or friends in Canada and has been unable to present a proposal for a supervising bondsperson, which could result in a lengthier period of detention. In those circumstances members should encourage counsel for the person concerned, or the person concerned if unrepresented, to seek a suitable alternative to detention within the communityFootnote59, including a group of individuals, such as a religious community, or a community program in lieu of a bondsperson, such as organizations that work to help with housing and other supports, and organizations that help in supporting individuals with mental illness or addictions.
+
+### 3.4 Change in conditions
+
+3.4.1 An application for a change of conditions of release may be made by the Minister, the person concerned or his or her counsel. A response to the application must be received by the Division and the other party within five days. A decision will be rendered by the Immigration Division as soon as practicable and may include convocation of a hearing.
+
+3.4.2 A bondsperson may also apply to change conditions, such as a request to be removed.
+
+### 4. Minors
+
+4.1.1 Pursuant to the requirements of the Convention on the Rights of the ChildFootnote60, members must take into account the best interests of any child, whether detained under the IRPA or not, and whether housed with a parent or not, as an important consideration in any detention-related decision of the parent or guardian.
+
+4.1.2 Members must consider the prescribed factors in the IRPR when determining whether to release or continue detention, including the best interests of the child, as well as all other relevant circumstances.Footnote61 Members must only detain minors in the most exceptional circumstances, and for the shortest time possible.
+
+4.1.3 The Minister must submit its best interest of the child assessment at each detention review when it is detaining a child. The person concerned may also advance arguments regarding the best interest of a child, supported by evidence.
+
+#### 4.1.4 The best interests of a directly affected child who is under 18 years of age must be considered before making a decision on detention of another person, such as the parent of the minor. The following is a non-exhaustive list of factors that the members must consider when determining a child’s best interests with respect to detention and release of the minor and of another person, such as their parent, regardless of whether the child is detained or housed:
+
+the child’s physical, emotional and psychological well-being;
+the child’s healthcare and educational needs;
+the importance of maintaining relationships and the stability of the family environment, and the possible effect on the child of disrupting those relationships or that stability;
+the care, protection and safety needs of the child; and
+the child’s views and preferences, provided the child is capable of forming their own views or expressing their preferences, taking into consideration the child’s age and maturity.
+The level of dependence of the child on the person for whom there are grounds to detain should also be a consideration.Footnote62
+4.1.5 Members should explain in their reasons for decision how the best interests of the child were considered in the decision to detain the child or their parent or guardian.
+
+4.1.6 Early detention reviews are strongly encouraged to ensure that the file is progressing rapidly and the impacted minor is not unduly affected.
+
+4.1.7 In the extraordinary event that a minor is detained or housed, ATDs should be actively considered and continually reassessed taking into consideration all past release proposals. Conditions of release should be crafted to protect as far as possible the child’s best interests.
+
+### 5. Vulnerable persons
+
+5.1.1 Members should consider how certain vulnerabilities,Footnote63 such as mental illness, may affect the person’s ability to comply with conditions of release and whether a less restrictive alternative to detention would be viable before continuing detention.
+
+#### 5.1.2 To help enable a vulnerable person concerned to present their case before the Division, the need for procedural accommodations may arise, pursuant to the Chairperson’s Guideline 8: Procedures With Respect to Vulnerable Persons Appearing before the IRB.Footnote64
+
+5.1.3 There is no need for a person to have been declared “vulnerable” pursuant to the Vulnerable Persons Guideline in order to take account of a mental health condition or other vulnerability that is either established by the evidence or apparent in the hearing context.
+
+5.1.4 Accommodations under Guideline 8 must be considered by the member, whether requested by a party or on the member’s own initiative, wherever it is appropriate to do so.
+
+5.1.5 Such vulnerabilities should also be accounted for when assessing all of the section 248 factors in the IRPR, including when determining a person’s ability and capacity to cooperate with removal arrangements and/or identity investigations. Such vulnerabilities may be a separate and relevant factor, in addition to the section 248 factors, for considering whether to release or detain. In addition, members should consider the impact of conditions of detention on vulnerable persons, including the way in which such conditions may be particularly harsh in light of their personal circumstances or exacerbate their vulnerabilities.
+
+5.1.6 Where vulnerabilities are identified, a member is under a heightened obligation to consider ATDs and to impose attainable conditions that are connected to the circumstances of the vulnerable person concerned.
+
+5.1.7 Early detention reviews are strongly encouraged to ensure that the file is progressing rapidly and the vulnerable person concerned is not unduly affected.
+
+### 6. Designated representatives
+
+6.1.1 Members must designate a representative where the person concerned is under 18 years of age or the person is unable to appreciate the nature of the proceedings, at the earliest point at which the member becomes aware of those facts.
+
+#### 6.1.2 When determining whether a person concerned is unable to appreciate the nature of the proceedings, the member should consider the following factors:
+
+whether the person concerned can understand the reason for the proceeding and can instruct counsel;
+the person concerned’s statements and behaviour at the proceeding;
+expert evidence, if any, on the person concerned’s intellectual or physical faculties, age or mental condition; and
+whether the person concerned has had a representative designated for a proceeding in another division of the Board.
+6.1.3 In cases where a designated representative is required, members are encouraged to retain the same designated representative in all proceedings before the Immigration Division. The designated representative should be provided with all relevant documents in the Division file as soon as possible.
+
+6.1.4 Members should question the designated representative on the steps taken to assist the person concerned, for instance in retaining counsel, informing the person concerned about the various stages in the detention review process, finding suitable ATDs, including contacting potential bondspersons and gathering evidence. Members are encouraged to replace a designated representative when it is apparent that relevant and necessary steps to assist the person concerned have not been taken.
+
+### 7. Conducting the detention review – Robust hearing
+
+### 7.1 Accessible hearings
+
+7.1.1 Detention reviews are public hearings. The open court principle (i.e., hearings being open and accessible to the public and the media) supports the integrity and transparency of the Immigration Division’s proceedings. An exception to the open court principle applies for a person who has a pending proceeding before the Refugee Protection Division or the Refugee Appeal Division, or a pending application for protection to the Minister.Footnote65 The Immigration Division may hold a detention review in the absence of the public under other exceptional circumstancesFootnote66, such as for minors and other vulnerable persons, as appropriate.
+
+7.1.2 The Immigration Division shall deal with all proceedings before it as informally and quickly as the circumstances and the considerations of fairness and natural justice permit. In practice, hearings may take place at an IRB office, at an Immigration Holding Centre, in provincial or federal correctional facilities, in CBSA offices and in other facilities such as Courts. Hearings may be held in person, by videoconference and by teleconference and parties can participate from multiple locations.
+
+7.1.3 While in-person hearings are preferable, the Immigration Division’s mandate is also to deal with proceedings as informally and quickly as the circumstances permit. Members should balance these interests when determining how best to proceed with the hearing when considering the circumstances of the individual case.
+
+### 7.2 Fresh determination
+
+7.2.1 Members should ensure that at each hearing the person concerned is aware of the Division’s duty to release under section 58(1) of the IRPA unless the Minister proves, on a balance of probabilities, that there is a statutory ground for detention and that continued detention is required, with the onus resting on the Minister throughout.
+
+7.2.2 Notwithstanding that the evidentiary burden on the Minister becomes heavier over time at each subsequent reviewFootnote67, the Minister may elect to rely on having previously established the grounds for detention. However, the member is not bound to accept the previous finding of a member at the last detention review if the Minister has failed to provide reasonably available evidence to justify the detention. Each member is required to undertake their own independent assessment of the case for and against detention. This is particularly relevant in long-term detention cases, and cases involving persons concerned with vulnerabilities, especially where the Minister leads insufficient evidence to justify the ground for detention, the length of detention or its uncertain duration, or the necessity of detention rather than less restrictive liberty restraints.
+
+7.2.3 Members should explain why they have rejected the ATDs proposed and any barriers to release in their reasons for decisions when deciding to continue detention.
+
+#### 7.2.4 At each detention review the Immigration Division member must come to a fresh determination on whether the detained person should continue to be detained.Footnote68 The Minister bears an ongoing burden to prove that detention remains justified. However, previous decisions by the Immigration Division to detain the person concerned must be considered at subsequent reviews and the subsequent decision- maker must articulate their reasons for departing from previous decisions.Footnote69
+
+7.2.5 A departure from a prior decision could result from, but does not require, new evidence, a change in circumstances or new legal arguments. There is nothing in the IRPA or the IRPR that places an obligation on the person concerned to lead fresh evidence between detention reviews in order for the member to reach a different result.Footnote70 The admission of relevant new evidence, a reassessment of the prior evidence based on new arguments or on a different assessment, the proposal of an acceptable alternative to detention, vulnerabilities of the person concerned, the passage of time since the last detention review or a prolonged detention could be a valid basis for departing from a prior decision to detain.
+
+7.2.6 The credibility of the person concerned and of witnesses is often an issue at detention reviews. Where a member had the opportunity to observe the demeanor of a witness and assess credibility, the subsequent decision-maker should give a clear explanation of why the prior decision-maker’s assessment of the evidence does not justify continued detention. In addition, a reassessment of the prior evidence based on new arguments could also be a sufficient reason to depart from a prior decision to detain. The member should expressly explain in the reasons what has changed and why the previous decision is no longer applicable.
+
+### 7.3 Disclosure and evidence
+
+7.3.1 Both parties have the right to present relevant evidence at a detention review, including witnesses, and to question those witnesses. Members should ensure that the person concerned understands and has an opportunity to testify, present evidence and counter the Minister’s evidence, including by presenting their own sworn testimony, calling witnesses, and/or cross-examining the Minister’s witnesses.
+
+#### 7.3.2 To be meaningful, the disclosure obligation on the Minister cannot be limited to information on which the Minister intends to rely. All information and documents relevant to the particular circumstances of the particular detainee must be disclosed by the Minister, whether or not they intend to rely on it, and including information that is only to the advantage of the detainee.Footnote71
+
+#### 7.3.3 Examples of the type of relevant informationFootnote72 that the Minister is required to disclose to the person concerned are:
+
+- Information relating to the grounds for the detention
+- Information pertaining to the section 248 criteria
+- Information relating to an immigration nexus
+- Evidence concerning the likelihood of removal
+- Evidence the Minister relies on that removal remains a possibility
+- Evidence of communications with a receiving country.
+- 7.3.4 The Minister is expected to provide the person concerned with timely disclosure of all relevant information in advance of the hearing. If relevant information has not been provided to the person concerned in a timely manner, the member should order the Minister to provide the disclosure.Footnote73
+
+7.3.5 The Minister cannot rely on a document they refuse or fail to disclose. Furthermore, evidence from the enforcement officer should be in the form of either a statutory declaration to be disclosed before the hearing or oral testimony. The type of evidence provided affects the weight to be afforded by the member. It is more appropriate for the Minister to present information when the primary source of the information has not been made available to the parties, unless the primary source of information is not compellable (e.g., a consular official).
+
+7.3.6 Members must ensure that the parties have provided each other with reasonable notice of the evidence or information that will be relied upon at the detention review. Members must consider any request to summon the enforcement officer to provide testimony at the detention review.Footnote74 Members should summon an enforcement officer on their own initiative if they believe that this would be likely to address important gaps in the evidentiary record, in particular where the person concerned is self-represented.
+
+7.3.7 In circumstances where the Minister’s counsel cannot answer questions posed by the member at the hearing, the member is encouraged to adjourn to allow the source of the information, such as a CBSA enforcement officer , to attend the hearing to answer questions or, where impractical or impossible for a timely decision, for the Minister’s counsel to obtain the information requested. In that event an early detention review may be scheduled as soon as possible.
+
+7.3.8 Where the Minister is unable to provide the information requested, the member must carefully consider whether the Minister has discharged its onus to justify continued detention.
+
+#### 7.3.9 The member should play an active role in ensuring they have a sufficient evidentiary record upon which to base their decision, in particular where the person concerned is unrepresented. This may include but is not limited to:
+
+active questioning to address any factual gaps, including whether there is a directly affected child;
+giving notice of concerns to the person concerned in plain language and providing an opportunity for a response;
+testing the Minister’s representations through active and, where necessary, probing questions to assess their evidentiary basis; and/or
+insisting upon testimony from others with more direct knowledge of the case (for example, enforcement officers) where important questions remain after questioning of the Minister’s counsel and the person concerned.
+7.3.10 The member must look at the entire detention history of the person concerned as it forms part of the evidence at a detention review. Section 248 of the IRPR requires the member to consider the length of time in detention which mandates a consideration of the entire history presented at previous reviews.
+
+### 8. Sufficiency of reasons for decision
+
+8.1.1 At the beginning of their reasons for decision, members should briefly set out the persons’ name, the initial date of detention and its purpose, and the grounds that the Minister is relying on for continued detention. The member should also state whether it is a private or public hearing, if there is a designated representative and if the person concerned is a minor or has been identified as a vulnerable person.
+
+8.1.2 Members should mention in their reasons for decision the most important evidence adduced at the detention review and how that evidence relates to the findings made in the reasons. All decisions must be grounded in the established factual record.
+
+8.1.3 While members are not required in their reasons for decision to deal with every matter or issue raised by the parties at a detention review, the reasons for decision should adequately explain the basis of their decisions, including any ATDs proposed, and why a particular alternative to detention has been accepted or rejected.
+
+8.1.4 Reasons for decision should be sufficiently detailed to allow the reader to know what grounds and factors the member relied on in support of their decision to order continued detention or release, including the reasons for departing from previous decisions. The reasons should also explain possible ATDs and any barriers to release which, in the members opinion, must be overcome by the person concerned prior to release.
+
+### 9. Statutory timeframes
+
+9.1.1 The timing of detention reviews must reflect the statutory scheme as set out in the IRPA as closely as possible. While the member has some discretion to postpone or adjourn a detention review or reserve a decision with respect to the issue of detention, that discretion should be exercised very cautiously. Generally, the detention review should be concluded on the same day that it begins. There is an obligation on the member to conduct a detention review and deliver a decision within the timeframes stated in the IRPA.
+
+9.1.2 The member may conduct a detention review outside the timeframes set out in the IRPA in limited circumstances to ensure a fair hearing. For example, a member may exercise discretion to vary the timeframes when an interpreter is not available until the day after the scheduled detention review, where counsel asks for an additional day to prepare in cases involving voluminous and complicated evidence, or where a bondsperson or another witness, such as an enforcement officer, is not available. Any variation in the timeframes, however, should be strictly limited to the time needed to conduct a fair hearing.
+
+9.1.3 In very limited circumstances it may be difficult for a member to give a decision within the statutory timeframes, such as following the receipt of voluminous evidence or extensive submissions by the parties or where the member is departing from previous decisions on a long-term detention. The member may reserve the decision for a brief period of time, as necessary, to consider the evidence and submissions.
+
+9.1.4 A party may apply for an early detention review, before the expiry of the seven- day or thirty-day period, if there are new facts that would justify an early review of detention.Footnote75 Examples in which an early detention review may be granted are ATDs to be presented, including the existence of a bondsperson or the acceptance into a program, a change in the circumstances surrounding removal efforts and satisfaction of identity.
+
+9.1.5 If the Federal Court has ordered a stay of a previous release order and has not made any order as to whether or not the Immigration Division should continue to conduct detention reviews pending the outcome of the leave application and judicial review, the Immigration Division should conduct detention reviews according to the timeframes in the IRPA, while taking into account the order of the Federal Court.
+
+### 10. Enquiries
+
+For information, contact: IRB.Engagement.CISR@irb-cisr.gc.ca
+
+Or
+
+- Senior Director, Policy, Engagement, and Parliamentary Affairs Directorate
+- Strategic Directions and Corporate Affairs Branch
+- Minto Place – Canada Building
+- 344 Slater Street, 12th floor
+- Ottawa, Ontario K1A 0K1
+
+- Approval
+- Richard Wex,
+- Chairperson
+- Date: April 29, 2021
+
+- Annex A – Immigration and Refugee Protection Act
+- Release — Immigration Division
+- 58 (1) The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that
+
+they are a danger to the public;
+they are unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2);
+the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security, violating human or international rights, serious criminality, criminality or organized criminality;
+the Minister is of the opinion that the identity of the foreign national — other than a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question — has not been, but may be, established and they have not reasonably cooperated with the Minister by providing relevant information for the purpose of establishing their identity or the Minister is making reasonable efforts to establish their identity; or
+the Minister is of the opinion that the identity of the foreign national who is a designated foreign national and who was 16 years of age or older on the day of the arrival that is the subject of the designation in question has not been established.
+Continued detention — designated foreign national
+(1.1) Despite subsection (1), on the conclusion of a review under subsection 57.1(1), the Immigration Division shall order the continued detention of the designated foreign national if it is satisfied that any of the grounds described in paragraphs (1)(a) to (c) and (e) exist, and it may not consider any other factors.
+
+Detention — Immigration Division
+(2) The Immigration Division may order the detention of a permanent resident or a foreign national if it is satisfied that the permanent resident or the foreign national is the subject of an examination or an admissibility hearing or is subject to a removal order and that the permanent resident or the foreign national is a danger to the public or is unlikely to appear for examination, an admissibility hearing or removal from Canada.
+
+- Conditions
+- (3) If the Immigration Division orders the release of a permanent resident or a foreign national, it may impose any conditions that it considers necessary, including the payment of a deposit or the posting of a guarantee for compliance with the conditions.
+
+Conditions — designated foreign national
+(4) If the Immigration Division orders the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, it shall also impose any condition that is prescribed.
+
+Conditions — inadmissibility on grounds of security
+(5) If the Immigration Division orders the release of a permanent resident or foreign national who is the subject of either a report on inadmissibility on grounds of security that is referred to the Immigration Division or a removal order for inadmissibility on grounds of security, it shall also impose the prescribed conditions on the person.
+
+- Duration of conditions
+- (6) The prescribed conditions imposed under subsection (5) cease to apply only when one of the events described in paragraphs 44(5)(a) to (e) occurs.
+
+Release — on request
+58.1 (1) The Minister may, on request of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, order their release from detention if, in the Minister’s opinion, exceptional circumstances exist that warrant the release.
+
+Release — Minister’s own initiative
+(2) The Minister may, on the Minister’s own initiative, order the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question if, in the Minister’s opinion, the reasons for the detention no longer exist.
+
+- Conditions
+- (3) If the Minister orders the release of a designated foreign national, the Minister may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that he or she considers necessary.
+
+Conditions — inadmissibility on grounds of security
+(4) If the Minister orders the release of a designated foreign national who is the subject of either a report on inadmissibility on grounds of security that is referred to the Immigration Division or a removal order for inadmissibility on grounds of security, the Minister must also impose the prescribed conditions on the person.
+
+- Duration of conditions
+- (5) The prescribed conditions imposed under subsection (4) cease to apply only when one of the events described in paragraphs 44(5)(a) to (e) occurs.
+
+- Annex B – Immigration and Refugee Protection Regulations
+- Detention and Release
+- Factors to be considered
+- 244 For the purposes of Division 6 of Part 1 of the Act, the factors set out in this Part shall be taken into consideration when assessing whether a person
+
+- is unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2) of the Act;
+- is a danger to the public; or
+- is a foreign national whose identity has not been established.
+- Flight risk
+- 245 For the purposes of paragraph 244(a), the factors are the following:
+
+- being a fugitive from justice in a foreign jurisdiction in relation to an offence that, if committed in Canada, would constitute an offence under an Act of Parliament;
+- voluntary compliance with any previous departure order;
+- voluntary compliance with any previously required appearance at an immigration or criminal proceeding;
+- previous compliance with any conditions imposed in respect of entry, release or a stay of removal;
+- any previous avoidance of examination or escape from custody, or any previous attempt to do so;
+- involvement with a people smuggling or trafficking in persons operation that would likely lead the person to not appear for a measure referred to in paragraph 244(a) or to be vulnerable to being influenced or coerced by an organization involved in such an operation to not appear for such a measure; and
+- the existence of strong ties to a community in Canada.
+- Danger to the public
+- 246 For the purposes of paragraph 244(b), the factors are the following:
+
+the fact that the person constitutes, in the opinion of the Minister, a danger to the public in Canada or a danger to the security of Canada under paragraph 101(2)(b), subparagraph 113(d)(i) or (ii) or paragraph 115(2)(a) or (b) of the Act;
+association with a criminal organization within the meaning of subsection 121(2) of the Act;
+engagement in people smuggling or trafficking in persons;
+conviction in Canada under an Act of Parliament for
+a sexual offence, or
+an offence involving violence or weapons;
+conviction for an offence in Canada under any of the following provisions of the Controlled Drugs and Substances Act, namely,
+section 5 (trafficking),
+section 6 (importing and exporting), and
+section 7 (production);
+conviction outside Canada, or the existence of pending charges outside Canada, for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament for
+a sexual offence, or
+an offence involving violence or weapons;
+conviction outside Canada, or the existence of pending charges outside Canada, for an offence that, if committed in Canada, would constitute an offence under any of the following provisions of the Controlled Drugs and Substances Act, namely,
+section 5 (trafficking),
+section 6 (importing and exporting), and
+section 7 (production);
+conviction for an offence in Canada under any of the following provisions of the Cannabis Act, namely,
+section 9 (distribution),
+section 10 (selling),
+section 11 (importing and exporting), and
+section 12 (production); and
+conviction outside Canada, or the existence of pending charges outside Canada, for an offence that, if committed in Canada, would constitute an offence under any of the following provisions of the Cannabis Act, namely,
+section 9 (distribution),
+section 10 (selling),
+section 11 (importing and exporting), and
+section 12 (production).
+Identity not established
+## 247 (1) For the purposes of paragraph 244(c), the factors are the following:
+
+the foreign national’s cooperation in providing evidence of their identity or assisting the Department or the Canada Border Services Agency in obtaining evidence of their identity, in providing the date and place of their birth as well as the names of their mother and father, in providing detailed information on the itinerary they followed in travelling to Canada or in completing an application for a travel document;
+in the case of a foreign national who makes a claim for refugee protection, the possibility of obtaining identity documents or information without divulging personal information to government officials of their country of nationality or, if there is no country of nationality, their country of former habitual residence;
+the foreign national’s destruction of their identity or travel documents, or the use of fraudulent documents by the foreign national in order to mislead the Department or the Canada Border Services Agency, and the circumstances under which the foreign national acted;
+the provision of contradictory information by the foreign national with respect to their identity during the processing of an application by the Department or the Canada Border Services Agency; and
+the existence of documents that contradict information provided by the foreign national with respect to their identity.
+Non-application to minors
+(2) Consideration of the factors set out in paragraph (1)(a) shall not have an adverse impact with respect to minor children referred to in section 249.
+
+- Other factors
+- 248 If it is determined that there are grounds for detention, the following factors shall be considered before a decision is made on detention or release:
+
+- the reason for detention;
+- the length of time in detention;
+- whether there are any elements that can assist in determining the length of time that detention is likely to continue and, if so, that length of time;
+- any unexplained delays or unexplained lack of diligence caused by the Department, the Canada Border Services Agency or the person concerned; and
+- the existence of alternatives to detention: and
+- the best interests of a directly affected child who is under 18 years of age.
+- Best interests of the child
+- 248.1 (1) For the purpose of paragraph 248(f) and for the application, in respect of children who are under 18 years of age, of the principle affirmed in section 60 of the Act, that a minor child shall be detained only as a measure of last resort, the following factors must be considered when determining the best interests of the child:
+
+the child’s physical, emotional and psychological well-being;
+the child’s healthcare and educational needs;
+the importance of maintaining relationships and the stability of the family environment, and the possible effect on the child of disrupting those relationships or that stability;
+the care, protection and safety needs of the child; and
+the child’s views and preferences, provided the child is capable of forming their own views or expressing their preferences, taking into consideration the child’s age and maturity.
+Degree of dependence
+(2) For the purpose of paragraph 248(f), the level of dependency of the child on the person for whom there are grounds to detain shall also be considered when determining the best interests of the child.
+
+Special considerations for minor children
+## 249 For the application of the principle affirmed in section 60 of the Act that a minor child shall be detained only as a measure of last resort, the special considerations that apply in relation to the detention of minor children who are less than 18 years of age are
+
+the availability of alternative arrangements with local child-care agencies or child protection services for the care and protection of the minor children;
+the anticipated length of detention;
+the risk of continued control by the human smugglers or traffickers who brought the children to Canada;
+the type of detention facility envisaged and the conditions of detention;
+the availability of accommodation that allows for the segregation of the minor children from adult detainees who are not the parent of or the adult legally responsible for the detained minor children; and
+the availability of services in the detention facility, including education, counselling and recreation.
+Applications for travel documents
+250 If a completed application for a passport or travel document must be provided as a condition of release from detention, any completed application provided by a foreign national who makes a claim for refugee protection shall not be divulged to government officials of their country of nationality or, if there is no country of nationality, their country of previous habitual residence, as long as the removal order to which the foreign national is subject is not enforceable.
+
+- Prescribed conditions
+- Inadmissibility on grounds of security — conditions
+- 250.1 For the purposes of subsections 44(4), 56(3), 58(5), 58.1(4), 77.1(1) and 82(6) of the Act, the conditions that must be imposed on a foreign national or permanent resident are the following:
+
+to inform the Canada Border Services Agency in writing of their address and, in advance, of any change in that address;
+to inform the Canada Border Services Agency in writing of their employer’s name and the address of their place of employment and, in advance, of any change in that information;
+unless they are otherwise required to report to the Canada Border Services Agency because of a condition imposed under subsection 44(3), 56(1), 58(3) or 58.1(3) or paragraph 82(5)(b) of the Act, to report once each month to the Agency;
+to present themselves at the time and place that an officer, the Immigration Division, the Minister or the Federal Court requires them to appear to comply with any obligation imposed on them under the Act;
+to produce to the Canada Border Services Agency without delay the original of any passport and travel and identity documents that they hold, or that they obtain, in order to permit the Agency to make copies of those documents;
+if a removal order made against them comes into force, to surrender to the Canada Border Services Agency without delay any passport and travel document that they hold;
+if a removal order made against them comes into force and they do not hold a document that is required to remove them from Canada, to take without delay any action that is necessary to ensure that the document is provided to the Canada Border Services Agency, such as by producing an application or producing evidence verifying their identity;
+to not commit an offence under an Act of Parliament or an offence that, if committed in Canada, would constitute an offence under an Act of Parliament;
+if they are charged with an offence under an Act of Parliament or an offence that, if committed in Canada, would constitute an offence under an Act of Parliament, to inform the Canada Border Services Agency of that charge in writing and without delay;
+if they are convicted of an offence under an Act of Parliament or an offence that, if committed in Canada, would constitute an offence under an Act of Parliament, to inform the Canada Border Services Agency of that conviction in writing and without delay; and
+if they intend to leave Canada, to inform the Canada Border Services Agency in writing of the date on which they intend to leave Canada.

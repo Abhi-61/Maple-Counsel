@@ -1,0 +1,384 @@
+# Chairperson’s Guideline 8: Accessibility to IRB Proceedings — Procedural Accommodations and Substantive Considerations
+
+*Effective date: October 31, 2023*
+
+*(Short title: Guideline on Accessibility)*
+
+### 1. Purpose
+
+### 1.1 The objective of this Guideline is to enhance access to justice at the Immigration and Refugee Board of Canada (IRB or the Board) by providing guidance on:
+
+granting procedural accommodations (or “accommodations”), including:
+identifying when accommodations are legally required.
+encouraging the IRB to provide accommodations when doing so would assist an individual even if there is no legal requirement to do so.
+identifying when supporting documentation may be needed.
+situations where a person's disability, vulnerabilityFootnote1, and/or personal characteristics may be relevant to the assessment of the merits of the case.
+the use of appropriate language; avoiding myths and stereotypes; the principles of trauma-informed adjudication and intersectionality; and the protection of confidential information.
+### 1.2 This Guideline replaces Guideline 8 – Procedures with Respect to Vulnerable Persons Appearing Before the IRB (Amended December 15, 2012). Notably, this Guideline:
+
+removes the need to designate and consequently labelFootnote2 an individual as a “vulnerable person”.Footnote3
+removes the requirement for an individual to establish that their ability to present their case before the IRB is “severely impaired”.Footnote4
+1.3 This Guideline assists members in carrying out their duties to conduct fair hearings and render well-reasoned decisions. It does not change the legal requirements set out in legislation and case law.
+
+### 2. Application
+
+2.1 This Guideline applies to all Divisions of the IRB. These are: the Refugee Protection Division (RPD), the Refugee Appeal Division (RAD), the Immigration Division (ID), and the Immigration Appeal Division (IAD).
+
+2.2 This Guideline is to be applied by members and other IRB personnel involved in the adjudication or early resolution of cases at the IRB (“members and adjudicative staff”).
+
+2.3 Where more than one Chairperson's Guideline applies, this Guideline is to be applied together with other Chairperson's Guidelines as appropriate.
+
+## Part I – Principles applicable to all proceedings
+
+### 3. Use of appropriate language
+
+### 3.1 There is no standard terminology that adequately captures the diversity of the individuals who may benefit from the application of this Guideline. Members should not assume that individuals appearing before the IRB will use the terms contained in this Guideline to describe their individual circumstances. Culture and worldview can impact how individuals interpret personal topics which can affect how they describe their experiences.Footnote5
+
+### 3.2 Members should use the same terminology used by the person appearing before them to respect the person's choice to describe their own experience. For example, a person may use “person-first” language to describe themselves, while others may use “identity-first” language. An example of person-first language would be to describe someone as “a person living with schizophrenia”. An example of identity-first language would be to describe someone as “a deaf person”.Footnote6
+
+3.3 Similarly, individuals appearing before the Board may describe their experiences of trauma in different ways. For example, a person may refer to themselves as a “victim” or a “survivor”, while others may not use either of these terms.
+
+### 4. Myths, stereotypes and incorrect assumptions
+
+4.1 Direct and indirect reliance on myths, stereotypes, and incorrect assumptions relating to vulnerabilities, disabilities, and/or personal characteristics can adversely impact the adjudication process.
+
+4.2 Members should avoid the application of such myths, stereotypes, and incorrect assumptions when questioning witnesses and when making findings of mixed fact and law, with particular attention to credibility findings. All participants in IRB proceedings should avoid the application of such myths, stereotypes, and incorrect assumptions when questioning witnesses and making submissions.
+
+### 4.3 Examples of myths, stereotypes, and incorrect assumptions relating to vulnerabilities, disabilities, and personal characteristics include:
+
+- A person with a disability is inherently vulnerable.Footnote7
+- A person with a disability will always require accommodation.
+- Disabilities and vulnerabilities are always visible or apparent.Footnote8
+- Physical disability necessarily has some bearing on intellectual ability.Footnote9
+- Communication impairment is a reflection of cognitive impairment.
+- Vulnerability in some situations means a person is vulnerable in all situations.Footnote10
+- A person with a mental health condition, intellectual disability, or substance use disorder will necessarily seek out access to care and/or support in the country of origin or in Canada.Footnote11
+- A person with an invisible disability would have necessarily disclosed it to their family members or acquaintances.Footnote12
+- The testimony of a person who lives with a mental health condition is necessarily unreliableFootnote13 or incoherent.
+- All persons will react to traumatic events in a similar way.Footnote14
+- 5. Trauma-informed adjudication
+- 5.1 Definition of trauma
+- 5.1.1 Trauma is both the experience of, and response to, an overwhelmingly negative event or series of events, including violence.Footnote15 Trauma is experienced by an individual as physically or emotionally harmful or life threatening and that has lasting adverse effects on the individual's functioning and well-being.Footnote16
+
+#### 5.1.2 Trauma may completely overwhelm an individual's ability to cope with, or integrate the ideas and emotions involved in that experience. A traumatic event can elicit intense feelings of fear, terror, helplessness, hopelessness, and despair often subjectively experienced as a threat to the person's survival.Footnote17
+
+### 5.2 Principles of trauma-informed adjudication
+
+5.2.1 Where the impact of trauma creates barriers to access to justice, the IRB is committed to removing these barriers.
+
+#### 5.2.2 Members and adjudicative staff should apply trauma-informed adjudication principles to cases where trauma impacts a person's ability to fully participate in the proceedings. This includes situations where trauma:
+
+- is disclosed,
+- clearly arises from the record, or
+- becomes apparent during the course of the proceeding.Footnote18
+- 5.2.3 The following principles should be applied by all those engaged in the
+- adjudication process:
+
+lead the proceeding with sensitivity to help prevent re-traumatization through the IRB decision-making process;
+anticipate the possibility that trauma may impact a person's memory and ability to provide testimonyFootnote19; and
+create a safe adjudicative environment for all participants to facilitate the giving of testimony.
+#### 5.2.4 Trauma-informed adjudication is a form of a trauma-informed approach that is specifically tailored to adjudicative processes. The principles of trauma-informed adjudication should not be interpreted or applied in a way that infringes on the independence of members or the Board. These principles also cannot infringe on the procedural fairness the IRB equally owes to all parties to a proceeding.Footnote20
+
+### 5.3 Facilitating participation in a proceeding
+
+#### 5.3.1 Members should respond to the individual's verbal cues and body language in a way that creates a safe space to facilitate the giving of testimony. This can be achieved through rapport-building, explaining the context of questioning, and timing breaks responsively. A calm and sensitive approach can enhance the flow of communication, build trust, and assist in the recollection of details.Footnote21
+
+#### 5.3.2 Members should conduct the hearing and their questioning in a trauma-informed manner.Footnote22 Members should, to the extent possible, prevent individuals from becoming traumatized or re-traumatized by the hearing process. For example, members should avoid any line of questioning at a hearing, or reasoning in a decision, that suggests that a person is responsible for the trauma that they suffered.Footnote23
+
+5.3.3 In some cases, it may not be necessary for the individual to testify about past trauma when sufficiently credible documentary evidence has been submitted in support of the allegations.Footnote24 Alternatively, where there are serious credibility concerns, it may be necessary for the member to question the individual about difficult matters that could relate to trauma. It is appropriate for members to do this, but they must be conscious of the trauma-informed adjudication principles set out in this Guideline.
+
+#### 5.3.4 Members should avoid asking the person to speculate about matters of which they have no knowledge. For example, a person may not be aware of the motives or methods of the agent of harm.Footnote25
+
+### 6. Intersectionality
+
+### 6.1 Intersectionality is a framework for understanding how multiple identity factors including, but not limited to gender, disability, race, religion, indigenous identity, age, or sexual orientation may interact to create distinct and compounded forms of discrimination, mistreatment or marginalization. Applying intersectional frameworks has become an important analytical tool in a wide variety of policy and adjudicative contexts and is already in use at the Board.Footnote26
+
+6.2 An intersectional approach takes into account the historical, social and political context of the individual's unique experience and recognizes that such experience is based on the intersection of all relevant factors.
+
+6.3 Members should apply an intersectional approach in all proceedings to which this Guideline applies, based on the evidence of the proceeding.Footnote27 Therefore, members should consider how an individual may face distinct forms of harm, risk, or vulnerability based on their identity factors and lived experience. For example, an intersectional approach would consider how an elderly, person with a disability who also belongs to a racial or ethnic minority may have faced distinct forms of discrimination based on the intersection of the person’s age, disability, and race or ethnicity.
+
+### 6.4 There is no single type of marginalization or discrimination for all those who share a common identity factor, although patterns may emerge from the experiences of similarly situated individuals.Footnote28
+
+### 7. Protection of confidential information
+
+7.1 In all IRB proceedings, members have a responsibility to consider the privacy interests of individuals, which may include sensitive information regarding an individual's vulnerability, disability and/or personal characteristics.
+
+7.2 While proceedings before the RPD and the RAD are private, proceedings at the ID and the IAD are generally public. This means that, in accordance with the open court principle, sensitive information, including information about an individual's disability and/or vulnerability, may be accessible to the public.Footnote29 Additionally, even though proceedings before the RPD and the RAD are private, if a case is before the Federal Court for judicial review, the information in the Federal Court file pertaining to the case becomes publicly accessible.
+
+### 7.3 As a result, upon request by the parties or at the initiative of members, additional safeguards for the protection of sensitive information related to a disability and/or vulnerability may be considered. Members may, pursuant to s. 166 of the Immigration and Refugee Protection Act, S.C. 2001, c. 27 (IRPA), order that particularly sensitive information be treated as confidential where the factors under s. 166 have been met.Footnote30
+
+### 7.4 Members should select or craft the confidentiality measure so that it is minimally restrictive to the open court principle for public proceedings.Footnote31
+
+### 7.5 In all cases, whether or not a confidentiality measure has been put into place, in drafting reasons for decision, members should, wherever possible, avoid the use of personal or sensitive information that is not necessary to explain the reasoning in the decision.Footnote32
+
+## Part II – Guidance applicable to procedural accommodations
+
+### 8. Guiding principle
+
+8.1 Members are encouraged to provide accommodations and eliminate barriers individuals face to participating in the proceedingsFootnote33 by working with all parties and participants to develop solutions on a case-by-case basis.
+
+### 9. Individuals who may request accommodations
+
+9.1 Anyone participating in a proceeding at the IRB can make a request for accommodation.
+
+9.2 Although most individuals will not need to request procedural accommodations to ensure they are treated fairly by the Board, standard processes may create barriers which result in unfairness. Fairness may mean treating people differently based on their individual needs and circumstances.
+
+### 9.3 The IRB must provide reasonableFootnote34 accommodations:
+
+- to individuals requiring such accommodation taking into account any disability,Footnote35 vulnerability or personal characteristics, whether identified in the Canadian Human Rights Act (CHRA)Footnote36 or not. This may include but is not limited to:
+- disability including physical, cognitive, or sensory differences, mental illness, or alcohol or substance use disorders,
+- neurodiversity,
+- low literacy,
+- age, such as minors and the elderly,
+- sexual orientation, gender identity and expression, and sex characteristics,
+- past or continuing trauma including survivors of torture, genocide and crimes against humanity, and gender-related violence.
+- where necessary to ensure the fairness of the proceedings.
+- 9.4 Individuals may require accommodation due to one or more personal characteristics, disabilities and/or vulnerabilities, or their combined effect.Footnote37
+
+### 9.5 Members and adjudicative staff are encouraged to provide procedural accommodations to assist an individual, even when there is no legal requirement to do so, as long as doing so would not negatively impactFootnote38 the IRB or the procedural fairness rights of another party.Footnote39
+
+### 10. Procedural accommodations
+
+### 10.1 Accommodations should be personalized as much as reasonably possible, taking into account the nature and extent of an individual's needs, and recognizing that these needs may fluctuate over the course of the proceeding.Footnote40
+
+### 10.2 The IRB may accommodate a person's disability, vulnerability and/or personal characteristics by various means, including, but not limited to:
+
+providing priority scheduling where appropriate, for example where uncertainty and delay may cause increased anxiety that is particularly detrimental to the individual as a result of a disability, vulnerability and/or personal characteristic, or where the individual is in detention.Footnote41
+allowing for alternative scheduling of a hearing where appropriate, for example a full day or several half days or at a particular time of day.Footnote42
+allowing a support person (for example, family member, friend, social worker, counsellor) to accompany an individual in a proceeding.
+creating a more informal setting for a hearing.Footnote43
+varying the order of questioning.
+offering breaks during the proceedings (including informing the individual that they can request it).
+excluding non-parties from the hearing.Footnote44
+providing a panel and/or interpreter of a particular gender.
+when asking about sensitive matters, using techniques to mitigate the person's distress or allowing testimony by other means.
+allowing the use of live transcription and/or a virtual chat function, for example, for a deaf person or a person with hearing loss.
+permitting the individual to move during the proceeding if necessary for their health condition.
+explaining IRB processes to the individual in plain language.
+holding a pre-hearing conference to discuss any potential triggers related to trauma identified by counsel or the individual and potential alternative ways of eliciting testimony.
+delivering decisions and reasons for decisions as soon as possible,Footnote45 for example where uncertainty and delay may cause increased anxiety that is particularly detrimental to the individual as a result of a disability, vulnerability and/or personal characteristic, or where the individual is in detention.
+allowing for alternative delivery of a decision and reasons.Footnote46
+allowing any other procedural accommodations that may be reasonable in the circumstances.
+### 10.3 Designated representatives
+
+#### 10.3.1 The need for accommodation is distinct from the need for a designated representative (DR). Accommodations may be granted in circumstances where the appointment of a designated representative is not required.Footnote47
+
+10.3.2 The appointment of a designated representative does not, however, preclude the need for accommodations. Designated representatives are expected to determine whether the person they represent requires accommodation, and if needed, request such accommodation as soon as possible.
+
+### 11. Early identification
+
+11.1 While accommodations may be provided at any point in a proceeding, they should be granted at the earliest possible opportunity, and where possible, well before an appearance before the Board.
+
+11.2 Counsel and DRs are in the best position to bring the need for accommodation to the attention of the IRB and are expected to do so as soon as possible.Footnote48 Similarly, unrepresented individuals may also be best placed to do the same and are encouraged to do so as well.
+
+11.3 If counsel for the Minister is aware of facts indicating that a person may benefit from accommodations, they are also encouraged to advise the IRB as soon as possible.
+
+### 11.4 In the course of reviewing the file, the IRB may come across information indicating that an individual may face barriers to their full participation in the proceeding. In such situations, the IRB may act on its own initiative granting accommodations or by contacting the unrepresented individual, counsel or appointed DR to determine the nature and extent of any accommodations needed.Footnote49
+
+### 11.5 Similarly, when reviewing a request for accommodation, if the IRB needs further information, it may request such information, or hold a pre-hearing conference.Footnote50
+
+### 11.6 Decisions to grant a request for accommodation are the responsibility of the member or the member manager. When another member or member manager grants an accommodation, the member who presides over the hearing is not bound by that decision.Footnote51 The presiding member may grant additional accommodations, change, or discontinue previously granted accommodations, where appropriate, after the individual being accommodated is given notice of the reason for the proposed change or discontinuation and an opportunity to respond.Footnote52
+
+### 12. Requests for accommodations
+
+### 12.1 A person who is seeking accommodations should make an application to the Board under the Rules of the applicable Division.Footnote53
+
+### 12.2 Strict compliance with the Rules may be a barrier to some individuals, for example, individuals who are not represented or individuals who face barriers that impact their ability to interpret and apply this Guideline or the Rules. Members are encouraged to be flexible in assessing whether the requirements of the Rules have been metFootnote54 and should consider any form of written requestFootnote55 received prior to an appearance at the IRB.Footnote56
+
+### 12.3 In order for the IRB to grant an accommodation, the request should:
+
+Be made as early as possible.
+Specify the accommodation needed.Footnote57
+Be provided to all parties.
+12.4 In order to enable the IRB to accommodate the individual's specific needs, the request should provide as much detail as possible on the particular type of accommodation needed and the barriers the individual faces to participation.
+
+12.5 Accommodations provided for individuals before the Board must not have the effect of denying any partyFootnote58 a fair opportunity to present their case and participate fully in the proceeding.
+
+12.6 The views of all parties will be sought before granting any accommodations other than accommodations that are minor or administrative.
+
+12.7 Even where no prior request was made, members should consider any oral request made at the hearing, where feasible. In addition, members can act on their own initiative and provide accommodations to an individual where it becomes clear during a hearing that it is necessary for the individual to fully participate.
+
+### 13. Documentation to support a request for accommodation
+
+### 13.1 Members should consider whether they need any supporting documentation to grant a procedural accommodation on a case-by-case basis. The need for such documentation should be proportionate to the accommodation being requested. For example, a member may determine that no supporting documentation is required to allow for more breaks in a hearing while a request for priority scheduling of a hearing may require supporting documentation.Footnote59
+
+### 13.2 Expert evidence is generally not required to support a request for procedural accommodation and as noted in section 14.5.1 below, members should consider the barriers individuals may face in obtaining expert evidence. However, expert evidence can be of assistance to the IRB in applying this Guideline if it addresses the accommodations required for a person to fully participate in the proceedings, or the person's ability to give reliable testimony or otherwise present evidence.Footnote60
+
+13.3 If a member needs documentation to assess a request for accommodation, they should provide the individual an opportunity to either provide the documentation or explain why it will not be provided.
+
+## Part III – Guidance applicable to the assessment of the merits of a case
+
+### 14. Documentation relevant to the assessment of the merits of a case
+
+### 14.1 While there may be little or no need for supporting documentation in order to request an accommodation, supporting documentation may be needed for the assessment of the merits of a case for individuals with a disability and/or vulnerability, including for the assessment of credibility.Footnote61
+
+14.2 A decision granting a procedural accommodation does not mean that any documentation provided in support of that request has been found credible or that members will arrive at a particular decision in the assessment of the merits of the proceeding.
+
+### 14.3 Supporting documentationFootnote62 for the assessment of the merits of a case may include:
+
+- Expert reports
+- Medical recordsFootnote63
+- Affidavits or letters of supportFootnote64
+- 14.4 If a member finds that supporting documentation is necessary to assess the merits of a case for individuals with a disability and/or vulnerability and it has not been provided, the member should give the individual an opportunity to explain why it was not provided.
+
+### 14.5 Expert evidence
+
+14.5.1 While expert reportsFootnote65 may be of assistanceFootnote66, members should consider that many individuals face financial, geographical, psychological or social barriers to seeking treatment and obtaining an expert report.
+
+#### 14.5.2 Expert evidence includes reports by medical professionals including psychologists, and other experts, such as social workers, who provide evidence within their area of expertise.Footnote67
+
+#### 14.5.3 Generally, expert reports prepared for use in proceedings before the Board should contain the following information:
+
+the particular qualifications and experience of the professional that demonstrate an expertise relevant to the subject matter on which they are providing an opinion.Footnote68
+the factual foundation underlying the expert's opinion.
+if applicable, the expert's opinion about the person's ability to fully participate in IRB proceedings, including their ability to testify or otherwise present their case.
+the methodology used by the expert in assessing the person, including whether an interview was conducted, the number and length of interviews, whether tests were administered, and, if so, what those tests were and the significance of the results, and;
+if applicable, whether the person is receiving treatment and, if so, the nature of the treatment and the effectiveness of the treatment.
+14.5.4 Members should not necessarily discount the weight to be given to an expert report if it does not contain all the information recommended in this Guideline.
+
+### 14.6 Assessment of expert evidence
+
+#### 14.6.1 In order to determine the weight that should be assigned to an expert report, members should assess the specific contents of the report and the member's reasons for the decision should explain this assessment.Footnote69
+
+#### 14.6.2 A medical report may corroborate a person's allegations regarding past events through an independent medical evaluation, including clinical observations.Footnote70
+
+#### 14.6.3 The recounting of events to an expert does not, by itself, affirm the credibility of the events.Footnote71 However, medical reports should not be discounted for that reason alone and should be assessed in light of the purpose for which they were submitted.Footnote72
+
+#### 14.6.4 Members may disregard portions of a report that engage in advocacy or offer opinions outside the expertise of the expert.Footnote73
+
+### 15. Credibility
+
+### 15.1 When assessing credibility, members should consider an individual's particular disability and/or vulnerability, including evidence of any potential impact on the individual's ability to testify.Footnote74 However, not all vulnerabilities and/or disabilities will impact a person's ability to provide credible and trustworthy evidence.Footnote75
+
+### 15.2 Credibility determinations must be made on a case-by-case basis.Footnote76 Factors that may impact an individual's ability to present their case can include past trauma,Footnote77 medical or psychological conditions,Footnote78 cognitive difficulties,Footnote79 and limitations related to age.Footnote80
+
+### 15.3 The presence of any of these factors does not prevent members from making an adverse credibility finding.Footnote81 Members may draw a negative inference from material inconsistencies, omissions, or implausibility in the evidence that have no reasonable explanations.Footnote82 However, the principles from this Guideline should be considered when assessing the individual's credibility and not separately after the credibility assessment.Footnote83
+
+### 15.4 Where there is evidence that an individual's personal situation or circumstances may impact their ability to testify, members should avoid making an adverse credibility finding without considering how the evidence might explain inconsistencies, omissions, memory failures and other deficiencies in the person's testimony.Footnote84
+
+### 15.5 In cases where an individual's testimony appears to be unreliable as a result of a disability and/or vulnerability, members should consider whether independent corroborative evidence is necessary to assess whether the individual's testimony can be relied upon in any respect.Footnote85
+
+### 15.6 Where a credibility concern arises from a person's evidence or testimony, and there is evidence that the person has a vulnerability and/or disability that may impact their credibility, members should:
+
+- explain the concern to the person;
+- provide an opportunity for the person to respond to the concern;
+- consider the person's response and whether any of the individual's disabilities and/or vulnerabilities may reasonably explain the credibility concern;
+- evaluate the totality of the circumstances and the internal consistency of the evidence; and
+- explain in their reasons for decision whether the response reasonably accounts for the credibility concern.
+- 15.7 The assessment of whether an explanation is reasonable is contextual and should include the potential impact of the individual's personal circumstances on memory. For example, trauma may impact memory, which can produce inconsistencies, omissions, and vagueness in the individual's testimony.Footnote86
+
+### 15.8 Implausibility findings should only be made in the clearest of cases.Footnote87 A reasonable finding of implausibility should consider the cultural, economic, and political context of the individual and the country in question.Footnote88 Members should not rely on myths, stereotypes, and incorrect assumptions, whether to the advantage or detriment of the individual.Footnote89
+
+15.9 Members may consider demeanour when assessing the credibility of testimony, however, this should be approached with great caution.Footnote90 For example, the demeanour of persons from different cultural backgrounds or those who have suffered harm may be particularly difficult to assess.Footnote91 Therefore, clear and cogent reasons must be given for findings of credibility based on demeanour.Footnote92 It is only in an exceptional case that demeanour alone would be sufficient to undermine the credibility of the testimony provided in support of the case.
+
+### 15.10 Members should not expect a person appearing before the IRB to behave in a certain way when recounting traumatic experiences, and credibility findings should not be based on the absence or presence of such behaviours.Footnote93
+
+### 16. Proceedings before the Refugee Protection Division and Refugee Appeal Division
+
+16.1 Following are some points relevant to the assessment of the merits of refugee cases involving individuals with a disability and/or vulnerability.Footnote94 In this section, “claimant” refers to the subject of the proceedings before the RPD or the RAD.
+
+### 16.2 Assessing Convention grounds and persecution
+
+#### 16.2.1 The definition of a Convention refugee requires that the persecution be linked to a Convention ground (i.e., a nexus). In determining whether a nexus exists, members must consider all relevant grounds for protection, including those based on disabilities and/or vulnerabilities. For example, individuals with physical or mental health conditions may meet the requirements for membership in a particular social group where they can demonstrate that they belong to a group defined by an innate or unchangeable characteristic.Footnote95
+
+#### 16.2.2 An individual's experience of harm due to their disability and/or vulnerability may amount to persecution in some cases.Footnote96 Acts of harassment or discrimination that may not amount to persecution individually, may cumulatively constitute persecution. The cumulative impact of discriminatory treatment should be assessed using an intersectional approach.Footnote97
+
+#### 16.2.3 Where individuals, including those with a disability and/or vulnerability, present evidence of risk caused by an inability of their country to provide adequate health or medical care, they will not qualify as a person in need of protection on this basis alone.Footnote98 However, if an individual is able to show that they would be refused health care or treatment for reasons related to a Convention ground, members will need to consider the claim under s. 96 of IRPA. For example, a refusal of health care or medical treatment of an individual with HIV positive status based on stigma may be linked with one of the Convention grounds and amount to persecution.Footnote99
+
+#### 16.2.4 Even where credibility concerns arise from certain aspects of a claim, the claim may still be accepted if the claimant faces a risk based on their profile.Footnote100 For example, a claim may succeed if the claimant faces a serious possibility of persecution based on a disability and/or vulnerability, despite the lack of credibility in respect of the allegations based on another ground.Footnote101
+
+#### 16.2.5 In some cases, an individual may not have or be able to express a subjective fear of persecution because of their disability and/or vulnerability. However, there may be evidence of an objective forward looking risk in their country of origin. Therefore, it may be necessary to put more weight on the objective rather than the subjective elements of the claim.Footnote102
+
+### 16.3 State protection
+
+#### 16.3.1 The claimant's subjective reluctance to seek state protection does not rebut the presumption of state protection.Footnote103 However, members must consider the impact of an individual's personal circumstances on their ability to access state protection. For example, individuals with a disability and/or vulnerability may not seek assistance or state protection due to past negative experiences with state authorities, internalized and community shame, fear of not being believed, or personal risks associated with seeking assistance.Footnote104
+
+#### 16.3.2 A contextual and intersectional approachFootnote105 should be used to determine whether a claimant's reluctance to seek state protection was reasonable.Footnote106 Where relevant, such an approach should consider factors such as:
+
+the profile of the claimant, including their gender, race, age, education level, support network, experience of trauma, mental or physical health issues, and any other relevant factors;Footnote107
+the profile of the agent of harm, including financial status and political, professional, or criminal connections;
+the nature of the relationship between the claimant and the agent of harm;
+whether the pursuit of state protection would have risked further endangerment;
+any previous efforts to seek state protection, including the response from authorities;Footnote108 and
+the country conditions, including cultural and societal norms that stigmatize certain conditions, such as HIV positive status.Footnote109
+#### 16.3.3 Members should assess the adequacy of state protection at the operational level rather than the efforts or intention of the state.Footnote110 While a country's laws may formally protect against certain types of persecution, such as discrimination due to mental or physical disability, social and cultural attitudes or stigma may obstruct such protection in practice.Footnote111
+
+### 16.4 Internal flight alternative
+
+#### 16.4.1 When assessing the reasonableness of an internal flight alternative (IFA), members must look at the specific circumstances of the claimant, including any disabilities and/or vulnerabilities.Footnote112
+
+#### 16.4.2 A claimant's physical or mental health may affect the reasonableness of an IFA. The responsibility is on the claimant to establish that they would be unable to access adequate medical treatment in the proposed IFA which would make the IFA unreasonable.Footnote113
+
+#### 16.4.3 If a claimant has a medical condition requiring regular treatment and assistance, it may be unreasonable to expect the claimant to relocate to an area where such medical treatment or assistance is not available.Footnote114
+
+#### 16.4.4 When assessing the reasonableness of a proposed IFA, members should not limit the analysis to the availability and affordability of medical treatment in the proposed IFA. Members should consider the impact of return on the claimant's mental or physical health.Footnote115
+
+#### 16.4.5 Medical evidenceFootnote116 may be relevant to the question of whether an IFA is reasonable and must be considered. However, members may give reduced weight to portions of medical evidence where the following concerns arise:
+
+the report provides an opinion on the availability of care in the proposed IFA, unless the expert is qualified to give such an opinion.Footnote117
+the report does not address the extent to which or reasons why the physical or mental health condition would worsen if the claimant relocated to the proposed IFA.Footnote118
+the report engages in advocacy by providing an opinion on the merits of the underlying claim, including the viability of an IFA.Footnote119
+### 17. Proceedings before the Immigration Division
+
+### 17.1 Detention reviews
+
+17.1.1 Disabilities and/or vulnerabilities should be accounted for when assessing all the factors in s. 248 of the Immigration and Refugee Protection Regulations (IRPR),Footnote120 including when determining an individual's ability and capacity to cooperate with removal arrangementsFootnote121 and/or identity investigations.
+
+17.1.2 The existence of such disabilities and/or vulnerabilities may be a separate and relevant factor, in addition to the s. 248 factors, for considering whether to release or detain. However, the member must still consider all the factors in s. 248 of the IRPR when deciding whether to continue detention or order release.
+
+17.1.3 Where disabilities and/or vulnerabilities are identified, members are under a heightened obligation to consider alternatives to detention (ATDs) and to impose attainable conditions that are connected to the circumstances of the individual.Footnote122 Members should consider how certain disabilities and/or vulnerabilities, including those related to mental health, may affect the person's ability to comply with conditions of release.
+
+#### 17.1.4 Members should also consider the impact of conditions of detention on an individual with a disability and/or vulnerability, including the way in which such conditions may be particularly harsh in light of their personal circumstances or exacerbate their personal circumstances.Footnote123 These considerations include the availability of medical treatment as well as access to psychiatric assessment and treatment.Footnote124
+
+17.1.5 Early detention reviews are strongly encouraged to ensure that the file is progressing rapidly, and a person concerned with a disability and/or vulnerability is not unduly affected.
+
+### 17.2 Admissibility hearings
+
+17.2.1 Where the vulnerability of the person concerned is related to diminished mental capacity, such evidence may be relevant to the application of various inadmissibility provisions, including but not limited to whether the individual was a member of an organization for the purposes of ss. 34 or 37 of the IRPA, or whether they were complicit under s. 35 of the IRPA.
+
+#### 17.2.2 An individual's disability and/or vulnerability, such as, but not limited to a substance use disorder, are relevant to the assessment of the defences of duress or coercion.Footnote125 This includes the individual's ability to make a rational assessment of their potential safe avenues of escape.Footnote126
+
+#### 17.2.3 Members should consider the social and cultural background of the person concerned when assessing the person's credibility in the context of a misrepresentation. For example, the individual may lack knowledge of their family's political involvement or immigration history, because they were not privy to such information due to the barriers they face.Footnote127
+
+### 18. Proceedings before the Immigration Appeal DivisionFootnote128
+
+### 18.1 Sponsorship appeals
+
+#### 18.1.1 When assessing the genuineness of a spousal or conjugal relationship, members should consider the personal attributes that make up an individual, and not treat an individual's disability and/or vulnerability as their defining feature.Footnote129
+
+### 18.2 Humanitarian and compassionate considerations
+
+#### 18.2.1 In exercising their ability to grant discretionary relief on humanitarian and compassionate (H&C) grounds, members should consider whether a person's disability and/or vulnerability are relevant to that assessment. For example:
+
+when an appellant has not met their residency obligation,Footnote130 whether the appellant's particular disability and/or vulnerability impacted their departure from Canada, ability to return to Canada, or decision to remain outside Canada.Footnote131
+in appeals involving findings of misrepresentation, whether the appellant's particular disability and/or vulnerability are relevant to their level of responsibility, including whether they knew about and/or participated in the misrepresentation.Footnote132
+when assessing the potential hardship in another country, the individual's experience of discrimination, stigma and/or trauma,Footnote133 and/or violence against individuals living with physical or cognitive disabilities, mental health challenges and/or a substance use disorder.Footnote134 Access to and the availability of appropriate treatment, care and support are also relevant considerations.Footnote135
+when assessing the impact of removal from Canada on the individual's mental health, whether their condition would likely worsen if removed from Canada. This is a relevant consideration that should be identified and weighed regardless of whether there is a treatment available in the country of removal.Footnote136
+when assessing the appellant's establishment in Canada, whether their limited establishment is attributable to such factors as a physical or cognitive disability or mental health condition. Members should consider the severity of the appellant's condition, the extent of care that their condition requires, and the degree to which they are currently dependent on the community-based medical and social support they are receiving in Canada.Footnote137
+### 18.3 Stays in removal order appeals
+
+#### 18.3.1 Members should impose stay conditions that are designed for a successful stay.Footnote138 For example, members should consider whether conditions relating to abstinence of drugs and alcohol are realistic in the particular circumstances.Footnote139
+
+18.3.2 In cases involving underlying mental health issues and/or substance use disorders, members are encouraged to consider participation in rehabilitation treatment. A condition that an appellant attend a treatment program should only be imposed if the appellant agreesFootnote140 and the member is satisfied that it will assist in the rehabilitation process.
+
+#### 18.3.3 Depending on an appellant's personal circumstances, including the nature of any disabilities and/or vulnerabilities, they may require assistance with following the conditions of a stay. In such cases, it is open to members to rely on evidence that the appellant has the necessary supports in place to assist with compliance.Footnote141
+
+### 19. Inquiries
+
+For more information, please contact: IRB.Policy-Politiques.CISR@irb-cisr.gc.ca
+
+OR
+
+- Senior Director, Policy, Engagement and Parliamentary Affairs Directorate
+- Strategic Directions and Corporate Affairs Branch
+- Minto Place - Canada Building
+- 344 Slater Street, 14th Floor
+- Ottawa, Ontario K1A 0K1
+
+- Coming into force
+- This Guideline comes into force on October 31, 2023.
+
+- Approval
+- Richard Wex
+- Chairperson
+- Date: July 19, 2023

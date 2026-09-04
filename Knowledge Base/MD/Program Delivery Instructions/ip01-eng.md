@@ -1,0 +1,40 @@
+# Temporary resident permits (TRPs): When to consider issuing a TRP
+
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+Officers may consider issuing a temporary resident permit (TRP) when the following apply:
+* the purpose of the individual to enter or remain in Canada temporarily is of a sufficiently compelling need (Please see the TRP PDI landing page for a definition of compelling need) when balanced with the objectives of the Immigration and Refugee Protection Act (IRPA); and
+* the risks that the individual might pose do not outweigh their need to enter or remain in Canada temporarily.
+
+In the absence of compelling need, TRPs should generally not be issued even if the inadmissibility and risk are minor.
+
+A foreign national may be considered for a TRP where they are:
+* seeking to come into Canada temporarily, and is one of the following:
+  * inadmissible under the IRPA
+  * subject to a report under subsection A44(1)
+  * reportable for a violation of the IRPA
+  * does not meet a requirement of IRPA
+* already present in Canada and is one of the following:
+  * inadmissible under the IRPA
+  * subject to a report under subsection A44(1)
+  * reportable for a violation of the IRPA
+  * does not meet a requirement of IRPA
+
+Foreign nationals in Canada who have lost their temporary resident status and are eligible for restoration should seek to have their status restored before resorting to a TRP to regain status.
+
+Officers may recommend or issue a TRP only in accordance with the IRPA and the Immigration and Refugee Protection Regulations (IRPR).
+
+## Factors to consider:
+Officers should give careful consideration to the factors below before approving a TRP.
+
+* A TRP can carry privileges greater than those accorded to other temporary residents (visitors, workers, students). TRP holders are eligible to apply for a work or study permit from within Canada when the TRP is issued for at least six months and may be eligible for healthcare and other social services, depending on provincial/territorial regulations.
+* Before issuing a TRP, officers should consider the availability of alternate means of dealing with the inadmissibility or inability to meet the requirements of the Act, such as restoration (if applicable) or rehabilitation which would make a TRP unnecessary.
+* A foreign national’s need to enter or remain in Canada temporarily should be compelling. Even where it is determined that there is a compelling need, the need must be balanced against any risk posed to Canadian society and be found to outweigh those risks.
+* In the absence of compelling need TRPs should generally not be issued even if the inadmissibility and the risk are minor.
+
+## When a TRP request is made
+When an officer becomes aware of an inadmissibility, and the applicant wishes to be considered for a TRP, the officer should:
+* assess if the client meets the eligibility criteria for a TRP
+* consider if the individual is under a removal order or warrant (see manual chapter ENF 10 [PDF, 978 KB])
+* assess the appropriate risk factors
+* consult with a designated decision maker, where required (see manual chapter IL 3 [PDF, 831 KB])

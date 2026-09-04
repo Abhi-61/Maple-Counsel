@@ -1,0 +1,414 @@
+OINP application process
+Learn how to apply for a nomination for permanent residence in Ontario through the expression of interest system and your next steps after nomination
+
+On this pageSkip this page navigation
+Overview
+Before you apply
+Receiving an invitation and how to apply
+Using a representative to apply  
+How we choose candidates to invite
+After you apply to the OINP
+If you are nominated
+Disclaimer
+Contact us
+Technical problems
+Overview
+The Ontario Immigrant Nominee Program (OINP) is the province’s economic immigration program. It is delivered in collaboration with the Government of Canada through Immigration, Refugees and Citizenship Canada (IRCC).
+
+The OINP uses an expression of interest (EOI) system to manage application intake.
+
+Before you can apply, you must register an EOI to let the OINP know you want to be considered for an invitation to apply. Review the eligibility criteria for your stream carefully and do not register an EOI unless you meet the requirements.
+
+You can only apply if you receive an invitation from the OINP. Registering an EOI is not the same as applying to the OINP or applying for permanent residency.
+
+Registering allows the OINP to gather important information about you to rank and select those who are most likely to meet Ontario’s economic and labour market needs, based on one or more of the following attributes:
+
+education — level, field and where you completed it
+language proficiency — English and/or French ability
+regional immigration — intention to settle outside of the Greater Toronto Area
+skill and work experience level
+earnings history in Canada
+any other attributes that would address immediate labour market needs in Ontario or a region of Ontario, including for example having a job offer in Ontario, or Ontario work experience
+Before you apply
+Read the stream requirements to ensure you are eligible. Do not register an EOI unless you meet all stream criteria.
+
+How to register an EOI
+Before you go to the OINP e-Filing Portal, make sure you are using the latest version of:
+
+Google Chrome
+Mozilla Firefox
+Microsoft Edge
+Ontario Workforce Priority Stream
+To register an EOI with a job offer:
+
+Your employer must first register their business in the Employer Portal and provide information about your position by submitting a job offer in the portal (this is referred to as a “job offer” even if you are already working in that position). Your employer can refer to the Employer Portal User Guide to learn more.
+You will automatically receive an email with a job offer ID, which you will need when you register your EOI.
+Access the e-Filing Portal and select the pathway under which your employer submitted your job offer. You will be prompted to input the job offer ID and your email address.
+You will have 30 calendar days from the date the job offer was submitted to register your EOI. If you do not register your EOI within 30 calendar days, the job offer will expire in the system and if you still wish to register an EOI your employer will need to submit a new job offer.
+
+Working in the OPS or other government agencies
+Note that EOIs or applications submitted to the OINP, where the Ontario Public Service (OPS) or an OPS entity is listed as the employer, will not be accepted. The OPS is not currently participating as an employer in the OINP.
+
+All other government agencies and corporations that are not staffed by OPS employees will be considered as separate legal entities and may be eligible to participate as an employer in the OINP if they meet all employer eligibility criteria.
+
+The information you provide in your EOI must be accurate, correct and not misleading as of the date that you register or update your EOI.
+
+Self-employed physicians
+If you are a physician who is eligible to apply without a job offer, please submit a Webform to begin the process of registering an EOI.
+
+Express Entry
+Under the Ontario Workforce Priority stream, if you are invited to apply and your application is approved, you will have the option to be nominated through the Immigration, Refugees and Citizenship Canada (IRCC) Express Entry system if you either apply:
+
+with a job offer in TEER 0-3
+as a self-employed physician
+Choosing to be nominated via Express Entry means you will be invited to apply for permanent residency via an IRCC invitational round for Provincial Nominee Program candidates; this may result in faster IRCC processing times for permanent residency. You must meet all criteria for a federal Express Entry stream and maintain a valid profile in IRCC’s Express Entry system from when you apply until you are nominated.
+
+When you create a profile in the Express Entry System, you must indicate your interest in immigrating to Ontario by selecting Ontario or All Provinces and Territories.
+
+You must provide accurate and truthful information in your Express Entry profile. If the information in your Express Entry profile is inaccurate or not truthful, your OINP application may be refused or your nomination withdrawn. IRCC could also find you inadmissible and/or bar you from applying to immigrate to Canada for five years.
+
+Non-Express Entry process
+If you do not choose to be nominated through Express Entry, your nomination can be used to apply for permanent residency via the non-Express Entry permanent residence application process.
+
+Under the Ontario Workforce Priority stream, if you are invited to apply and your application is approved, your next step is to apply to the federal government through Immigration, Refugees and Citizenship Canada (IRCC). IRCC makes the final decision on who becomes a permanent resident.
+
+Accompanying family members
+Please note that you and any accompanying family members must satisfy IRCC that you meet the eligibility requirements for permanent residence in Canada under the federal Immigration and Refugee Protection Act. Should you or your accompanying family members be found inadmissible to Canada, your application for permanent residence may be refused by IRCC.
+
+Troubleshooting tip
+If there is a spelling mistake in your name or your date of birth while registering, contact the OINP via our webform to request a correction.
+
+To validate your request, you will need to include:
+
+the Change of Personal Information form
+a copy of the personal details page of your passport
+The program will not accept requests for complete name or date of birth changes.
+
+Fees
+There is no fee to register an EOI. If you are invited to apply to the program, you will be required to pay an application fee at that time. Do not register an EOI or apply to the OINP if you do not meet stream criteria. Your application will be refused, and you will not receive a refund of your application fee.
+
+Updating your information
+You can update your personal information in your EOI through the OINP e-filing portal at any time up until you receive an invitation to apply or your EOI expires.
+
+Note that if you are applying under the Ontario Workforce Priority stream with a job offer, you will not be able to update your NOC and hourly wage, as they will be pre-populated by your employer. If your employer needs to change the wage or the NOC code attributed to the job offer, they will need to withdraw the job offer and submit a new one. In that case, you will need to register a new EOI.
+
+Validity period
+Your EOI registration will remain valid for 12 months until you receive an invitation to apply. After 12 months, your EOI will automatically be removed from the selection pool. The EOI may also be withdrawn by you or the program at other times, and in those instances, you would be notified of the withdrawal. If you are still interested in applying to the program, you must register a new EOI.
+
+After you register anEOI
+Once you have registered an EOI, please do not contact the program.
+
+If you are invited to apply, you will receive a notification in the OINP e-Filing Portal. It is important to note that:
+
+a registration does not guarantee that you will be invited to apply to the OINP
+an invitation to apply does not guarantee your application will be approved and you will receive a certificate of nomination
+You must demonstrate that you meet all stream requirements at the time of your application, including that you had all the qualifications that you claimed in your EOI registration.
+
+If it is determined that any information provided in your EOI registration is not accurate, is incorrect, or is misleading, your application may be refused, and you may be subject to administrative penalties and/or prosecution.
+
+Please consult the EOI system invitations to apply page for more information about EOI draw results.
+
+ONe-key login accounts
+As of March 31, 2025, returning OINP users who are still using a ONe-key account will need to create a Ontario.ca Login to sign in to the OINP e-filing system as the ONe-key service will no longer be available after that date.
+
+Once you have successfully created your Ontario.ca Login, please submit a webform with your full name and the email address that you used to register your Ontario.ca Login in order to sync your email address with the existing Profile in our system. All new correspondence from the OINP will be sent to the email address you used to register your Ontario.ca Login.
+
+Remember your password, as you will need this in the future to log in to the OINP e-Filing Portal.
+
+The OINP does not manage Ontario.ca Login information and we cannot help you if you lose access to your account. To keep access to and control of your account, never share your password with anyone, including your representative.
+
+Receiving an invitation and how to apply
+If you receive an invitation to apply
+From time to time, the OINP will rank candidates in one or more of the OINP stream selection pools, either on a general basis (rank all candidates who registered an EOI) or on a targeted basis (rank only those candidates who have one or more targeted labour market or human capital attributes) and invite the highest-ranking candidates to apply.
+
+If you receive an invitation to apply through the EOI system, you do not need to contact the program.
+
+Deadlines to apply: Ontario Workforce Priority
+Job offer pathways
+Employer application for an approval of an employment position must be submitted within 14 calendar days from the date the invitation to apply was issued.
+
+Application for a nomination certificate (applicant) must be submitted with the application fee paid within 17 calendar days from the date the invitation to apply was issued to you.
+
+Please note that while you can work on your application during the 17 calendar days, you cannot submit your application until your employer submits their application for approval of an employment position.
+
+If you receive an invitation but your employer does not apply
+If you receive an invitation to apply but your employer does not submit an application or fails to apply within the required timeline, your job offer will be withdrawn and your EOI will be removed from the stream selection pool.
+
+You and your employer will receive email notifications that your job offer has been withdrawn and your EOI has been removed from the selection pool.
+
+If you wish to register a new EOI under the Ontario Workforce Priority stream with a job offer, your employer will first need to submit a new job offer.
+
+Self-employed physicians
+Deadline: submit your application and pay within 17 calendar days from the date the invitation to apply was issued to you.
+
+If you receive an invitation but do not apply
+If you receive an invitation to apply, your EOI is removed from the stream selection pool and cannot be reinstated if you do not apply or fail to apply before the deadline. You will receive an email notification that your EOI has been removed from the selection pool.
+
+If you wish to register a new EOI under the Ontario Workforce Priority stream with a job offer, your employer will first need to submit a new job offer.
+
+How to apply
+1. Make sure you meet the requirements
+Re-read the requirements for the Ontario Workforce Priority stream before you apply to make sure you still meet them.
+
+You must demonstrate that you meet all stream requirements at the time of your application, including that you had the qualifications that you claimed in your EOI registration.
+
+If we determine that any information provided in your EOI registration is not accurate, is incorrect, or misleading, your application may be denied, and you may be subject to administrative penalties and/or prosecution.
+
+2. Have your supporting documents ready
+You must provide supporting documents to validate the information in your application and to prove you meet the eligibility criteria.
+
+You must scan and upload all supporting documents in your online application. Refer to the document checklist to learn more. 
+
+If a supporting document is not in French or English, you must provide a copy of the original document and a notarized translation of the document. Please read Document translation and notarization for more information.
+
+Please note that your application must be complete and all required documents must be uploaded. If your application is not complete, including uploading all required documents, we will return your application and refund your fee.
+
+3. Fill out your application
+Do not open more than one browser or tab to access or complete your online application. This can create errors in your application.
+
+After receiving an invitation to apply, you can submit your application in the OINP e-Filing Portal.
+
+If you are using a representative, or you are a representative, the submission process is different. Learn more about how to appoint a representative or register as one.
+
+If you are applying under the Ontario Workforce Priority stream with a job offer, both you and your employer will be notified via email once you receive an invitation to apply.
+
+Your employer must first submit an application for approval of an employment position in the Employer Portal before you can submit your own application and payment.
+
+Steps to apply
+Follow these steps to apply:
+
+Click the “Submit an application” button below.
+Log into your Ontario.ca Login as a returning user.
+From your My Applications page, click on the file number link to begin your application.
+Your new application file number is different than your EOI file number. The EOI file number (EOI-XXXX-XXXXXX) will be greyed out — this is not an error. Do not withdraw your EOI file.
+
+Submit an application
+You don’t need to complete your application all at once. You can save your application and return to it, as long as you submit it before the deadline.
+
+There are 3 ways to save your application:
+
+Click the Save button at the bottom right corner of each page and use this button to save as you go (recommended to ensure that none of your information is lost if you lose connectivity while completing your application).
+Click the Next or Previous buttons at the bottom of each page.
+Click the Check for Errors button at the bottom right corner of each page.
+Troubleshooting tip
+If you get an error when uploading a document, you should exit out of your browser and log in again. If the error persists, send an email to notify us via our webform with screenshots of the error message and a description of the issue.
+
+4. Pay the fee and submit your application
+Your application can only be submitted once you have:
+
+answered all mandatory questions
+uploaded all required documentation
+paid your application fee
+Cost to apply
+For the Ontario Workforce Priority stream, the application fee is:
+
+$1,500 if the job offer is outside of the Greater Toronto Area
+$2,000 if the job offer is within the Greater Toronto Area (City of Toronto, Durham, Halton, Peel and York regions)
+The application fee for self-employed physicians is:
+
+$1,500 if your Ontario medical practice address is outside the Greater Toronto Area
+$2,000 if your Ontario medical practice address is within the Greater Toronto Area (City of Toronto, Durham, Halton, Peel, and York regions)
+The fee covers the cost of processing your application. We only accept Visa, Visa Debit, Mastercard and Mastercard Debit.
+
+Refunds
+The application fee is non-refundable once the OINP has determined your application is complete and has started processing it.
+
+Your application fee will only be refunded if your application is incomplete or you withdraw your application before we start processing it.
+
+We will not refund the fee if your application is unsuccessful.
+
+You can check the status of your application through your account in the OINP e-Filing Portal.
+
+5. Maintain a valid Express Entry profile
+Under the Ontario Workforce Priority stream, you have the option to be nominated through the IRCC Express Entry system if you meet minimum Federal Express Entry criteria and apply to the OINP with either:
+
+a job offer under TEER category 0, 1, 2 or 3
+as a self-employed physician
+You must have a valid profile in the Express Entry system from when you apply until you are nominated.
+
+Choosing to be nominated via Express Entry means you will be invited to apply for permanent residency via an IRCC invitational round for Provincial Nominee Program candidates; this may result in faster IRCC processing times for permanent residency.
+
+If your profile expires
+If your profile expires prior to applying to the OINP, you must provide your new Express Entry profile details under the General Information section of the online application. If your profile expires during the processing of your application, you must notify us as soon as possible by updating your Express Entry profile details on the My Profile page of the OINP e-Filing Portal.
+
+In both instances, you will be required to provide the following documentation:
+
+a copy of the letter you received from IRCC acknowledging the new profile with Express Entry number and job seeker validation code
+a copy of the letter received from IRCC explaining why your old profile became ineligible
+Failure to notify the program of your new Express Entry profile will result in your application being returned as incomplete and your application fee refunded.
+
+If you’re invited to apply while your application is being processed
+If you receive an invitation to apply for permanent residence from IRCC while your application is being processed by the OINP, your profile is no longer available for the OINP to nominate you.
+
+You must decide to either:
+
+reject the invitation to apply issued by IRCC
+withdraw your application to the OINP
+If you reject the invite to apply
+If you reject the invitation to apply issued by IRCC, you must send a request to continue processing your application as soon as possible to the OINP via webform and include a screenshot showing that you rejected the invitation to apply from IRCC.
+
+Incomplete application
+If your application is deemed incomplete for any reason, you will be notified that it is incomplete, it will be withdrawn by the OINP, and the application fee will be returned to you. It will not be possible to request an internal review. An internal review is only available to applicants whose applications have been assessed against applicable eligibility criteria and for which a decision has been reached. If the application is deemed incomplete, it has not yet been assessed against applicable eligibility criteria and hence a decision has not been made in this regard.
+
+Using a representative to apply  
+Authorizing a paid representative to assist you can be helpful but is not necessary. If you choose to use a representative, please follow the steps on how to appoint a representative. This will ensure you retain access to, and control of, your online application and allow you to change or end your authorization if need be.
+
+Applications submitted by self-appointed representatives are invalid and will be withdrawn by the OINP. Your application will be returned as incomplete, and your application fee will be refunded.
+
+How we choose candidates to invite
+The answers you provide to each question in your EOI registration will be scored based on several scoring factors. Once submitted, your EOI registration will then be entered into a selection pool.
+
+Scoring factors
+We will score your answers using the NOC system to assign points to your job offer and work experience. The scoring factors for the Ontario Workforce Priority stream are found in the stream page.
+
+If you are invited to apply, you will be required to submit specific documents to support each scoring factor for which you received points. Scoring factors are not the same as stream criteria. You must meet all the criteria for the stream you wish to apply and provide the mandatory documents with your application. Refer to the document checklist for the Ontario Workforce Priority stream.
+
+After you apply to the OINP
+After you (or your representative) submits your application, you will be sent an email to confirm that we have received it.
+
+You can check the status of your application through your account in the OINP e-Filing Portal at any time.
+
+If you are nominated, your next step is to apply to the IRCC for permanent residence. IRCC makes the final decision on who becomes a permanent resident.
+
+Withdrawing your application
+To withdraw your application, click on the Withdraw button next to your file number on your main page of the OINP e-Filing Portal.
+
+We will only refund the application fee if you withdraw your application before we start processing it.
+
+Changes in personal information
+You must notify us if there are any changes to the information provided in your application, including (but not limited to) changes in:
+
+contact information
+immigration status (expiration or change in work permit)
+family composition due to:
+marriage or common-law relationship
+birth of a child
+change of custody of a child
+divorce/separation
+death
+You can make changes to your telephone number, email address and country of residence by logging into the OINP e-Filing Portal and clicking on “My Profile” on your main page. After the change has been made, click “Save”.
+
+For all other changes, or to correct a data entry error (for example if you misspelled your name):
+
+complete and save a Change of Personal Information form
+send the completed form as an attachment via our webform
+if you are requesting a correction to your name or date of birth, please also include a copy of the personal details page of your passport to validate your request
+We will not accept requests to completely change a name or date of birth.
+
+If you do not notify us of changes to your personal information, it could impact the outcome of your application.
+
+If you are nominated
+If your application is approved, you will receive a nomination approval letter, a work permit support letter (if applicable) and a nomination certificate by email.
+
+Once we notify you, you must apply to IRCC for permanent residence within six months.
+
+You will need to include your nomination approval letter and nomination certificate.
+
+A nomination does not guarantee approval of your application for permanent residence with IRCC.
+
+Conditions of nomination
+If you are nominated, your nomination will be subject to conditions and/or restrictions during the nomination period (that is, until your permanent residence application is approved or refused). The conditions and/or restrictions of your nomination will be outlined in your nomination approval letter.
+
+Refer to the Ontario Workforce Priority stream page for conditions of nomination.
+
+Applying for a work permit
+If you are nominated with a job offer you will receive a work permit support letter to support you to apply to IRCC for a temporary work permit.
+
+Work permit support letter extensions
+You may request a work permit support letter extension if:
+
+you need to apply to IRCC for a work permit, and the work permit support letter you received with your nomination is expired
+you received a promotion from your approved employer and have an updated job title and/or National Occupational Classification (NOC) code
+your approved employer’s company name has changed (for example, because of a merger or acquisition)
+You can request an extension via our webform. Please include the following documents:
+
+a copy of your current work permit
+a recently dated employment verification letter from your approved employer
+copies of most recent 2 pay statements
+confirmation of your current residential address, and a completed Change of Personal Information Form, if applicable
+You may be required to provide additional or updated documents. OINP staff will contact you directly if additional documentation is required.
+
+If you are nominated as a self-employed physician, you are not eligible to receive a work permit support letter.
+
+Applying for permanent residence
+Your Confirmation of Nomination (nomination certificate) is valid for 6 months from the date of your nomination. You must apply for permanent residence before your nomination certificate expires.
+
+Learn more about how to apply for permanent residence as provincial nominee on IRCC’s website.
+
+Applying for permanent residence through Express Entry
+Under the Ontario Workforce Priority stream, you have the option to be nominated through the IRCC Express Entry system if you apply with a job offer under TEER category 0, 1, 2 or 3 of the NOC, or if you apply as a self-employed physician.
+
+Choosing to be nominated via Express Entry means you will be invited to apply for permanent residency via an IRCC invitational round for Provincial Nominee Program candidates. This may result in faster IRCC processing times for permanent residency.
+
+We will enter the details of your nomination into the IRCC Express Entry system. You will then receive a notification of your nomination through your IRCC online account.
+
+You have 30 calendar days to accept or refuse the nomination in the Express Entry system.
+
+If you accept, you will receive an additional 600 points for being nominated, which means you will receive an invitation to apply for permanent residence from IRCC in the next round of invitations.
+
+You then have 60 calendar days to submit your application to IRCC for permanent residence.
+
+You will need to include your nomination approval letter and nomination certificate.
+
+If you are nominated but become ineligible for Express Entry, you must apply to IRCC for permanent residence via the non-Express Entry application process for the provincial nominees.
+
+A nomination does not guarantee approval of your application for permanent residence with IRCC.
+
+Express Entry profile transfers
+You may request a transfer of your nomination to a new Express Entry profile if your original Express Entry profile has become ineligible.
+
+You can request a transfer to your new Express Entry profile by emailing and submitting a webform with both of the following:
+
+a copy of the letter you received from IRCC acknowledging the new profile with Express Entry number and job seeker validation code
+a copy of the letter received from IRCC explaining why your old profile became ineligible
+Request a nomination certificate extension
+You may request an extension of your nomination certificate if you applied to IRCC but your application for permanent residence was returned due to being incomplete, or you were delayed in gathering supporting documents (for example, police criminal record check) for your application for permanent residence and you were unable to apply before your nomination certificate expired.
+
+Only requests that comply with the above requirements will be granted.
+
+You can request an extension via our webform.
+
+Please include the following documents:
+
+a letter of explanation describing the reason to extend your nomination certificate
+a copy of the incomplete letter from IRCC (if applicable)
+confirmation of your current residential address, and a completed Change of Personal Information Request Form (if applicable)
+supporting documentation to demonstrate that you are meeting the conditions of your nomination:
+if you were nominated with a job offer under TEER category 0-5:
+a recent employment verification letter from your approved employer
+a copy of your current work permit
+copies of your most recent 2 pay statements
+if you were nominated as a self-employed physician:
+a description of your current employment status as a physician in Ontario, and include supporting documentation as applicable
+If you are not nominated
+If your application is unsuccessful, we will let you know by email.
+
+If you think we made an error in our decision that led to your application being refused, you may ask for an internal review. You must request an internal review within 30 calendar days after receiving a notice of decision.
+
+To request an internal review:
+
+Log into the OINP e-Filing Portal through your Ontario.ca Login.
+Under the column labelled “Action” on your main page, click the “Internal Review (IR)” button.
+Carefully follow the instructions provided on the webpage and ensure that the online Notice of Request form is properly completed, and the relevant documents uploaded.
+Submit the online Notice of Request form.
+Be sure to clearly indicate the error you identified in the decision or order that, if not made, would have resulted in a different outcome.
+
+Do not include any new information that you did not include in your original application unless that information was not reasonably available to you at the time the decision or order was made.
+
+The internal reviewer will only consider your request based on the above requirements and the decision of the internal reviewer is final.
+
+Internal review requests from individual applicants and their authorized representatives must be sent via the OINP e-Filing Portal. We will not accept requests by email, mail, fax or in person.
+
+The status of internal review requests can be checked online through the OINP e-Filing Portal.
+
+Disclaimer
+The OINP is governed by the Ontario Immigration Act, 2015 (Act) and its regulations. In the event of any inconsistency between the Act and its regulations and this page, the Act and its regulations take precedence.
+
+Contact us
+Ask us a question via webform or by phone from Monday to Friday from 9 a.m. to 5 p.m. at:
+
+Tel: 416-327-0374
+Toll-free: 1-866-214-6820 (toll-free within North America only)
+TTY: 416-325-0866
+Toll-free TTY: 1-866-853-2137
+If you have questions about your application for a visa or temporary permit or your application for permanent residence, please contact Immigration, Refugees and Citizenship Canada through their website or by telephone at 1-888-242-2100(in Canada only).

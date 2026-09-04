@@ -1,0 +1,112 @@
+# Chairperson Guidelines 7: Concerning Preparation and Conduct of a Hearing in the Refugee Protection Division
+
+*Effective date: December 1, 2006*
+
+Amended December 15, 2012
+
+1.2 The guidelines apply to most cases heard by the RPD. However, in compelling or exceptional circumstances, members will use their discretion not to apply some guidelines or to apply them less strictly.
+
+1.3 Generally speaking, the RPD will make allowances for self-represented claimants who are unfamiliar with the RPD's processes and rules. Claimants identified as particularly vulnerable will be treated with special sensitivity. The RPD may apply Guideline 8: Guideline on Procedures with Respect to Vulnerable Persons Appearing Before the IRB and identify as vulnerable those refugee claimants whose ability to present their case is severely impaired.
+
+### 2. The roles of members and counsel
+
+2.1 Under the IRPA, RPD members have the same powers as commissioners who are appointed under the Inquiries Act.Note2 They may inquire into anything they consider relevant to establishing whether a claim is well-founded.Note3This means that they define what issues must be resolved in order for them to render a decision.
+
+2.2 A member's role is different from the role of a judge. A judge's primary role is to consider the evidence and arguments that the opposing parties choose to present; it is not to tell parties how to present their cases. Case lawNote4 has clearly established that the RPD has control of its own procedures. The RPD decides and gives directions as to how a hearing is to proceed. The members have to be actively involved to make the RPD's inquiry process work properly.
+
+2.3 The role of counsel is the same whether counsel is representing a claimant or the Minister. Counsel assists the client in presenting the case in an efficient manner within the limits set by the member. Their role is essentially to protect the client's interests and right to a fair hearing.
+
+### 3. Case preparation
+
+3.1 To make the best use of hearing time, these guidelines emphasize the importance of case preparation within the time limits set out for hearings in the Immigration and Refugee Protection Regulations.Note5 Files will be reviewed early in the process, and the Refugee Protection Division Rules (RPD Rules) will be strictly followed.
+
+- A. Early review of files
+- 3.2 Prior to hearings, RPD members will review the files and provide any appropriate instructions to IRB personnel and the parties as required.
+
+B. Disclosure of documents
+### 3.3 The RPD and the parties must disclose documents that they want to use at the hearing according to the RPD Rules.Note6 Unless the member decides otherwise, a document that was not disclosed according to the RPD Rules cannot be used at the hearing.Note7
+
+### 3.4 Each document a party wants to use must be relevant and must not duplicate other documents provided by the other party, if any, or by the RPD.Note8
+
+3.5 Members may refuse to accept documents that are not relevant to the proceeding.
+
+3.6 The RPD will provide information on the country of reference. This means that every case will have some basic documentary evidence. The RPD may use information contained in the National Documentation Package (NDP) for the country of origin to which the refugee claim is related. In such cases, the RPD will provide a list of those documents to the parties or inform them of how to access the NDP from the IRB website.Note9 Parties have the responsibility to check, prior to the hearing, for any amended version of the NDP list of documents for the country of origin in question.
+
+C. Information requests to IRB Research Directorate
+3.7 The RPD will submit requests for country of origin and claimant-specific information to the IRB Research Directorate only where the time allows and where the RPD considers that the information is necessary to decide the case and cannot be obtained from any other source.
+
+### 4. Hearing preliminaries
+
+4.1 The procedure for opening hearings is standardized to allow more of the hearing time to be spent on the claim itself instead of on opening formalities. Hearings proceed informally, but all the participants must show respect for the RPD and the parties.
+
+- A. Failure to appear
+- 4.2 The hearing will begin promptly as scheduled. Participants must be present on time and ready to proceed by the scheduled start time.
+
+4.3 If a party or counsel does not appear by the scheduled start time, the member will note this on the record.
+
+4.4 If a party or counsel appears within 15 minutes after the scheduled start time, the member will note the explanation for the late arrival on the record.
+
+### 4.5 After 15 minutes:
+
+if it is a claimant who has not appeared, the member will either adjourn the hearing or the claimant will have to appear at a special hearing to explain why the claim should not be declared abandoned. This hearing must take place within the following five working days.Note10
+if it is a protected personNote11who has not appeared, the member will decide whether to proceed in the absence of that party or to adjourn the matter on a peremptory basis.
+if it is counsel who has not appeared, after giving the parties an opportunity to make submissions, the member may decide whether to proceed in counsel's absence, adjourn the proceedings or declare the claim abandoned.Note12 If the member decides not to adjourn the proceedings or declare the claim abandoned, the hearing must be held the same day the decision is made or as soon as possible after that day.Note13
+B. Conference before the hearing
+### 4.6 A brief conference with the parties will be held just before the hearing only where it would help make the proceedings fairer and more efficient.Note14 When the claimant is represented, the member and counsel will participate, but the claimant will not usually be present. A represented claimant may be present if the member decides it would be useful. If the claimant was not present at the conference, before the hearing begins, the member will summarize for the claimant what was discussed and what instructions the member gave at the conference. The member will make a written record of any decisions and agreements made at the conference.Note15
+
+C. Interpreters
+4.7 Interpreters are permanently bound by their promise to interpret accurately once they make a solemn affirmation to do so. Therefore, a member who knows that an interpreter has been sworn in before by the RPD should simply ask the interpreter to confirm that they have made the affirmation.
+
+4.8 At the beginning of the hearing, the interpreter will confirm that they have used a standardized script to make sure that the interpreter and claimant are able to speak to and understand each other.
+
+- D. Affirmation
+- 4.9 Before the claimant starts testifying, the member will ask the claimant to make a solemn affirmation.
+
+- E. Basis of Claim form (BOC form)
+- 4.10 The claimant is responsible for making sure that the BOC form was interpreted to them before the hearing. At the beginning of the hearing, the member will ask the claimant to confirm that the interpretation was done.
+
+### 4.11 Any changes to the BOC form must be submitted without delay and must be received at least 10 days before the hearing according to the RPD Rules.Note16
+
+- F. List of documents
+- 4.12 The member will not create a new list of documents. The member will use a standard RPD list of documents and will update this list when a party submits documents for a proceeding.
+
+### 5. Hearing
+
+5.1 It is an essential part of the member's inquisitorial role to be actively involved in the conduct of hearings. The member is in charge of the hearing and issues instructions as required to make the proceedings fair and efficient.
+
+- A. Issue agenda
+- 5.2 At the beginning of the hearing, the member will consult with counsel about the issues and will identify timelines and expectations for how the hearing will unfold.
+
+B. Questioning
+5.3 RPD rule 10 sets out the standard order of questioning. In a claim for refugee protection where the Minister is not a party, the standard will be for the member to start the questioning, followed by counsel for the claimant.Note17 Beginning the hearing in this way allows the claimant to quickly understand what evidence the member needs from the claimant in order for the claimant to prove their case.
+
+### 5.4 Minister's counsel will start the questioning if the Minister is a party and has intervened on an issue of exclusion under section E or F of Article 1 of the Refugee Convention, followed by the member and then counsel for the claimant.Note18
+
+### 5.5 The member will start the questioning when the Minister is a party but has not intervened on an issue of exclusion under section E or F of Article 1 of the Refugee Convention, followed by the Minister's counsel and then counsel for the claimant.Note19
+
+5.6 The member must not vary the order of questioning unless there are exceptional circumstancesNote20 such as the need to accommodate a vulnerable person. Applications under Guideline 8: Guideline on Procedures with Respect to Vulnerable Persons Appearing Before the IRB should be made early in the process and according to the RPD Rules.
+
+5.7 The member may limit the questioning of witnesses according to the nature and complexity of the issues.Note21 Questioning must bring out relevant information that will help the member make an informed decision. Questions that are answered by the claimant just repeating what is written in the BOC form do not help the member.
+
+C. Representations
+5.8 Parties will have an opportunity to make representations at the hearing.Note22 The member will set time limits for the representations after all the evidence has been heard. The time limits will be reasonable in relation to the duration of the hearing, the number of issues and the amount of relevant evidence heard.
+
+5.9 In general, it is expected that counsel should be ready to give oral representations after the evidence has been heard.Note23 These representations must be relevant, focused and concise so that they help the member to decide the claim efficiently and make it possible for the member to give an oral decision and reasons at the end of the hearing.
+
+- D. Oral decisions
+- 5.10 RPD members will render oral decisions and reasons at the end of the hearing "unless it is not practicable to do so".Note24
+
+### 6. References
+
+Immigration and Refugee Protection Act, S.C. 2001, c. 27.
+Refugee Protection Division Rules, SOR/2012-0256.
+### 7. Inquiries
+
+For more information, please contact:
+
+- Director, Policy and Procedures Directorate
+- Immigration and Refugee Board of Canada
+- Minto Place—Canada Building
+- 344 Slater Street, 14th Floor
+- Ottawa, Ontario K1A 0K1
+- Fax: 613-952-9083

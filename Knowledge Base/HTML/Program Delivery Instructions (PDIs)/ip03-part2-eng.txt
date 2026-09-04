@@ -1,0 +1,1121 @@
+Resettlement Assistance Program (RAP)
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+The Resettlement Assistance Program (RAP) is a contribution program. It has two main components: income support and assistance for a range of immediate essential services.
+
+Immediate and essential services are delivered by Service Provider Organizations (SPOs), generally within the first 4-6 weeks of a newcomer’s arrival in Canada. Activities include the following:
+
+meeting newcomers at the airport or final destination in Canada
+providing temporary accommodation
+providing basic orientation to Canada, life skills training and financial orientation
+assisting in finding permanent accommodation
+referring to other settlement programs
+
+Resettlement Assistance Program (RAP): Eligibility: Immigration categories eligible for support
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+Permanent residence categories
+The following table shows the immigration categories that may qualify for income support and immediate essential services. For more information, see the Immigration and Refugee Protection Act (IRPA) regulations for eligibility: R139(f)(ii) and R144-148.
+
+A person’s immigrant category is identified in the:
+
+Application details on the Confirmation of Permanent Residence, or
+Immigrant Category box of a Temporary Resident Permit
+Immigration categories that may qualify for income support and immediate essential services
+Category	Description	Special Needs Cases
+CR1	Government-Assisted Refugee	 
+CR5	Government-Assisted Refugee	Under joint assistance sponsorship
+RA5	Government-assisted member of Designated
+Humanitarian Asylum Class Country	Under joint assistance sponsorship
+CRS	Privately sponsored refugee admitted to Canada
+under cost-sharing/blended initiatives are also eligible to receive prescribed RAP income support based on specific initiatives set out by the Department.	Must not be special needs case
+Permanent residents admitted to Canada who were granted permanent residence under section 25.1 of IRPA are also eligible to receive income support or RAP services. The approval of RAP funding for these persons is restricted to Directors General.
+
+Permanent residents admitted to Canada, who were granted permanent residence under section 25.2 of IRPA as part of a group under public policy established by the Minister on unique and compelling humanitarian situations and where no other means of financial support is available are also eligible to receive income support or RAP services.
+
+Note: The approval of RAP funding for these persons is at the discretion of the Minister.
+
+Temporary resident categories
+Government Assisted Refugees (GARs) arriving on temporary resident permits (e.g., urgent protection cases) are considered to be part of the Protected Permanent Residence Class and are eligible for RAP income support and services upon arrival in Canada.
+
+Resettlement Assistance Program (RAP): Eligibility: Exceptions
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Sponsorship breakdown
+Blended and cost-sharing
+Income support for BVORs before and after a breakdown
+Sponsorship breakdown
+RAP income support may be provided to refugees who are admitted to Canada under the sponsorship of an eligible sponsor in exceptional or emergency situations, and when a sponsorship breakdown has been declared or while sponsorship is in the process of a breakdown. The refugee should first apply for social assistance benefits as they will be provided with a letter from IRCC indicating that the sponsorship has officially been declared a breakdown and should first be referred to the local municipal or provincial social assistance authority.
+
+RAP income support should be provided only in exceptional circumstances and as a last resource, where the refugee has demonstrated that they have no alternate means of financial support. These cases are rare and require consultation and approval by NHQ-IN-ROD. For refugees admitted under a Group of Five (G5) or Community Sponsorship, all efforts should be made to refer them to the local municipal or provincial social assistance authority for support, where possible. The duration of income support is calculated based upon:
+
+the unfulfilled portion of the sponsorship undertaking (for example, the balance of the 12 month period) or
+the time until the person is self-sufficient, whichever comes first
+These cases may require the local IRCC office to refer the refugee to a RAP SPO for orientation on income support and financial responsibilities, on an exceptional basis only and as required.
+
+Blended and cost sharing initiatives
+Under the Blended Visa Office Referred (BVOR) Program, refugees are referred to Canadian visa offices abroad directly by the United Nations Refugee Agency (UNHCR). Under the BVOR Program, the Government of Canada will generally provide up to six months of income support directly to the refugees through RAP, while private sponsors will provide another six months of financial support, start-up costs, and up to a year of social and emotional support.
+
+More information on the BVOR program, including the “RAP and the BVOR program Questions and Answers”, can also be found on the Refugee Sponsorship Training Program’s website.
+
+In addition to the BVOR Program, the Department may also enter into other cost-sharing initiatives where financial support is provided for individual or group-processed Privately Sponsored Refugees (PSRs) or BVORs either directly to the refugees or, more exceptionally, directly to a sponsoring group; details will vary depending on the nature of the initiative.
+
+Due to the potential impact on the RAP budget, all cost-sharing or blended initiatives involving RAP funds are approved at the national level by NHQ-IN-ROD and involve consultation with other branches such as finance. Separate instructions regarding implementation will be provided for any cost-sharing initiatives as they arise and receive departmental approval at the national level.
+
+Income support for BVORs before and after a breakdown
+In the event of a breakdown, or a situation where RAP support is required before a breakdown is declared, BVORs are eligible to access RAP income support and services (as needed) in order to ensure their continued financial needs are met and that they have continued access to resettlement support.
+
+Prior to the breakdown, the International Network – Resettlement Operations Division’s Resettlement Services Assurance Team (RSAT) will work with the sponsor to determine whether the sponsorship can be continued (e.g., by assessing residency requirements in the case of a secondary migration, to mediate between parties in a dispute situation, or to find a replacement sponsor). If the sponsorship cannot continue, the RSAT will declare a breakdown and inform the local offices at both the original destination and new destination (if applicable). The Resettlement Services Unit will also provide guidance to the local office on continuation of income support, if needed. Typically the period of income support may continue if the client is still in need of income support, up until their 12-month commitment period is over, or until they become self-sufficient.
+
+Typically any additional RAP Income support will commence effective as of the date of breakdown as indicated on the breakdown letter from the RSAT, however in certain situations urgent support may be needed prior to the breakdown and the Resettlement Services Unit will communicate this guidance with the local office on a case-by-case basis.
+
+If the breakdown (or need for income support before the breakdown is declared) occurred after the 6‑month RAP income support period has already ended, the local office in the community of residence should re-open the RAP-IS file in GCMS and create a new commitment with a new start date typically effective on the date of the breakdown (as confirmed by the RSAT), and update the commitment in SAP so that income support may be provided based on the current and ongoing financial needs of the BVOR. 
+
+Resettlement Assistance Program (RAP): Eligibility: Qualifying for income support and eligibility period
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+Income support, administered by IRCC, can be provided for up to 12 months for Government-Assisted Refugees (GARs). In exceptional circumstances and for higher needs clients (e.g. Joint Assistance Sponsorship (JAS) cases), income support can be provided for up to 24 months. In rare cases involving separated minors it can be provided for up to 36 months.
+
+GARs are eligible for the Interim Federal Health Program medical coverage.
+
+Basis of income support rates
+The delivery of income support is based on national and provincial or territorial standards.
+
+Monthly income-support entitlements for shelter, food and incidentals are guided by the prevailing provincial or territorial social assistance rates, which vary in each province.
+
+Other entitlements, such as the staple allowance or maternity allowance, are based on standard national maximum rates that are part of RAP.
+
+For additional information, please refer to the RAP Terms and Conditions and RAP allowances.
+
+Income support rates are to be paid as maximums and should not be exceeded, with the exception of shelter allowance and housing supplement, which are determined based on actual costs up to maximum amounts. In exceptional cases, where maximums need to be exceeded, approval must be obtained from NHQ-IN-ROD through an exceptional allowance request, based on the recommendation of the local supervisor or manager.
+
+Qualifying for income support
+Refugees qualify for income support when they cannot provide the basic needs of life for themselves or their dependants.
+
+Basic needs of life include the following:
+
+Food and incidentals
+Shelter
+Clothing
+Basic furniture (beds, table, chairs, etc.)
+Other essential household goods (linens, pots and pans, etc.
+Eligibility period
+Income support allowances are based on criteria that consider the client’s ability to meet ongoing basic needs for the duration of their entitlement period.
+
+Benefits for Principal Applicant (PA) or Head of Family (HOF) and accompanying dependants are normally provided
+for 12 months from the date of arrival in Canada or
+until the client has sufficient income and resources available to provide for themselves - whichever comes first.
+The eligibility period for non-accompanying dependants is based upon their arrival date (not that of the PA or HOF) and ends up to 12 months later.
+Extension of Eligibility Period
+In certain circumstances, the period of income support eligibility may be extended for up to an additional 12 months. This includes situations of
+
+special needs where there is a joint assistance undertaking signed by IRCC and a SAH;
+exceptional circumstances determined on a case-by-case basis in consultation with a supervisor or manager and NHQ-IN-ROD. In these situations, the support of a private sponsor is not always required. However, one may be recommended. An extension of this kind is rare.
+Age of Majority
+Age of majority refers to the age in which a person is considered an adult according to the provincial jurisdiction where they reside. In Canada, the age of majority is 18 in the provinces of
+
+Alberta
+Manitoba
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+The age of majority is 19 in
+
+British Columbia
+New Brunswick
+Newfoundland
+Northwest Territories
+Nova Scotia
+Nunavut
+Yukon
+When a person reaches the age of majority after arrival in Canada, the RAP officer will create a new RAP application using their UCI and will create a new commitment for them effective of the first of the following month after their birthday. The payments can still continue to be paid out to the HOF if the overage dependent is still living at home, by associating the file to the HOF’s RAP application with a Party ID, and using the HOF as the vendor.
+
+RAP clients who have not yet reached the age of majority may have their own RAP application created in GCMS, but will require a financial trustee who is able to receive and manage the funds on their behalf until they reach the age of majority. See also: Separated minors.
+
+In cases where a minor has left the home and is not able to find a financial trustee, NHQ-IN-ROD should be consulted to determine next steps, as there may be exceptions granted in certain circumstances for minors aged 16 or over. RAP officers should consult respective provincial policy directives to determine whether the case may meet criteria to issue financial support to the minor.
+
+When a minor is a parent to a child of their own and is still living with parent(s)/guardian, the minor and their child will be considered as dependents on the original adult file for the purposes of calculating income support rates.
+
+Resettlement Assistance Program (RAP): Eligibility: Roles and responsibilities
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+NHQ-International Network Refugee Operations Division (IN-ROD) functional guidance responsibilities
+International Network – Resettlement Operations Division is responsible for the following:
+
+providing coordinated functional guidance and support to the local office supervisors and managers on the delivery of RAP, as required
+Resettlement Assistance Program officer (Settlement Network) responsibilities
+Local IRCC offices are responsible for the following:
+
+monitoring that income support for food, shelter and basic allowance,  or  transportation are consistent with the current provincial social assistance (SA) or community transit rates, and reporting provincial social assistance rate and policy changes to NHQ-IN-ROD.
+ensuring that entitlements provided to RAP income support recipients are in accordance with established rates. A RAP rate may only be exceeded
+on an exceptional case-by-case basis, and
+where prior authorization from the NHQ-IN-ROD is received
+calculating RAP overpayments and requesting the setup of accounts receivable;
+maintaining case files and making changes to RAP income support, as required, based on a change of client status
+monitoring the delivery of the program to determine the appropriateness of the range, level, and quality of immediate essential services
+monitoring clients to obtain information on the degree of settlement and support they are receiving.
+negotiating and managing contribution agreements with SPOs for the delivery of RAP services.
+Client responsibilities
+Client Responsibilities include the following:
+
+repaying all loans
+ensuring income support is used to pay monthly expenses including rent and utilities
+reporting to the IRCC RAP officer any change of status, this can also be done by contacting their nearest Service Provider Organization
+adults are expected to be engaged in activities that will lead to self-sufficiency, e.g.
+enrolled in programs normally outside of the public school system including language or job training programs or attending a post-secondary institution
+seeking employment and/or
+employed
+children are expected to be
+Enrolled in and attending classes through the education system
+If an IRCC officer becomes aware that a client is not actively seeking to become self-sufficient, the client should be strongly encouraged to re-reconnect with their RAP or Settlement SPO worker to receive required supports. This may be particularly important for women with young children, seniors and special needs clients to ensure that they are receiving the appropriate support to facilitate physical, psycho-social and emotional well-being and minimize isolation during their initial resettlement.
+
+Resettlement Assistance Program (RAP): Pro-rating and personal assets
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Pro-rating
+Personal assets
+Pro-rating
+RAP ongoing monthly allowances are to be pro-rated according to the below chart to ensure that RAP income support is provided for no longer than 12 months (or 24 months for Joint Assistance Sponsorship (JAS or exceptional circumstances) from the date of arrival in Canada. Pro-rating applies to both the first month after move-out and the last month of RAP, according to the end of commitment date. Other allowances added on to the commitment (e.g., special diet allowance) may also follow a pro-rated structure (for instance commencing from date of receipt of medical note).
+
+The national standard formula for pro-rating a daily amount for most RAP allowances is RAP amount x 12 / 365 days, however transportation daily rates are calculated according to the actual costs of a two-way journey or a daily transit pass in the community (where available), up to a maximum of the monthly transit rate in that community.
+
+Personal assets
+Personal assets, for the purpose of RAP calculations, is the sum of money that RAP-recipients are bringing into Canada with them at their time of arrival, and/or will have access to during their time on RAP.
+
+To determine the impact of reported personal assets on RAP entitlements, the RAP officer will first calculate the maximum personal assets that refugees can retain without affecting their level of income support by using the Maximum Allotment for Personal Assets table. Any remaining assets will be factored into determining how much of their outstanding RAP allowance will be adjusted. If there are remaining assets above the maximum allowable for personal assets, the refugee can then be given the option to apply the funds against the balance of their immigration loan before determination of whether the RAP allowance should be discontinued, or when monthly entitlements should resume.
+
+The intent is that personal asset overages should be used by the clients as a source to meet their basic needs, as RAP income support is intended for clients who are unable to provide for the basic needs of themselves and their dependents. Where a client may possess personal assets beyond the maximum retention thresholds identified below, the overage adjustment (i.e., the amount over the maximum personal asset threshold, after any applicable loans payments) should be equalized over the remaining number of whole months in the commitment period to determine an equalized adjusted amount to the monthly income support amount.
+
+Note: Pro-rated months may not have sufficient balance for the reduction in that month, so may not be factored in the equalization calculation, depending on the balance.
+
+If the monthly adjustment is equal or greater than the monthly payment amount under 59003 (e.g., the monthly amount is reduced to 0 for all remaining commitment months), then the client may not require ongoing monthly income support, unless their financial situation changes. In some cases, upon review of the Declaration of Funds and Assets form and information available in GCMS, clients may be reporting large amounts of personal assets upon arrival that may have the potential to exceed their original committed amounts. Therefore, based on a quick scan of the reported personal asset amounts, RAP officers/RAP SPOs may wish to hold off on the issuance of the initial payment cheque until after calculations are made, in order to avoid potential overpayments.
+
+Evaluating personal assets
+At the time of arrival in Canada, refugees are asked by the Canada Border Services Agency (CBSA) to declare funds in their possession. This information is entered into the Global Case Management System (GCMS) under the confirmation of permanent residence screen, in the field titled “Funds in Possession”.
+
+During RAP orientation delivered by SPOs, clients must declare funds and assets, either in their possession or which they can access or expect to receive at a later date. This information is included in the Declaration of Funds and Assets form found in the RAP SPO delivery handbook. RAP officers should confirm that all personal assets were declared either during the client’s initial interview with IRCC, or with the RAP SPO prior to issuing the initial payment cheque to the client.
+
+Maximum allotment for personal assets
+Personal assets are taken into consideration when determining the level of income support to issue to the client.
+
+The following table shows the maximum personal assets that refugees can retain without affecting the amount of income support they may receive. Any remaining assets will be factored in when determining the level of income support to be issued.
+
+Maximum amount allotted of personal assets (Canadian dollars)
+Family Composition	Amount
+Single person	$5000
+Couple	$7500
+Single plus one dependant	$7500
+Each additional dependant	$2500
+Example
+The following is an example of how income support would be calculated for a single mother with one dependant arriving in Canada with $8000 in personal assets.
+
+Available personal funds upon arrival in Canada: $8000
+Subtract: maximum allowable personal exemption: $7500
+Amount in excess of the maximum allowable: $500
+In this example, the family is $500 in excess of their personal assets limit, and this amount needs to be factored into their eligibility for income support.
+
+The family should first be given the option to apply the funds against the balance of the immigration loan account before determination of impact to RAP entitlements.
+
+If their balance of their loan account is already paid, or if the refugee chooses not to make a payment against their loans account, the remaining personal assets amount in excess of the maximum allowable amount should be applied against their future RAP payments on a dollar per dollar basis, spread out equally over the balance of remaining months in their commitment. In this way the monthly amounts issued under GL 59003 will be reduced until it reaches 0, at which time the clients may not require income support, unless their financial situation changes.
+
+Liquidation of personal assets
+If the officer has received information that a RAP client has personal assets or other sources of income, the officer should consult with their supervisor or manager on the possible options listed below.
+
+IRCC RAP officers can determine what personal assets people have with them by:
+
+asking the client
+requesting from the SPO to submit on behalf of the client a signed copy of the Declaration of Funds and Assets on Arrival form
+checking GCMS on the confirmation of permanent resident screen
+asking the client for a copy of the CBSA forms (Immigrating or Settling in Canada – archived) completed upon arrival in Canada, if applicable.
+Clients are not obligated to liquidate personal assets or gifts to receive RAP income support. However, possession of these assets should be taken into consideration in assessing their need for RAP, for instance if the assets owned by the client are beyond what is normally owned by people requiring income support, the income support may be reduced or refused.
+
+All such decisions must be documented on the client’s file, with approval or consultation with the RAP supervisor.
+
+Resettlement Assistance Program (RAP): Calculating income support (payment timeline)
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+This section outlines income support amounts on a month-by-month basis, including items to be considered when calculating each monthly income support payment.
+
+Reminder: RAP income support is provided for no longer than 12 months (or for up to 24 months for Joint Assistance Sponsorship (JAS) or exceptional circumstances) from the date of arrival in Canada, as per the RAP Terms and Conditions.
+
+On this page
+Month 1: initial payment cheque
+Month 2: pro-rated move adjustment
+Months 3 to 11
+Month 12
+Year 2
+School start-up
+For more information
+Month 1 (initial payment cheque - full monthly income support plus start-up allowances)
+This first payment will typically be in the form of a cheque and will be based on the information received in the Notification of Arrival Transmission (NAT), as the client has not yet arrived in Canada at the time of the payment creation. It is to be prepared upon receipt of the NAT prior to the arrival of the client and delivered to the client during the intake interview with the IRCC officer or RAP SPO.
+
+The initial payment cheque
+The first payment amount that a client will receive from IRCC will include an amount for their first full month of income support and start-up allowances, and is referred to as the initial payment cheque.
+
+Calculating the initial payment cheque
+The RAP income support calculation tool is used to calculate payment amounts. Once start-up and monthly calculations are completed, and the commitment request form is signed, a payment request is then sent to NPAS to process the initial payment cheque.
+
+Clients should also be provided with a breakdown of the payments they should expect to receive which outlines the amounts of their start-up and monthly allowances, (including their adjustment month, and prorated end month). This information should also include:
+
+name and date of birth of each family member
+family size and configuration
+date of Arrival
+breakdown of start-up allowances
+breakdown of monthly allowances
+details of applicable move adjustments
+total initial payment cheque amount
+assistance loan amount (if applicable)
+In cases where an urgent payment is required, a priority payment may be requested.
+
+Entitlements are based on age at date of arrival. However, for dependants who reach the age of majority during the eligibility period, income support changes may be applied based on their situation.
+
+The assistance loan
+The assistance loan provides financial assistance to foreign nationals, permanent residents, Convention refugees and members of the Humanitarian-protected persons abroad classes to cover the costs associated with the initial settlement of persons granted admission to Canada.
+
+Assistance loans may be authorized for damage deposits for such things as returnable utility deposits (e.g., hydro, telephone, heat) and a rental deposit. An assistance loan may also be issued to cover the last month’s rent in regions where it is paid in lieu of a damage deposit at the same time as first month’s rent. The amount of the assistance loan can be based on the actual rental or lease cost and not be restricted by the prescribed RAP shelter allowance rate.
+
+A loan for basic needs of life may also be issued when clients are experiencing delays with other federal benefit programs such as the Canada Child Benefit program, and have demonstrated that they are otherwise unable to cover the costs for day-to-day survival and human dignity. For more information, consult the procedures for Assistance loans.
+
+Assistance loans can also cover certain labour market access costs such as the purchase of required tools or work clothing where a job is secured. They may also be approved to cover costs of licensing examinations where employment is offered, pending the successful outcomes of a licensing exam.
+
+The remarks on the Immigrant Loans (Assistance Loans) form (IMM 5355) should indicate the breakdown of the loan amount and must indicate how much is provided for the following:
+
+rent deposit (e.g., security, first and last month rent)
+utility deposits
+telephone deposit
+labour market access
+The remarks on the Immigrant Loans (Assistance Loans) form (IMM 5355) should also be used by the authorizing officer to document their decision for approving the loan as per the Assistance loans instructions.
+
+If the client is receiving an assistance loan, they will be required to first sign an Immigrant Loans (Assistance Loans) form (IMM 5355). The loan is to be issued as a stand-alone payment.
+
+Month 2 (pro-rated move adjustment payment)
+The food and shelter entitlements in the second payment (covering the period after the clients leave temporary accommodation until the end of that month) will be pro-rated based on the number of days in a permanent accommodation and will usually amount to less than a normal full-month total (unless they moved out on the 1st of the month).
+
+Example of the pro-rated payment
+Scenario: RAP client arrives on June 8 and stays in temporary accommodation before moving to permanent accommodation on June 18. Therefore, the client was not eligible for monthly allowance prior to June 8 or from June 8 to June 17 (the last full day in temporary accommodations), as they were being supported by the RAP SPO while they were in temporary accommodations.
+
+Calculations
+Determine shelter allowance per day
+Full month’s shelter allowance is $625 x 12
+Divide by 365
+Equals $20.55 per day
+Determine food and incidental allowance per day
+Full month’s food & incidentals is $594 x 12
+Divided by 365
+Equals $19.53 per day
+Do this calculation for:
+Food
+shelter
+Housing supplement
+communication allowance
+any other special monthly allowances (e.g., special dietary or age of majority top up allowance)
+For each of those allowances, multiply the per day amount calculated above by the number of days eligible or required
+They were in their permanent accommodation from June 18 to the end of the month. This totals 13 days.
+Therefore, 13 days x $20.55 = $267.15 of shelter allowance; and 13 days x $19.53 = $253.89 of food and incidental allowance, etc
+For transportation: Transportation daily rates are calculated according to the actual costs of a two-way journey or a daily transit pass in the community (where available), up to a maximum of the monthly transit rate in that community, for each adult 18 and over.
+Add the pro-rated amounts for each allowance together to determine the total amount for their pro-rated month
+
+In instances where the rental amount is less than the amount issued in the initial payment cheque for rent and housing supplement, a retroactive adjustment needs to be made, and can be applied in this second month.
+
+The month 2 payment may also include conditional allowances that were not provided on the initial payment cheque due to insufficient information, such as any allowances requiring a medical note.
+
+Months 3 to 11
+Monthly payments may include:
+
+Food, incidental and shelter entitlements
+national allowances
+conditional allowances
+Income support may need to be adjusted based on receipt of a Change of Status Form from the client, or the approval of an exceptional allowance request. It is important to update financial commitments if the family situation changes.
+
+Month 12
+This payment should be pro-rated in a similar fashion based on the date the refugee becomes ineligible for RAP (e.g., if the date of arrival was June 8, eligibility for RAP allowances ends on June 7 the following year.)
+
+Year 2 for clients receiving 24 months of income support
+On the 13th month payment for JAS clients, additional regular and winter clothing allowances can be administered.
+
+School start-up
+Some families may require the amount twice, if the entitlement period spans two school years. Families who arrive between September 1 and May 31 are eligible to receive the entitlement twice; once as part of their start-up and a second installment which can be issued in the August payment.
+
+Some JAS families may receive a 3rd installment of the amount, for the same reasons as above, in the month of August in their second year of JAS.
+
+For more information
+Allowances
+Financial commitments and forecasts
+Issuing payments
+
+Resettlement Assistance Program (RAP): Delivering income support
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Processing a RAP payment
+Re-issuing start-up allowances
+Issuing RAP funds to a third party
+Delivering the initial payment cheque
+Payment options
+Requesting a priority payment
+Processing a RAP payment
+The RAP calculation tool is used to calculate RAP payments throughout the client’s eligibility period. Once the file has been created using the RAP calculation tool, the following processes should take place.
+
+Vendor
+A vendor is first created in SAP by using the client information found in GCMS and using the local office or SPO coordinates as the temporary address, where the initial payment cheque will be sent. Officers must be sure to set up vendor information as per instructions provided by Finance-Vendors.
+
+When creating the vendor in SAP, the local IRCC office address or the RAP SPO’s mailing address can be used as the vendor address for the initial payment cheque, depending on local procedures for cheque distribution. It is important to note that the cheque will go directly to that address, so to ensure it is entered correctly. Always consult the Canada post website for correct format of address, and use ALL CAPS.
+
+Commitment
+The Commitment Request Form is used to approve the initial commitment and when additional financial assistance is approved or if the commitment is transferred from one fund centre to another, requiring a signature from the Responsibility Centre Manager (RCM) with delegated authority.
+
+The Responsibility Centre Manager (RCM) with delegated authority must ensure that funds are committed and sufficient for the client (Section 32) prior to approval of expenditure (Section 34)
+
+If the funds are unavailable or insufficient, additional funding must first be requested.
+
+Once funds are committed in SAP, the payment process can be initiated.
+
+Payment
+Once a payment amount is calculated, a payment document must be created in SAP, including any recurring monthly payments. This function is generally performed by the local office.
+
+For one-time payment entries, in order to request one or more payment(s) to be processed, the local office will send a request via email to National Payment and Accounting Services (NPAS) to create and send back a proposal list.
+
+For recurring payment entries, a monthly proposal list is automatically sent to the local office by email from NPAS.
+
+The Responsibility Centre Manager (RCM) with delegated certification authority under Section 34 of the FAA (delegated authority) must sign and date the last page of the proposal list in the designated signature block.
+
+Re-issuing start-up allowances
+The start-up allowances are usually only issued once. However, there are certain circumstances under which another payment might be re-issued. These may include the following:
+
+loss or theft of items (this should be treated on a case-by-case basis and requires documentation, such as a police report as proof)
+fire or other type of event (an official record is required to confirm the incident occurred)
+other circumstances to be considered on a case-by-case basis, such as marital separation
+Approval from NHQ-IN-ROD via an exceptional allowance request is required for reissuance of start-up allowances.
+
+A completed Undertaking and Indemnity Form 535 (PDF, 354 KB) is required for lost cheques.
+
+Issuing RAP funds to a third party
+With local office manager or supervisor approval, RAP funds can be issued to recipients “in care of” a third party, such as a financial administrator, group home, or community care facility in exceptional circumstances.
+
+Delivering the initial payment cheque
+The initial payment cheque is normally provided to the client within the client’s first 3-7 days in Canada and after the client has received some basic orientation from the RAP SPO.
+
+When the IRCC RAP officer (or RAP SPO on IRCC’s behalf) issues the initial payment cheque, the following documentation should also be given to and/or signed by the client:
+
+initial payment cheque (a signed and dated photocopy is saved on file if cheque is handed to the client by the SPO)
+completed RAP Start-up/Initial Cheque form/client budget form (or any form detailing the breakdown of payments to the client, including initial cheque amounts)
+Agreement for Income Support Recipients
+Immigrant Loans (Assistance Loan) form (IMM 5355)
+supply of Change of Status Form to be given to the client
+IFH documents, if not already provided at POE
+Completed Declaration of Funds and Assets form signed by the client
+It is important for IRCC RAP officers or RAP SPO workers to advise clients that this payment includes a one-time start-up allowance, and it will also include a first full month allowance to cover the first full month starting on the next month after they move out of temporary accommodation.  Clients should likewise be counselled on the schedule for subsequent payments, including the prorated months (adjustment month and final payment month) and be also informed of any potential retroactive adjustments to amounts issued in the initial payment cheque, once housing costs are known. If a loan form was signed, a payment will subsequently be issued for security deposits (or, last month’s rent) and utility deposit. In some cases the furniture will be provided by a supplier and therefore a full dollar value may not be included in the start-up allowance.
+
+Intake interviews are often administered with the assistance of an interpreter and can include multiple clients at a time, depending on the situation, e.g., large families with more than one file or multiple clients.
+
+Payment options
+There are three methods of payment:
+
+Government of Canada cheques (until a client is on Direct Deposit)
+Direct deposit (should be initiated as soon as possible)
+Priority cheques (in emergencies)
+If there is sufficient notification time (7-10 days) prior to the client’s arrival, a Government of Canada cheque should be issued for the initial payment cheque. The cheques should be mailed to the local IRCC office or the SPO address and secured until the refugee arrives in Canada.
+
+Shortly after arrival, clients will receive assistance from the RAP SPO in completing the Direct Deposit Request – Payments to RAP Recipients form, which can then be sent by email directly to IRCC at: IRCC.FINVendors-FournisseursFIN.IRCC@cic.gc.ca.
+
+In instances where the use of government of Canada cheques or Direct Deposit is not possible due to the urgency of the payment, Priority Payments may be issued from NPAS, however justification must be provided regarding the urgency of the payment, as this process requires additional resources and time. Therefore all measures should be taken to issue Government of Canada cheques or to set-up direct deposit, before resorting to this alternative method.
+
+Requesting a priority payment
+National Payment and Accounting Services (NPAS) has the capacity to print cheques on-site for urgent payments. Regions who would like to use that service on an exceptional basis (taking into consideration urgency and materiality) should follow the payment process above, with the following additional steps when requesting the payment.
+
+The finance officer for the office involved must enter the payment document in SAP using payment type "O".
+
+The office involved must provide NPAS with the following document by email with subject line Priority Payment:
+
+a copy of the Supervisor/Manager’s “Acceptance of financial authorities letter” so that NPAS can visually validate the Sec. 34 signature appearing on the payment form
+a Priority Payment Request Form (FIN 0024), indicating the SAP document number (i.e., the 190XXXXXXX), and the nature of urgency must be provided in the justification box.
+The form is then emailed to NPAS with a subject line of “Priority Payment” so that urgent requests can be filtered.
+
+NPAS will then print the physical cheque.
+
+Once the physical cheque is printed, it will be sent by special courier.
+
+Cancelling cheques: Occasionally there will be a no-show or a self-destination situation, or other reasons where the original office has already requested the initial payment cheque, and will no longer be providing it to the client. When cheques are not being delivered to clients, they should be returned to NPAS to cancel them. Arrival delays longer than 6 months should also be returned for cheque cancellation, especially if the period spans two calendar or fiscal years.
+
+Resettlement Assistance Program (RAP): Calculating the 50% additional income incentive
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+RAP allows clients to earn up to 50% of their total monthly RAP income support payment before any deduction is made to the monthly income support entitlement. Once the additional source(s) of income for the individual or family has surpassed 50% of their monthly RAP entitlement, all RAP funds over that threshold are reduced on a dollar-for-dollar basis for each dollar earned over the incentive allowance amount. Adjustments to RAP are effective every month in which the additional income is earned or received.
+
+Exception: Where the employment income is earned by any member of the family attending secondary school on a full-time basis, the income is not to be included in the total of the family earnings.
+
+Note: Additional income earnings in months where income support is not received (e.g., time spent in temporary accommodations, or for months where RAP is already reduced to $0) are not subject to deductions, however all earnings still need to be reported in order to confirm exemption.  
+
+For months where earnings are identified and RAP income support was issued, adjustments  are deducted from a following month’s entitlement. Should repayment cause hardship, deductions may be staggered over a number of months. Seasonal or irregular payment periods, where clients are not paid for their earnings within a monthly period, should be considered on a case-by-case basis on the best approach to calculate earning exceptions, with approval from the IRCC RAP supervisor/manager, and consultation with NHQ-IN-ROD as required.
+
+If the individual is no longer in receipt of RAP, an accounts receivable overpayment account should be created through NHQ-Finance. Learn more about Overpayment of RAP.
+
+Changes to employment status should be reported on the Change of status form.
+
+On this page
+What is considered earned income
+Entitlements that are considered monthly income support
+Determining net employment income
+Child care expenses
+Sample calculation
+Dependent adult children reaching age of majority
+What is considered earned income
+Earned income is when a member of the family engages in or receives any of the following:
+
+Full or part-time employment
+Employment Insurance or Workers’ Compensation benefits, or both
+Training allowance
+Paid Work Experience Program
+Student loan
+Student grant or scholarship
+Student bursary or award
+Other financial resources or assets (inherited or otherwise)
+Sponsor contributions
+Full or part-time employment
+Employment income is:
+
+considered to be earned income and
+subject to the 50% rule after which earned income is deducted on a dollar-per-dollar basis
+Employment Insurance or Workers’ Compensation benefits, or both
+EI or Workers’ Compensation income is:
+
+considered to be earned income and
+subject to the 50% rule
+Training allowance
+Training allowances, which cover monthly living expenses (even if issued as a lump sum) are:
+
+considered to be earned income; and
+subject to the 50% rule after which earned income is applied on a dollar-per-dollar basis.
+However, any special allowance intended for tuition, books, supplies or tools is not considered earned income and shall be exempt from the 50% rule.
+
+Paid Work Experience Program
+Salary is considered earned income. The 50% rule applies. Allowance for supplies and tools is exempt from the 50% rule.
+
+Student loan
+Repayable student loans (including the living allowance portion) are not to be considered earned income. The 50% rule does not apply, however officers should re-evaluate the client’s need for income support in light of what living expenses are already covered through the loan.
+
+Student grant or scholarship
+Student grants and scholarships may be considered earned income. Only the living allowance portion is to be considered earned income, and subject to the 50% rule. If the grant documentation does not specify the portion for living allowance, the officer is to assume that the grant is directed at tuition costs, and the 50% rule will not apply.
+
+Student bursary or award
+Student bursaries and awards are not to be considered earned income where funds are credited against an existing Canada Student Loan or provincial loan or deposited directly with the academic institution of choice, and therefore the 50% rule will not apply. If the funds are provided directly to the student, treat them as a grant or scholarship (50% rule only applies to funds clearly allocated for living expenses).
+
+Other financial resources or assets (either inherited or otherwise)
+Inherited or otherwise-received financial resources and assets must be reported within 30 days of receipt.
+
+Adjustments are effective on the date of receipt of such assets and calculated up to the end of the income support entitlement period.
+
+Inherited or otherwise-received financial resources and assets that are received in a lump-sum or in irregular instalments, may be treated as personal assets for the purposes of calculating RAP benefits. Learn more through the Pro-rating and personal assets instructions.
+
+Sponsor contributions
+Privately Sponsored refugees (e.g. BVORs or other cost-sharing categories) who receive financial resources from their sponsor must report these contributions to IRCC. While sponsor contributions are encouraged, and generally complement the allowances provided under RAP, the value and purpose of these supplements must still be assessed by IRCC to ensure they align with RAP policies without impacting income support benefits.
+
+Entitlements that are considered monthly income support
+The following monthly entitlements should be considered as monthly income support for the purposes of calculating the 50% incentive threshold:
+
+shelter and basic living allowance amounts
+housing supplement
+Transportation allowances
+Communication allowance
+Monthly dietary allowances
+Other monthly allowances (such as age of majority allowance, or fuel supplement)
+One-time allowances should not be included in the calculations.
+
+Note: The 50% threshold is calculated from the total monthly amount the family would receive prior to any adjustments applied from previous overpayment amounts.
+
+For privately sponsored cases part of a cost-sharing arrangement, only the monthly entitlements provided by RAP as per above are used to calculate the base monthly income support amount for the purpose of determining the 50% incentive threshold.
+
+Determining net employment income
+For the purposes of calculating the 50% incentive threshold, the officer is to determine the net employment income which is the gross employment income minus all mandatory tax and payroll deductions.
+
+Child care expenses
+Clients can claim a child care expense deduction against their net employment income of up to $600 per month per child under the age of 12 (receipts required).
+
+Sample calculation
+Ahmed and Alima are parents of 3 children under the age of 12. Their monthly RAP income support entitlement is $1750. Both Ahmed and Alima work part-time. Their combined gross monthly income from employment is $2200. Their total mandatory payroll deductions amount to $450. Therefore their net income is $1750.
+
+Their neighbour provides child care 3 days a week when Ahmed and Alima’s shifts overlap for a total cost of $400 per month.
+
+The calculation below shows that Ahmed and Alima have earned $475 above their 50% threshold limit. As a result, their monthly RAP income support must be adjusted downwards to $1275.
+
+Step 1: Determining the 50% Threshold Amount
+Divide the client’s monthly RAP income support amount in half to arrive at the 50% threshold amount. The monthly amount used should only include allowances which are received on a monthly basis.
+
+All earned income received over this threshold, minus the child care expenses, if applicable, will be deducted on a dollar-for-dollar basis from the monthly RAP amount
+
+Monthly RAP amount: $1750
+50% of RAP amount: $875
+Step 2: Determining Additional Net Income
+If the source of additional income is paid employment, determine the client’s new employment income (e.g., total income from employment after mandatory payroll deductions are applied). For income sources other than paid employment (e.g., training allowances or student grants, etc.), only factor in the net amounts considered earned income and subject the 50% incentive threshold.
+
+Gross Employment Income: $2200
+Mandatory Payroll Deductions: -$450
+Net Income: $1750
+Step 3: Determining Chargeable Additional Income
+Where the income source is paid employment and where applicable, subtract the maximum allowable child care deductions from the total net income to arrive at the total chargeable income. Receipts for child care expenses must be supplied.
+
+Net Income: $1750
+Child Care Deduction: -$400
+Chargeable Income: $1350
+Step 4: Determining Earning Clawback
+Determine if the recipient earned income over the threshold amount by subtracting the threshold amount from the chargeable income. If the amount is positive, a reduction will be calculated in Step 5. If the amount is negative, no reduction is charged.
+
+Chargeable Income: $1350
+50% Threshold Amount: -$875
+Clawback Amount: $475
+Note: The amount cannot be less than $0, so if it is a negative value, there are no clawback deductions to RAP.
+Step 5: Determining Adjusted Monthly RAP Amount
+To arrive at the adjusted RAP payment, subtract the clawback amount from the total monthly RAP income support amount.
+
+Monthly RAP Amount: $1750
+Clawback Amount: -$475
+Adjusted RAP Amount: $1275
+Dependent adult children reaching age of majority
+Once the adult dependant child has been given their own file, the HOF’s employment income, if part of a separate income support file, is not considered for the purposes of the 50% additional income incentive threshold against the dependant adult’s RAP income support, and vice versa, even if they are living in the same household.
+
+Resettlement Assistance Program (RAP): One-Year Window of Opportunity and RAP income support
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Guidelines for RAP income support eligibility assessment
+Duration of RAP eligibility and proration of OYW payments
+Secondary Review of Calculation
+Issuing RAP income support
+The 50% additional income threshold and personal asset maximums for OYW cases
+One Year Window (OYW) move allowance
+Guidelines for RAP income support eligibility assessment
+RAP income support issued to One Year Window (OYW) arrivals is also subject to an eligibility assessment based on the total family income and assets undertaken by the local IRCC officer upon the family member(s)’ arrival in Canada.
+
+The income situation of the family must be considered when determining RAP income support eligibility. For example, the head of family (HOF) may be
+
+receiving RAP income support
+receiving provincial or territorial social assistance and no longer receiving RAP income support or
+employed and no longer receiving RAP income support
+The intent in all three scenarios is to calculate eligible benefits for the non-accompanying family member(s) (NAF) as if they had arrived as a family with the HOF, using current rates, ages, and financial situation of the whole family into consideration.
+
+Age of majority
+Dependent children who have reached the age of majority at the time of arrival in Canada are treated as individual RAP clients rather than as part of a family unit and their benefits may be calculated accordingly, using single rates.
+
+The age of majority is defined by statute in each province and territory and is either 18 or 19 years of age.
+
+Duration of RAP eligibility and proration of OYW payments
+Non-accompanying family members (NAF) remain eligible to receive RAP income support for up to a maximum of 12 months from their date of arrival in Canada.
+
+When it comes to issuing the first and last months’ monthly allowances, Officers will have the option to either pro-rate these months, similar to all new arrivals, or to use the full monthly amount as generated in the OYW calculator, and apply 12 equal payments. If the officer chooses not to pro-rate, they must keep in mind that only 12 monthly payments can be made (as opposed to 13 when prorating the first and last months), therefore first and last actual payments may not align with the commitment start and end dates in GCMS. RAP officers may create these payments to commence on the 1st of the month, as follows: starting on the 1st of the arrival month if they arrive on or before the 15th and the 1st of the following month of arrival if they arrive on the 16th or later, and continuing for twelve subsequent full months, without a pro-rated end month. GCMS commitment start and end dates, as well as dates on the RAP Agreement, should still reflect the date of arrival in Canada.
+
+Proration is required for overage child dependents’ files and in all instances where the OYW arrival does not directly move in with their family upon arrival for whatever reason (i.e. they stay in temporary accommodations). In those instances, the first payment will need to be adjusted based on the date of move-out, and the end date for final payment is prorated to one day before the anniversary of their arrival in Canada, as with all other GAR arrivals.
+
+For consistency, once the monthly amount is determined using the OYW calculator tool, the pro-rated amount is calculated using the national standard formula for pro-rating a daily amount (amount x 12 / 365 days) to arrive at the prorated daily amount.
+
+In addition to income support, non-accompanying family members are entitled to all RAP and settlement SPO services. While the assumption is that they will reside with the HOF upon arrival in Canada, they may still be eligible to stay in temporary accommodations if they are over the age of majority or accompanied by an adult and require the use of the temporary accommodation facilities while suitable accommodation for the whole family is being found.
+
+When a NAF of a previously sponsored JAS client is being processed, the local office will review the overall needs of the family once they have arrived in order to determine what level of supports are required, for instance whether a JAS continues to be in the best interest of the family. The resettlement program delivery instructions on the OYW program can provide more information about dependents of JAS clients arriving under the OYW program.
+
+Secondary review of calculation
+Given the variables and situational dependency of OYW income support, an automation in GCMS is not a viable option at this time. Officers can use an Excel-based OYW calculation tool to assist with OYW calculations and ensure a secondary review of the calculation is conducted and documented prior to section 32 approvals. Once finalized, the calculation sheet should be uploaded to GCMS as supporting documentation on calculations for OYW applications created in GCMS.
+
+Issuing RAP income support
+The IRCC RAP Officer will meet with the HOF and the OYW family member(s) either
+
+at the SPO or the local IRCC office
+by proxy via the SPO, per the usual intake interview procedures
+A separate RAP application should be created for the new incoming dependants in GCMS when they arrive, and the HOF added as a party ID to the “clients & parties” tab of the new file, so that payments can be directed to the HOF’s vendor for the payments on behalf of the dependants on the new file. If the HOF is no longer receiving RAP income support, their vendor can still be used by associating the file with a Party ID, or depending on circumstance, the RAP officer can create a separate vendor for adult-aged dependants such as a spouse or partner or dependant children who have reached the age of majority.
+
+For files containing only minor dependants on a RAP application, the RAP Agreement populated in GCMS cannot be used since the parent or guardian names need to be present on the form. The RAP officer can modify the RAP Agreement or use the Hybrid RAP agreement to manually enter parental or guardian names on the form.
+
+If the HOF is receiving provincial social assistance, the RAP officer can provide a letter to the HOF identifying the amount of assistance being received by non- accompanying family member(s) under RAP and must counsel the HOF to present this letter to their provincial social assistance counsellor.
+
+Start-up and monthly entitlements, such as food and incidentals, shelter (including housing supplement), transportation, and communication allowance for the incoming dependants are calculated by using the following formula:
+
+Step 1: Determine how much the entire family (HOF and any dependant family members who accompanied the HOF initially plus the new NAF arrivals) would have received based on current rates, if they had all arrived today = (A)
+Step 2: Determine how much the original arrivals would have received based on current rates = (B)
+Step 3: Calculate the difference by subtracting A-B.
+For any overlap period where the HOF is still receiving income support, RAP benefits paid to the HOF for their file and for that of the NAF portion should equal (A), the total family unit rate (i.e., the HOF and the non-accompanying family members).
+
+When it comes to furniture items, if the provision is provided in cash, the above formula will apply. If items in the region are typically provided through a standing offer arrangement, additional orders should be considered on a case by case basis, in order to avoid duplicates or redundant items. Likewise, the family may have new needs (such as a larger kitchen set or additional seating requirements), which may need special assessment by IRCC. Linen allowance should also be provided to the NAFs if the clients were not issued linens by the SPO.
+
+Special allowances (Maternity, Newborn and Special Diet allowances, etc.)
+Each eligible non-accompanying family member is entitled as per the instructions in RAP allowances.
+
+The 50% additional household income incentive threshold and Personal asset maximums for OYW cases
+OYW cases will complete the Declaration of Funds and Assets form upon arrival to report any personal assets which themselves or other members of the family have in their possession, which may affect their level of income support, according to the Maximum Allotment for Personal Assets table. Previously reported and recorded personal assets of the original family members at their time of arrival will not need to be factored into the new calculation, however the personal assets of all family members should be included if there are any new assets to report at this time. If the family obtains any assets in the future, they are required to report their change in financial situation to IRCC through a Change of Status form.
+
+In cases when the HOF, or any other family member, is employed or receiving additional income, the 50% additional household income incentive will also need to be applied. It is recommended to conduct these calculations outside the GCMS system by using the OYW tool for employment calculations, as the OYW tool will properly factor in the total family size when establishing the threshold.
+
+The 50% additional household income incentive threshold will continue to apply based on the would-be monthly entitlement of the whole family unit, had they arrived together, based on current rates, and include the housing supplement. Any deductions to be made, after the 50% additional household income incentive threshold has been calculated, are to be taken from the non-accompanying family member(s)’ RAP income support amount.
+
+Since OYW payments may be small, sometimes that month’s payment may be deducted up to zero, however threshold balances are not carried over to a following month.
+
+For each month where there are earnings, the calculation can be refreshed and done in the same way using the OYW calculator tool. Keep in mind that previous months’ clawbacks are not factored into the threshold, therefore the full base amount is used each month to calculate the threshold.
+
+Note: dependent children reaching age of majority are given their own file and their earnings are applied against their RAP allowances only.
+
+The formula to be applied is the following:
+
+OYW entitlement amount (found in step 3 above) minus (any employment earnings found to be over the 50% threshold)
+Example
+If a GAR arrived previously (but has a spouse and child which are non-accompanying), is no longer on RAP and is currently employed (earning $1000 per month), and the non-accompanying family members are now arriving, their income support entitlements should be calculated as follows:
+
+Step 1: Calculate what the family as a whole would have received based on current rates.
+in this example, the family as a whole may have received $1291
+Step 2: Calculate how much the original arrivals would have received based on current rates
+in this example, the HOF had previously received $695 monthly, but there was a rate change since then, so the amount the HOF would have received based on current rates is $704 monthly – this is the amount to be used as step 2.
+Step 3: Calculate the non-accompanying family members’ monthly RAP payments by subtracting the amount in step 1 by the amount in step 2. The non-accompanying family members’ monthly RAP payments are therefore ($1291- $704) = $587 before any income deductions are applied
+the “OYW entitlement” is therefore $587
+Step 4: Use the entire family unit amount ($1291) to calculate the 50% additional household income threshold deductions
+in this scenario, the 50% additional income threshold is $645.50
+Step 5: Apply the 50% rule to the household income earned
+any employment earnings over $645.50 will be deducted dollar for dollar from the “OYW Entitlement” amount
+if employment earnings are not over the 50% threshold ($645.50), then there will be no deductions to the “OYW entitlement” amount
+In this scenario, the household income is $1000. Therefore, the deductions are made dollar-for-dollar for every dollar earned exceeding $645.50. The total amount of deductions is $354.50.
+
+The total amount paid to this family in this month is calculated by applying the income deductions ($354.50) to the OYW entitlement amount ($587). Therefore the total amount paid to this family for this month is $232.50.
+
+Adult children (age of majority) as individual RAP clients
+Monthly entitlements for adult children who have reached the age of majority should be calculated accordingly as single adults, using single rates once they reach the age of majority, commencing on the first of the next month after their birthday. The entitlement for shelter will be based on their confirmed share of the actual costs up to the maximum allowance if the adult child resides with the HOF, which can be discussed at intake interview or reported to IRCC through a change of status reports if it changes throughout the year.
+
+The 50% additional income incentive threshold will apply to the dependent adult’s RAP income support should they receive additional funds (e.g., start working) while on RAP, and the threshold calculation will be based on maximum amounts, including maximum shelter and housing supplement. Once the adult dependant child has been given their own file, the HOF’s employment income, is not considered for the purposes of the 50% additional income incentive threshold against the dependant adult’s RAP income support, and vice versa, even if they are living in the same household.
+
+One Year Window (OYW) move Allowance (G/L 59007)
+When a HOF is required to move to larger accommodation due to the arrival of a non-accompanying family member(s), an allowance of up to a maximum of $500 per family unit may be provided on a case-by-case and one-time basis only, These costs are requested through the exceptional allowance request process. Costs may include the following:
+
+penalty costs related to breaking of lease for initial accommodation (note: HOFs should be counselled to begin seeking larger accommodation as soon as they become aware that applications have been submitted by their non-accompanying family member(s) abroad)
+moving costs.
+
+Resettlement Assistance Program (RAP): Income support management: Monitoring
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Client support monitoring
+Reporting information
+The Refugee Resettlement Program Performance Information Profile (PIP)
+Client support monitoring
+If a RAP officer finds it necessary to follow up with a client after a reported incident or allegation, or where additional settlement needs above-and-beyond the typical suite of RAP services are necessary, the officer may wish to complete a client support monitoring report to identify where possible courses of action could benefit the situation.
+
+Refer to a sample of the client monitoring report.
+
+The information below identifies sections on the client monitoring report that can be removed or added to cultivate the information required to facilitate a recommended course of action on the case.
+
+Participation:
+What is the level of participation in the range of services provided?
+Trends:
+Are there trends that suggest a follow-up with RAP or other community-based SPOs are required?
+Are there trends that indicate the need for a review of program policy or operations?
+Services:
+Are there certain services of which clients do not usually avail themselves?
+Is there any consistent reason provided for this pattern?
+What services are viewed as the most beneficial?
+What services are viewed as the least beneficial?
+What service gaps are identified?
+Are alternate service delivery methods suggested for specific services?
+Referrals:
+To which broader-based services are refugees most often referred?
+Do refugees follow up on the referrals made?
+If not, is there a consistent reason that can be identified?
+What is the experience of those refugees who follow-up on referrals?
+Issues:
+Are there settlement issues that are gender specific?
+Are there health issues identified for any particular group from particular world areas?
+Are there settlement issues specific to a particular refugee group?
+Reporting information
+Serious situations involving legal offences need to be referred to the IRCC local Manager and NHQ-IN-ROD for concurrence on a recommended approach to the situation.
+
+To report offences such as child abuse is to follow established provincial and territorial guidelines and legal requirements.
+
+Learn about courses of action to take against Fraud.
+
+The Refugee Resettlement Program Performance Information Profile (PIP)
+The Refugee Resettlement Program Performance Information Profile (PIP) is a strategy to assist IRCC in monitoring and assessing outcomes of six distinct sub-program streams within Refugee Resettlement including RAP.
+
+The Refugee Resettlement PIP contains a logic model, on-going performance measurement (PM) indicators measuring expected immediate, intermediate and ultimate outcomes and a reporting schedule for the overarching Refugee Resettlement Program which includes RAP as one of its sub-programs. The PM indicators specifically relevant to RAP include the number of clients served by RAP services, the extent to which RAP services were useful and accessible, and the extent to which stakeholders (IRCC, Service Providers, RAP clients) report that the immediate and essential needs of RAP clients were met. PM information will be collected through iCARE, IRCC’s Global Case Management System (GCMS) and through a combination of surveys with Refugee Resettlement Program stakeholders to be administered by the Department.
+
+Resettlement Assistance Program (RAP): Income support management: Separated minors
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+Where the principal applicant is accompanied by a separated minor who is a de facto dependant, the migration officer will have confirmed that there is a bona fide de facto dependent relationship between the PA and the separated minor.
+
+For cases involving de facto dependants, the migration office will have the PA sign the Acknowledgment of Responsible Adult Form indicating that they understand their responsibilities as guardian of the minor.
+
+The supervisor or manager of the local office will ensure that provincial requirements regarding guardianship are met by referring the family to the provincial or municipal child welfare agency.
+
+If a separated minor is joining a blood relative already in Canada, the family member, as the designated guardian of the child, must also sign a modified RAP agreement to receive income support on their behalf.
+
+Separated minors are not automatically eligible for financial assistance under RAP. Rather, an eligibility assessment based on the total family income and assets must be undertaken by the local IRCC officer upon the minor’s arrival in Canada. The level of their RAP benefits should be determined in the same way as non-accompanying family members under the OYW program.
+
+Local IRCC responsibilities
+Refer to IRCC’s guardianship protocol and legal guardianship process, including contact information for the authorities responsible for youth protection, in the province where the PA and minor will reside.
+For a consanguineous minor joining a relative in Canada, contact the relative to confirm that they understand their responsibilities as guardian of the child once in Canada. Make sure the relative understands that as guardian they will be responsible for the care and protection of the minor until the minor reaches the age of majority in the province in which they reside. Encourage them to secure legal guardianship, letting them know that the RAP officer will be in touch to provide information on how to initiate that process once the child arrives in Canada.
+Where necessary, have the relative sign the Immigration Loan form.
+Inform the RAP SPO that a consanguineous minor or de facto dependant will be arriving in the province. Provide the RAP SPO with the necessary guardianship information for use during the orientation.
+Inform the provincial director of child welfare if a separated minor or a minor who will be resettled with a family member in their province is arriving. Make sure to specify if any concerns for the child’s safety have been raised.
+For a consanguineous minor, inform the ROCO and the migration office to proceed with the case, once the blood relative has been contacted
+Arrival of the minor: RAP SPO
+Once the PA and/or the minor have arrived, the RAP SPO will do the following:
+
+Remind the PA or relative of their guardianship responsibilities until the minor reaches the age of majority in that province.
+Provide the necessary RAP and guardianship information and encourage them to start the legal guardianship process for that province.
+Monitoring or tracking of separated minors: local IRCC
+The local IRCC will conduct a monitoring interview with 100% of the cases within 7 months after their arrival. This will include a reminder to the PA or relative of the importance in following through with the guardianship process. Where necessary, the local IRCC will re-supply the PA or relative with the guardianship information and encourage the PA or relative to start the process to obtain legal guardianship.
+If there are any concerns regarding the safety of the child, the local IRCC should check the Internet for information on how to report abuse in that province.
+The Settlement worker should be made aware of the guardianship issues related to the family and should reinforce the importance of initiating the guardianship process.
+
+Resettlement Assistance Program (RAP): Income support management: Overpayment
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Overpayment
+Courses of action
+Fraud
+Referring the case to authorities
+Misrepresentation
+Overpayment
+An overpayment occurs when a client receives income support to which they are not entitled. The cause may be an oversight by the IRCC officer or a lack of understanding on the part of the client when providing information to determine eligibility under RAP. Once an overpayment amount has been identified, it must be repaid as a debt owing. Neither RAP officers nor supervisor/managers have the authority to reduce the total overpayment amount owed to IRCC.
+
+Examples of overpayment
+A calculation error occurs in processing either the initial or the monthly payment, either due to error on the part of IRCC, or due to client error in omitting information.
+An individual leaves Canada, but income support is still being collected by or on behalf of this person.
+Additional assets are brought into the country after the client’s initial arrival in Canada or not declared upon arrival.
+There is a delay in reporting the amount of employment income to IRCC and subsequent ineligible RAP payments have been made due to lack of information. Refer to 50% additional income incentive threshold for information on calculating adjustments based on employment and other income.
+Courses of action
+Once an overpayment has been identified, the RAP officer will summarize their findings and calculation, generally by email, for supervisor/manager approval. The approval email will also be stored on file under incoming correspondence to document supervisor/manager’s approval of the calculated amounts, the details of the circumstance and the actions taken to the income support file. Details should include:
+
+the total amount of the overpayment
+a breakdown of the amount
+circumstances that led to the initial overpayment
+actions to rectify the situation moving forwards
+amount of the overpayment in relation to the client’s remaining monthly budget
+flag any potential financial hardship to the client during repayment for consideration and recommended actions
+Calculation showing how the full amount will be clawed back, either through income support or A/R or a combination of both
+Note: A potential financial hardship would not lead to a reduction of the total overpayment amount once an overpayment has been identified, but will factor into possible actions to be taken, such as determining a monthly reduction amount to future payments remaining.
+
+Possible actions that can be taken to rectify an overpayment situation include:
+
+making deductions from future monthly income support payments (only possible if the client is still on the RAP program)
+filling out an Account Receivable Establishment form and sending it to NHQ- Collections
+RAP officers are required to send a letter to the client to outline the amount of overpayment and course of action to be taken. A copy of the letter should also be placed on the client file under outgoing correspondence.
+
+Time limit
+There is no time limit on recovering overpayment funds. Even if a client is off RAP, the overpayment must be collected. Only NHQ-Collections can determine if a debt can be written off once an accounts receivable has been created.
+
+Fraud
+Cases of fraud are situations where a client has intentionally provided false or misleading information in order to obtain income support. Fraud exists if blatant misrepresentation of facts by the client has led to the issuance of income support to which the client would not have normally been entitled. Where fraud is suspected, the officer should give the refugee the opportunity to explain the situation.
+
+To minimize the possibility of fraud or abuse of the program, RAP officers must do the following:
+
+ensure the client understands the responsibilities under the RAP agreement for income support
+advise the client, at the outset, of their obligations to report, using the Change of Status Form, any earnings and assets
+verify information provided by clients or other sources, such as the amount of employment earnings with the employers, or information received from other sources with regards to overpayment or fraud
+offices may wish to perform periodic file reviews, or monitoring activities.
+Examples of fraud
+The client works full or part-time in continuing employment and purposely does not disclose this fact while in receipt of full income support.
+The client receives financial assistance in other cities under different names and addresses.
+The client falsely declares or fails to declare assets brought into the country upon entry to Canada.
+The client claims that a cheque was lost, stolen or never received and it was in fact cashed by them.
+Clients do not report a change in status in an attempt to receive more income support than they are entitled to.
+Referring the case to authorities
+Since RAP is a federal program, serious allegations may need to be referred to the RCMP.
+
+When serious circumstances are identified that may require investigation by the RCMP, the RAP officer should brief their supervisor/manager to determine next steps, including a referral of the case to the Case Management Branch for their guidance, and possible action.
+
+Misrepresentation
+When information is received that clients in receipt of income support may have misrepresented who they are prior to arrival, the case should be referred to the RAP manager or supervisor for further investigation regarding misrepresentation and recommendations including possible referral to the CBSA. For more information see Cessation and vacation of refugee protection
+
+It may be necessary to continue to provide RAP support, subject to a review of the client’s situation and their ability to support themselves and their family.
+
+Resettlement Assistance Program (RAP): Income support management: Change of status (reassessments)
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+A reassessment of a client’s need for support is necessary every time there is a change in the situation of the client. The client should report any changes on a Change of Status Form and either forward it directly or via the SPO to the local IRCC office.
+
+On this page
+Reasons for reassessment
+Change of address or telephone number
+Change of employment status
+Dependant reaches age of majority
+Separation or divorce
+Death of a client
+Incarceration
+Hospitalization
+Travel outside of province of residence or Canada
+Voluntary repatriation
+Travel to home country or country of asylum
+Reasons for reassessment
+Possible reasons for reassessment include the following:
+
+change of address, including contact information
+change of lease amount, including increase in utilities
+name change
+employment or change of employment
+receipt of funds for training or school
+pregnancy, termination, or birth of a child
+dependant reaches age of majority
+arrival of dependants (e.g. One-Year Window (OYW))
+marriage
+separation or divorce
+death
+incarceration
+hospitalization
+gifts from relatives
+travel outside of province of residence or Canada
+repatriation
+The reassessment enables the RAP officer to determine if income support
+
+is still required
+should be reduced
+should be increased or
+should be discontinued
+In all cases, changes such as increases, refusal, discontinuation or reduction of income support to a client should be carefully considered, reviewed, well documented and explained to the client.
+
+Change of address or telephone number
+Local IRCC office must update client address in GCMS, in SAP, and in the physical file. It is the responsibility of the loan recipient to advise Collection Services by phone or in writing within 10 days of any change of address. The local IRCC office should also notify IRCC Collection Services if they are proactively aware that the clients will be leaving the country, so that guidance can be given if the client is still owing a balance.
+
+Change of employment status
+A client who finds employment, changes employer or loses their job, must complete a Change of Status form and return it to the local IRCC office.
+
+If the client’s new income level is reduced or increased beyond the 50% employment incentive threshold, changes must be made to their income support.
+
+Learn how to apply the 50% employment incentive threshold.
+
+Dependant reaches age of majority
+If a dependant reaches the age of majority as defined in the province/territory of residence while still on RAP , the local IRCC officer will create a separate file for that dependant starting on the 1st of the next month after their birthday. Monthly entitlements for dependent adult children should be calculated accordingly as single adults, using single rates once they reach the age of majority, commencing on the first of the next month after their birthday. The entitlement for shelter will be based on their confirmed share of the actual housing costs up to the maximum allowance if the adult child resides with the HOF, and based on actual costs per their lease agreement if they reside on their own. Any special age of majority top-up allowances issued to 18 year olds in eligible provinces will terminate once they receive adult rates.
+
+In some cases, payments for the adult dependant child’s file can continue to be issued under the vendor of the HOF, or another person, such as a guardian, or a financial trustee in the case of a mentally incompetent adult. Some factors that can be considered if the family wishes for the HOF to receive the RAP payments on behalf of the adult dependant child, include the following:
+
+family wishes, including cultural considerations
+Mental or physical health capacity of the dependent child who has reached age of majority
+impacts with other government departments, such as the Canada Revenue Agency
+Separation or divorce
+When a RAP officer becomes aware that a marriage breakdown has occurred, clients should be given the opportunity to provide any information which may affect their ongoing income support. A declaration (such as a signed letter, or statutory declaration) and Change of Status Form should be signed by both clients to confirm that the information in the declaration is mutual and being accurately reported to IRCC. In cases where a signature is difficult to obtain from one of the parties, the RAP officer should work with the SPO to understand the situation, or have documents signed separately.
+
+Income support may be given separately to both parties for the remaining duration of their commitment, if they confirm in writing (such as through a statutory declaration or signed letter) that a separation has occurred and that they are living in separate dwellings, and submit proof of residency, such as a lease. For clients fleeing or residing in a shelter, or where a lease is not available, these situations should be assessed and handled on a case by case basis with the approval of a supervisor/manager or consultation with NHQ IN-ROD, as needed, on income support issued in those scenarios. The spouse who is being removed from the RAP-IS application should be disassociated accordingly, along with any dependents joining their file, where applicable. A new RAP application and vendor for the disassociated spouse would then be created in GCMS, generally starting on the 1st of the month following their separation, but details should be reviewed and treated on a case by case basis due to variables in spousal separations. The spouse for whom a new RAP application is being created would need to sign a new Agreement for Income Support reflecting the new commitment period. The original RAP agreement which was signed can remain valid for the original HOF’s continuation of support for the remainder of their commitment period indicated on the Agreement.
+
+If there are children, the parents should report to IRCC their living arrangements for the sake of calculating RAP benefits, which should align with information provided to other departments or ministries such as the CRA for the purposes of Canada Child Benefit, or school boards for school enrolment.
+
+Household effects and furniture items from the original home should be divided between the separated partners, whenever possible.
+
+An additional start-up payment for certain allowances may be issued in situations where a client lacks the necessary furnishings and household goods following the division of assets.
+
+Death of a client
+Family needs should be re-evaluated and adjusted on a case-by-case basis, within 90 days of the death of the HOF or a dependent family member on a forward-only basis. It is recommended that retroactive clawbacks be avoided out of compassion for the surviving relatives.
+
+If the client had an active loan, copies of the death certificate and the immigration loan warrant number should be sent to the Chief of Revenue Accounting, NHQ. The address is listed on the back of the loans form.
+
+See Allowances for guidance on funeral or burial expenses.
+
+When the local office is notified of a death of a client, they may upload the death certificate into GCMS and send a request to the Operations Support Centre (NHQ) to update the status of the client in GCMS.
+
+Incarceration
+When a HOF or dependent family member is incarcerated, a reassessment of the remaining family members’ income support needs may be required, in light of ongoing costs such as lease agreements, and benefits for the remainder of the family.
+
+If a single client is to be incarcerated, a re-assessment of their RAP benefits should occur, in consideration of the length of time of their expected incarceration. Consultation with NHQ-IN-ROD may be required, as these cases should be considered on a case-by-case basis.
+
+If a client’s income support was discontinued and they are released prior to the end of their RAP eligibility period, and they require financial assistance, eligibility should be re-assessed.
+
+Hospitalization
+Clients entering a hospital do not automatically become ineligible for assistance. However, for clients who must remain in a hospital for a prolonged period of time (two weeks or longer), a reassessment of income support needs may be required, recognizing however that clients who are hospitalized will likely still have rental payments and other ongoing costs to be made.
+
+The RAP officer will determine whether or not the rate of assistance is to be affected, based on factors such as
+
+the length of the anticipated hospital stay
+the number of members in household
+the amount of assistance
+ongoing lease and rental obligations
+Travel outside of province of residence or Canada
+The intent of RAP is to provide support for clients as they settle into their new country or province. If the client notifies the officer of their intent to travel, an inquiry must be made as to where they will travel, for how long and their financial assets to travel. This inquiry is meant more for extended travel circumstances or those where the client is leaving Canada.
+
+The RAP Agreement for Income Support explains the need for clients to report their planned absence to IRCC. If it is found they have received assistance while they were not eligible due to their absence, that assistance could be deemed to be a repayable debt to IRCC.
+
+Voluntary repatriation
+Voluntary repatriation is when a protected person – including resettled refugees – voluntarily chooses to return and become re-established in their country of origin or former habitual residence. Refugees should be counselled of any implications should they wish to re-establish themselves overseas. For more information, see cessation and vacation in the resettlement context.
+
+In the context of RAP, clients who choose voluntary repatriation are no longer eligible for RAP income assistance or services and should notify their RAP Officer prior to leaving Canada if they intend to move home to their country of origin or habitual residence.
+
+Travel to home country or country of asylum
+For personal reasons such as attending to family matters, refugees receiving RAP income support might want to travel back to their country of origin or former habitual residence. This is not the same as voluntary repatriation, however refugees should be counselled that any temporary return may have implications for their support under RAP, and their immigration status if they ultimately decide to re-establish (see voluntary repatriation section, above).
+
+Resettlement Assistance Program (RAP): Income support management: Financial commitments and forecasts
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Financial commitments and forecasts
+File preparation
+Storage and Retention
+Financial commitments and forecasts
+Up-to-date information on RAP must be maintained by the local or regional office concerning commitment expenditures and forecasts. This allows NHQ-Finance to determine if the funds allocated to this program are sufficient or if additional funds must be found.
+
+RAP officers should enter and forecast a commitment for each client as close as possible to actual anticipated costs. Commitments should be updated monthly to correspond with any changes in client situation that may affect their entitlement.
+
+RAP officers and supervisors should avoid:
+
+over-commitment that results in excess slippage at the end of the year or
+under-commitment that results in lack of budget control
+File preparation
+Local IRCC officers must ensure that all income support files are properly processed and documented.
+
+A file for each RAP client must be created for audit purposes, for more information on what documents should be kept in the RAP file, consult the Storage and Retention Map for RAP-IS.
+
+Immigration Documents that can be found in GCMS do not need to be collected by RAP staff. Electronic versions of these documents can be found under the REF-OVS application (G#) in GCMS, therefore these documents should not be printed or copied to the RAP-IS Application (IS#):
+
+Confirmation of Permanent Residence (COPR)
+Interim Federal Health (IFH)
+Immigration Loans Program - Transportation Loan (ILP)
+Temporary resident permit (TRP)
+Single Journey Travel Document (SJTD)
+Destination Matching Request (DMR)
+Notification of Arrival Transmission (NAT)
+In addition to the immigration documents, RAP program staff should not retain information related to the clients SIN (after entry into SAP) or Direct Deposit information.
+
+Storage and Retention
+When the local office receives documentation as part of the RAP-IS file management or client care, it should generally be uploaded in GCMS within the client’s RAP-IS file for reference. It is recommended that all documentation should be submitted electronically to the RAP office so that the documents are born digital and can continue to be retained digitally. If there are any instances where documents are received by the local office in paper copy format (either by mail or in person from SPOs, sponsors, or clients), and are required as part of the file or for decision-making, then the paper copies must be retained as originals, for the duration of the retention period, if not properly digitized. The original copy format is defined as the format in which it was first received at IRCC. If received by the local office in an electronic format (email), the email as well as the attached document should be stored electronically in GCMS within the client’s RAP-IS file, or in GCDOCS under the standardized naming convention protocol for RAP-IS.
+
+Storage of physical documents can be done at the local office, or they may be shipped to IM-Operations to manage once the files are considered dormant, to alleviate space pressure at the local offices. If documents are being shipped to IM-Operations for storage, the accompanying listing of records should include all documents contained in the boxes. IM-Operations can provide further guidance on how to box and label these documents, if applicable.
+
+Resettlement Assistance Program (RAP): Income support management: Stolen, lost or never-received cheques or direct deposits
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Stolen, lost or never-received cheques or direct deposits
+Never-received direct deposit
+Stolen, lost or never-received cheques or direct deposits
+“Lost” or “never received” is not the same as “stolen”.
+
+When a client claims their income support payment was stolen, lost or never received, the IRCC RAP officer does the following:
+
+reviews the circumstances of the case
+requests a police report number if it is believed the cheque was stolen
+ensures the client signs an Undertaking and Indemnity PWGSC-TPSGC 535 (for cheques) or PWGSC-TPSGC 536 (for direct deposit) and forwards a copy to NPAS.
+Note: if the original form is not sent to NPAS, local offices are responsible to retain the document for a period of 6 years so that it can be provided to PSPC Cheque Redemption Control Directorate (CRCD) upon request.
+contacts the NPAS to initiate procedures with PSPC Cheque Redemption Control Directorate (CRCD) as they are the ones responsible for tracing and investigation.
+If the cheque is still in circulation
+Conditions permitting, NPAS will issue a duplicate payment. If the original cheque can be found, it must be returned to NPAS to be forwarded to CRCD in Matane, QC, for physical cancellation.
+
+If the direct deposit has not been deposited
+When a direct deposit is not received, the RAP officer must notify Vendors. An explanation may be found typically for the following reasons:
+
+Invalid bank account information was provided. The client should double-check banking information and confirm the correct information. Vendors will then make amendments to the client’s vendor account and re-issue the payment via direct deposit in the correct bank account.
+Closed bank account: follow the same steps as above.
+Note: any first payment made to a vendor, employee, RAP recipient, etc., over $5000 typically requires that a test payment be performed to validate the bank account information. However, exceptions are made to RAP clients.
+
+If the cheque has been redeemed or direct deposit has been deposited
+CRCD will initiate a tracing and/or an investigation
+in the interim, in exceptional circumstances, a second payment may be issued with RCM approval and rationale submitted to NPAS.
+If it is found that the client has benefited from the payment, any advanced or additional funds issued to the client as a result of the incident may later be collected by IRCC through an accounts receivable
+If it is found that the client has not benefited from the payment, a further investigation can be initiated by CRCD and a new payment may then be reissued to the client, if not already reissued.
+For all scenarios, consultation with NHQ-IN-ROD and NHQ-Finance should take place to ensure correct procedures with regards to commitment and payment re-issuance are followed.
+Possibility of fraud
+If the IRCC RAP officer believes the possibility of fraud exists, they should refer to Fraud.
+
+Never-received direct deposit
+When a direct deposit is not received, the RAP officer can notify NHQ-Finance to initiate investigation, or the Standard Payment System (SPS) will flag to NHQ-NPAS the payments which have not gone through. An explanation may be found typically for the following reasons:
+
+Invalid bank account information was provided. The recipient should double-check banking information and confirm the correct information. NHQ-finance will then make amendments to the recipient’s vendor account and re-issue payment via direct deposit in the correct bank account.
+Closed bank account: Follow the same steps as above.
+
+Resettlement Assistance Program (RAP): Income support management: Secondary migration and self-destination
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+On this page
+Secondary migration
+Instructions (GAR/JAS clients)
+Transferring the file and opening a new commitment under the new fund centre
+Effective date
+Continuation of services
+Secondary migration to or from Quebec
+JAS clients
+Secondary migration for BVORs
+RAP Services to BVORs
+Self-destination
+Secondary migration
+Secondary migration refers to a client-initiated change in destination (city or province) either while still in temporary accommodation or after they have moved into their permanent address, and before the end of their first year in Canada.
+
+In a situation of secondary migration, income support allowances provided to date need to be verified so that only the balance of RAP allowances is provided at the new destination, and not duplicated. Generally speaking, information on income support provided to date can be found in GCMS.
+
+For transfers coming to and from the province of Quebec, the RAP officer can liaise with MIFI.
+
+For BVOR cases, see below: Secondary Migration for BVORs
+
+Instructions (GAR/JAS clients)
+RAP income support payments issued from the original IRCC office/fund centre and rate city under the “Province/Territory” field should take into consideration the expected or actual date of arrival in the new city when determining an end date for payments from their centre, and issue the full payment to the end of that month. Accordingly, the resumption of payments from the new fund centre and/or the new rates do not need to be prorated to the date of the move, they can commence on the first of the following month from the move.
+In situations where the client relocates without informing IRCC or the SPO beforehand, the receiving IRCC office should contact the original IRCC local office (or MIFI if applicable) to ensure they are aware of the move
+A new RAP agreement does not need to be signed by the secondary migrant if the file is transferred to a new RAP office, as the original will still remain valid so long as all other client information on the document remains accurate.
+Transferring the file and opening a new commitment under the new fund centre
+If the file is being transferred, the originating local office will
+zero out the remaining commitment
+set the override amount to 0 and the rationale to Secondary Migration or “SM”
+The RAP officer will then send an email to the receiving IRCC office to advise of the secondary migration and provide the transfer ID number. It is important for the RAP officer to tag the file as a secondary migration under the “special circumstances” field before the transfer, as a tool for reporting.
+The receiving IRCC office will follow steps to receive the transfer and create a new commitment under the new fund centre using the information in GCMS and financial information from SAP.
+If the file is not being transferred (for instance if the same fund centre manages both locations), the officer will sill update the Rate Province/Territory field to adjust for the new rates, and tag the file as a secondary migration in the “special circumstances” field in the tombstone screen (if not already done so by the sending office).
+The receiving IRCC office will calculate the income support and applicable allowances, using the information in GCMS and financial information from SAP
+Effective date (GAR/JAS)
+While the date of the transfer of the file may correspond with the date which IRCC was informed of the move, the effective date of the new rates will be the 1st of the following month from the move date. If this date is in the past, and subsequent payments were made, a commitment adjustment should be made to account for the difference in rates that should have been allocated to the client since the 1st of the next month following their move. The officer can do so by setting the effective date of the new rate city by updating the Rate Province/Territory field in GCMS, even if it is a date in the past, and the system will automate any adjustments accordingly.
+The move date, new permanent address, and contact details, must also be confirmed and updated in GCMS and SAP by the receiving office.
+Continuation of services
+The originating RAP office will ask the originating RAP SPO to complete a Client Relocation form for GAR and JAS clients, detailing the RAP services provided to date. Once received, the originating RAP office will forward it to the receiving RAP office, who will upload it in the GCMS RAP-IS file under incoming correspondence. Based on the information found in the Client Relocation form, if any RAP services are still required, the local office will communicate this with the receiving community’s RAP SPO so that the client can receive the RAP services to which they are entitled.
+Resettlement services already received in the original destination typically would not be duplicated in the new community; only the balance of services not yet received (if applicable) should be provided by the new RAP SPO.
+Circumstances under which resettlement services would be duplicated include if the client:
+is relocating due to a destining error on the part of IRCC
+must relocate due to medical reasons
+is deemed to be particularly vulnerable, e.g. their security/safety could be at risk if left to find housing on their own or if placed in a local shelter (e.g. single woman with children, client with severe mental health issues, etc.)
+Approval for the duplication of resettlement services, including stays in temporary accommodation, should be obtained from a RAP Supervisor or Manager.
+Secondary migration to or from Quebec
+Where information is not accessible in GCMS, or where the client moved from Quebec , the receiving RAP office should try to obtain as many details as possible, such as the date of last payment, by contacting the MIFI secondary migration team. Upon relocation out of Quebec, clients may be eligible for any RAP allowances that have not yet been provided, such as start-up, if applicable.
+If the client is relocating to Quebec, a scanned copy of the Client Relocation form and an email indicating whether start-up (including furniture) was provided, the last period covered by RAP and a copy of the NAT should be sent to the MIFI secondary migration team.
+Secondary migrations to Quebec are the only time where a RAP officer should amend the overall commitment end date when zero-ing out the file. The commitment end date in this circumstance should reflect the last day under the last “paid month” on RAP-IS.
+For JAS cases
+The originating RAP officer should inform the Resettlement Services Assurance Team (RSAT) immediately so that they may reach out to the sponsor to ensure they are aware of the secondary migration, and to fulfill residency requirements, or to initiate sponsorship breakdown procedures. The RSAT are responsible for follow-up with sponsors regarding meeting residency requirements, and will advise the local RAP office if there are any further instructions regarding the JAS sponsorship.
+The IRCC office in the receiving community should ensure that client is linked to and receives a needs assessment from the new RAP SPO (if a balance of RAP services still need to be delivered) or Settlement SPO (if all RAP services have already been delivered) to ensure the client’s additional settlement needs are being met if there is no sponsor in the new community. They should share the initial JAS Roles and Responsibilities Checklist (IMM 5630) created for this case in correspondence with the new RAP or Settlement SPO, and the completed Client Relocation form so that the new RAP or Settlement SPO can address any needs accordingly.
+The local RAP office will work with the RAP or Settlement SPO and client to confirm whether or not there remains a need for JAS in their new location and if a new sponsor needs to be found, will inform the IN’s Resettlement Services Unit of a need for re-promotion for a new sponsor in the new location. IN’s Resettlement Services Unit will review for eligibility and forward the request to ROC-O for tracking and liaison with the Refugee Sponsorship Training Program (RSTP) to help promote and solicit the case to the sponsorship community.
+Secondary Migration of BVORs
+When a BVOR secondary migrates after arrival, RAP officers should notify the Resettlement Services Assurance Team (RSAT) so that they may reach out to the sponsor to fulfill residency requirements, or to initiate sponsorship breakdown procedures.
+
+The RSAT will work with the sponsor to determine whether the sponsorship can be continued (e.g., by assessing residency requirements for the secondary migration, to mediate between parties in a dispute situation, or to find a replacement sponsor). The RSAT will provide the original sponsor with the Transfer of BVOR Case to RAP form at the same time as they reach out to the sponsor with a letter to meet residency requirements, with 30 days to respond.
+
+If a new sponsor has been found and/or if the sponsorship is continuing:
+
+RSAT will send an email to provide the new sponsor (or new representatives) with the contact for the local RAP office in the new community and copy the RAP office to establish the connection so that the new sponsor (or new representative) can be in touch with the local office for any outstanding follow-up, if needed, and to arrange for an intake orientation, if deemed necessary by the local office.
+The new sponsors or representatives are to inform and connect the client with the settlement services available in the client’s new community.
+The Transfer of BVOR Case to RAP form does not need to be completed by the sponsor.
+In the event that the sponsor will no longer meet residency requirements, and the RSAT declares a sponsorship breakdown:
+
+If the sponsorship cannot continue, the RSAT will declare a breakdown and inform the local offices at both the original destination and new destination, along with providing the local office with the completed copy of the Transfer of BVOR Case to RAP form (filled out by the sponsor) and a copy of the breakdown letter so that the client’s needs can be assessed in the new location, including continuation of income support. The RSAT will have liaised with the local office to confirm SPO contact info and will include this contact information for the new Settlement or RAP SPO on the breakdown letter sent to the client.
+If the breakdown occurred during the period of RAP income support, local offices should follow secondary migration procedures to ensure all necessary information is communicated such as the date of the move, and the file is transferred, if applicable. The RAP officer managing the file in the new community will then extend the length of the commitment in GCMS by changing the commitment end date. The period of income support will continue up until their 12-month commitment period is over. The same action would apply if the breakdown occurs during month 1 or 2 (prior to the initial income support period), in addition to changing the commitment end date, the officer will also adjust the commitment start date accordingly to the date of the breakdown.
+If the breakdown occurs after the BVOR has already completed their 6-month commitment on RAP income support, the original office will re-open the RAP file and transfer the file, if applicable.
+The RAP officer in the community of new residence will then create new commitment under their fund centre with a new commitment start date effective on the date of the breakdown (as confirmed by the RSAT) and update the commitment in SAP so that income support may be provided based on the current and ongoing financial needs of the BVOR. The new commitment may include two pro-rated months:
+one at the beginning of the new commitment, pro-rated from the date of the date of the breakdown
+another at the end of their commitment, if the commitment ends within the last month.
+The system should automatically calculate these prorated months if the officer creates a new commitment as per above. If the system attempts to claw back any funds previously paid from the original commitment, the officer will need to zero-out any negative adjustments that the system will try to make which should not be applied.
+Note: For instances of secondary migration, until a breakdown is declared by the RSAT, the original sponsors are still responsible to support the client, and are also responsible to inform and connect the client with settlement services available in the client’s new community.
+
+The total commitment should not exceed the initial 12 month period of arrival in Canada, as the refugee should apply to provincial social assistance if financial support is still needed beyond their initial 12 month commitment.
+
+RAP Services for BVORs
+If, upon breakdown, the full complement of resettlement supports were not fully provided by the sponsor, and RAP services are needed, the local office will inform the RAP SPO in the new community and provide them with the Transfer of BVOR Case to RAP form to help the SPO in determining whether there are any RAP services which can be provided based on their need. Typically services already provided by the sponsor (such as temporary accommodations) should not be duplicated unless warranted due to exceptional circumstances and approved by the IRCC local office, in consultation with IN-ROD’s RAP functional guidance team , if needed. These considerations will also take into account temporary accommodation space, logistics (such as safety), and sufficient funds available in the RAP SPO’s CA to cover any related costs.
+
+The RSAT will communicate with the applicable local office(s) and inform them whether the refugees have been provided contact information to the nearest RAP or Settlement SPO for assistance with initiating (or the continuation of) RAP income support benefits and receiving the balance of RAP Services (if applicable).
+
+The local office should ensure that the RAP or Settlement SPO is aware of the BVOR referral so that they can facilitate the RAP income support intake with the client, as needed.
+
+In instances where the refugee has settled in a community without a RAP SPO, the local office will establish a similar process involving a suitable Settlement SPO and inform RSAT of the SPO’s contact information to be provided to the refugee, which will also be included on the breakdown letter sent to the client.
+
+Medical surveillance
+If the client has been selected to have medical surveillance, the receiving IRCC office should remind them that they are responsible for reporting to provincial or territorial health authorities as required.
+
+Self-destination
+Self-destined clients are those who choose to change their final destination upon their arrival at the Port of Entry (POE), before ever reaching the pre-arranged final destination. These clients will either choose to remain at the POE city, or go to a different destination in Canada. In the situation of self-destination, the POE airport SPO will do the following:
+
+Counsel the clients, and encourage them to continue to their pre-arranged final destination
+If the client still wishes to change his/her final destination, the POE SPO will inform all relevant parties as soon as possible – the concerned IRCC offices, and the RAP SPOs or sponsors, as well as ROC-O and IOM Ottawa.
+Have the client complete and sign the ‘Change of Destination Request Form’
+If the client’s chosen destination is not the POE city where he/she is already located, they will assist the client in arranging transportation to new destination, including assisting them to fill out the Immigration Loan form (IMM0500), if applicable
+The new receiving office will do the following:
+
+Inform the SPO of the unexpected arrival (if not done by the POE SPO)
+Connect with the RAP officer at the original destination, in order to transfer the RAP-IS file in GCMS, cancel or re-direct the initial payment cheque, if it was already created, and to de-commit the RAP funds for the client at the original destination, if applicable.
+If the cheque is to be cancelled, the receiving office will initiate a new initial payment cheque to be administered at the intake interview in the receiving city
+Initiate the intake interview and ensure services are delivered via the RAP SPO
+Establish the reason for the self-destination, in order to have the required information to appropriately support the client.
+Cancelling cheques: Occasionally there will be a no-show or a self-destination situation, or other reasons where the original office has already requested the initial cheque, and will no longer be providing it to the client. When cheques are not being delivered to clients, they should be returned to NPAS to cancel them. Arrival delays longer than 6 months should also be returned for cheque cancellation, especially if the period spans two calendar or fiscal years.
+
